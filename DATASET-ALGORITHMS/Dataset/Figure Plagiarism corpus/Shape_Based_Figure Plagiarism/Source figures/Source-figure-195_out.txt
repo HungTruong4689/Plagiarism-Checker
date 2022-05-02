@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ HOST COMPUTER ], coordinate = [ x = 23, y = 165, width = 181, height = 96 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ COMMUNICATION. CONTROLLER ], coordinate = [ x = 331, y = 163, width = 244, height = 97 ], link_type = [  ]

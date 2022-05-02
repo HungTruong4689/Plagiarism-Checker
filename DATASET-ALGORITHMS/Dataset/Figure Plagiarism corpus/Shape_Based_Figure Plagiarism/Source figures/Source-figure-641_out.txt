@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Create an empty list, RGN_LlST, to hold all text regions on the page. ], coordinate = [ x = 207, y = 29, width = 452, height = 135 ], link_type = [ Next_TB(1 : shape1)  ]
+Shape1 : type = [Rectangle], text = [ For each tile(containing text),T, in raster order ], coordinate = [ x = 325, y = 184, width = 215, height = 102 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Generate a Iist,PROB_RGN_LlST, of probable text regions that tile T might belong to. ], coordinate = [ x = 187, y = 319, width = 490, height = 144 ], link_type = [Next(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ is PFIOB_FIGN_LiST empty ], coordinate = [ x = 293, y = 537, width = 280, height = 148 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Create a new text region R_RGN ], coordinate = [ x = 662, y = 553, width = 180, height = 114 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Merge a the Text regions in PROB_RGN_LlST into one region R RGN ], coordinate = [ x = 253, y = 743, width = 360, height = 96 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Add T to R_RGN and add R_RGN to FIGN_L|ST ], coordinate = [ x = 270, y = 925, width = 326, height = 117 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Next tile ], coordinate = [ x = 335, y = 1092, width = 195, height = 89 ], link_type = [  ]

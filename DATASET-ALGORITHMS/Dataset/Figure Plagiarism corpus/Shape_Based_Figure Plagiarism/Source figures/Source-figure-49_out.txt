@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Determine frequency of common terms for each pair of sub-  collections  ], coordinate = [ x = 61, y = 24, width = 233, height = 158 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine identity of linking sub-collections between pairs having no common terms ], coordinate = [ x = 56, y = 262, width = 234, height = 158 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Select strongest linking Isub-collection ], coordinate = [ x = 56, y = 499, width = 235, height = 157 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Develop similarity graph network ], coordinate = [ x = 59, y = 735, width = 233, height = 157 ], link_type = [  ]

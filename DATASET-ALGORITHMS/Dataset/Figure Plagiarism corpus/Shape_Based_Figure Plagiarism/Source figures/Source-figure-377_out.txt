@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Iniairszlion of object and background Voxies and current Label], coordinate = [ x = 58, y = 8, width = 231, height = 69 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Image scanning of the  binary volume b(x,y,z)], coordinate = [ x = 59, y = 137, width = 231, height = 70 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ label object componets  using enhanced recursion ], coordinate = [ x = 61, y = 261, width = 231, height = 70 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ uploading current label for next-unmarked abject voxel ], coordinate = [ x = 62, y = 385, width = 232, height = 69 ], link_type = [  ]

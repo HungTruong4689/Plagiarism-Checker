@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ CREATE PIXELINTENSITY HISTOGRAM ], coordinate = [ x = 251, y = 373, width = 497, height = 133 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ IDENTIFY TYPE OF HISTOGRAM ], coordinate = [ x = 330, y = 660, width = 341, height = 132 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ ANALYZE HISTOG RAM TO DETERMINE A THRESHOLD ], coordinate = [ x = 218, y = 945, width = 567, height = 131 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ USE THRESHOLD TO SEPARATE FOR EGROUND AND BACKGROUND ], coordinate = [ x = 227, y = 1231, width = 550, height = 181 ], link_type = [  ]

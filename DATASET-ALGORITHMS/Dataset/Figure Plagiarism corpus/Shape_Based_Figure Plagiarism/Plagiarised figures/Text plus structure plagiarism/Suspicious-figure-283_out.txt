@@ -1,0 +1,7 @@
+Shape0 : type = [SQUARE], text = [ Request to establishTLS connectxon ], coordinate = [ x = 94, y = 4, width = 113, height = 123 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ sap reaction with Hi message ], coordinate = [ x = 93, y = 148, width = 103, height = 113 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ us key exchange and validation ], coordinate = [ x = 94, y = 287, width = 113, height = 123 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ Establish TLS ssession ], coordinate = [ x = 93, y = 432, width = 112, height = 123 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [SQUARE], text = [ Receipt and decryptiun of HTTP request], coordinate = [ x = 91, y = 580, width = 112, height = 123 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [SQUARE], text = [ srp check local cache ], coordinate = [ x = 109, y = 725, width = 84, height = 94 ], link_type = [ Line(1 : shape6) ]
+Shape6 : type = [SQUARE], text = [ for ward request to web server not cached ], coordinate = [ x = 97, y = 856, width = 93, height = 103 ], link_type = [  ]

@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Visitor clincks bug], coordinate = [ x = 162, y = 12, width = 97, height = 83 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ HTTP request recieved ], coordinate = [ x = 150, y = 137, width = 121, height = 82 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Convert IP of referring URL], coordinate = [ x = 150, y = 260, width = 121, height = 83 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ Address of Customs?S608 ], coordinate = [ x = 127, y = 385, width = 167, height = 130 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Display non Confirmation Screen ], coordinate = [ x = 348, y = 396, width = 109, height = 107 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Compute Current  Status ], coordinate = [ x = 149, y = 557, width = 122, height = 82 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Display Status Screen 5514 ], coordinate = [ x = 149, y = 692, width = 122, height = 83 ], link_type = [  ]

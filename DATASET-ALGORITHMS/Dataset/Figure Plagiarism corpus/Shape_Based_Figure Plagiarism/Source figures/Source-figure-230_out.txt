@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 335, y = 108, width = 99, height = 47 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ IS INACCESSIBLE STATEUSER'S INTENTION? ], coordinate = [ x = 191, y = 193, width = 380, height = 151 ], link_type = [ Decision(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ EXECUTE NETWORK TROUBLE ELIMINATING PROCESS ], coordinate = [ x = 127, y = 382, width = 508, height = 71 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Quadrangle], text = [ RETURN ], coordinate = [ x = 327, y = 505, width = 105, height = 46 ], link_type = [  ]

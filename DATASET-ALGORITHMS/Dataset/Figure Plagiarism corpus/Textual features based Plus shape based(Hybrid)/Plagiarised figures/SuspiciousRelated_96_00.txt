@@ -1,0 +1,24 @@
+Fig.2 Block Diagram of SoC Wire Codec 
+Design of SoC Wire Codec 
+The SoCWire CODEC connects a node or host system to a 
+SoCWire network. It consists of six modules. 
+•     State machine 
+•     Receiver 
+•     Receiver FIFO 
+•     Transmitter  
+•     Transmitter FIFO 
+•     Dual port Ram 
+The  state  machine  controls  the  overall  operation  of  the  link 
+interface. It provides link initialization, normal operation and error recovery services. The operation of the state machine is described 
+in the form of a state diagram given below. Transmitter  FIFO  can  be  access  with  the  low  active  data  write 
+signal. As soon as the FIFO is full the data full signal is ‘1’. FCTs 
+received by the receiver are forwarded with the fct write signal to 
+the transmitter. The fct_write increments the credit counters. If the 
+credit counter receives 7 FCTs the fct_full signal is set. For a bi-
+directional full-duplex transfer the FCTs have to be included in the 
+data  transfer.  The  tx  FIFO  does  not  require  a  dedicated  ram, 
+because  it  just  has  to  store  1  data  word.  There  is  one  Special 
+condition while making this block is Signal Swallow. Swallow ‘1’ 
+means  transmitter  will  not  receive  (read)  the  data  from  tx-FIFO 
+.Therefore  data_empty  must  be  1when  swallow  is  1.it  is  one  for 
+non run state. 

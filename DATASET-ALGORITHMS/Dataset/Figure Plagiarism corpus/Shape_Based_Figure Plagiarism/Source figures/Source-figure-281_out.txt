@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Memory  ], coordinate = [ x = 134, y = 171, width = 234, height = 123 ], link_type = [ Line(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ Secondary Storage Device ], coordinate = [ x = 607, y = 212, width = 234, height = 167 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Browser ], coordinate = [ x = 134, y = 332, width = 234, height = 166 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ cpu ], coordinate = [ x = 607, y = 490, width = 234, height = 88 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Video Display ], coordinate = [ x = 135, y = 650, width = 233, height = 86 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [  Input Device ], coordinate = [ x = 607, y = 650, width = 234, height = 86 ], link_type = [  ]

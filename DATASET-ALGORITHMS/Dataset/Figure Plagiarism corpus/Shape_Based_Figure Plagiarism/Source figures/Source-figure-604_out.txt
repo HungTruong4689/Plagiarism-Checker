@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ ACCESS DATA ORGANIZED BY AI ENGINE ], coordinate = [ x = 293, y = 24, width = 323, height = 239 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ ACCESS QUERIES FOR PROCESSING DATA ], coordinate = [ x = 293, y = 348, width = 323, height = 238 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ PRESENT SUBSET OF QUERIES ], coordinate = [ x = 293, y = 671, width = 323, height = 238 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ SELECT NEXTQUERY As AFUNCTION OF PRIOR ANSWER(S) ], coordinate = [ x = 293, y = 996, width = 323, height = 235 ], link_type = [  ]

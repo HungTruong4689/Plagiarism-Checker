@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [SORT ALL TEXT BLOCKS ACCORDING TOI HORIZONTAL POSITION ], coordinate = [ x = 183, y = 86, width = 300, height = 105 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ GET THE FIRST TEXT BLOCK FROM THE SORTED LIST ], coordinate = [ x = 156, y = 252, width = 353, height = 84 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ INITIALIZE THE HORIZONTAL COVERAGE OF A NEW GROUP (LEFT, RIGHT) ], coordinate = [ x = 159, y = 423, width = 345, height = 99 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ GET NEW /TEXT BLOCK WITH (X1,X2)] ], coordinate = [ x = 151, y = 583, width = 361, height = 155 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ CALCULATE MAXIMUM OVERLAPPING BETWEEN(LEFT, RIGHT) AND (X1, X2) ], coordinate = [ x = 157, y = 781, width = 349, height = 104 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Diamond], text = [ MAXIMUM OVEFILAP > I_v], coordinate = [ x = 185, y = 1009, width = 294, height = 112 ], link_type = [ Decision(1 : shape6)  ]
+Shape6 : type = [Rectangle], text = [ LEIT=MIN (LEFT, X1) AND~ RlGHT=MAX (RIGHT, x2) ], coordinate = [ x = 167, y = 1152, width = 321, height = 80 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ COLUMN ADDRESS ASSIGNMENT], coordinate = [ x = 645, y = 1209, width = 235, height = 84 ], link_type = [  ]

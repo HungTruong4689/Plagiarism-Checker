@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Generalized Invariant Shape Classification 500 ], coordinate = [ x = 123, y = 22, width = 373, height = 140 ], link_type = [ Next_TBow(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Receive image including an object 502 ], coordinate = [ x = 62, y = 209, width = 492, height = 141 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Extract invariant shape features of object using generalized invariant feature discriptor 504 ], coordinate = [ x = 61, y = 395, width = 493, height = 200 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Classify object based on extracted linvariant shape features 506 ], coordinate = [ x = 62, y = 644, width = 492, height = 172 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ (optional)Make decision based onclassification 508 ], coordinate = [ x = 62, y = 866, width = 493, height = 186 ], link_type = [  ]

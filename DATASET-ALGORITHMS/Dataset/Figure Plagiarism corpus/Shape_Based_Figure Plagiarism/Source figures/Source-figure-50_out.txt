@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Measure correction  belween two sub-collection matrices], coordinate = [ x = 117, y = 47, width = 163, height = 108 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Permula one sub-collection matrix with respect to other ], coordinate = [ x = 117, y = 212, width = 162, height = 107 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Determine the semantic measure for proximity at order zero ], coordinate = [ x = 373, y = 212, width = 162, height = 107 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Compute Mantel test statistic for each permutation ], coordinate = [ x = 117, y = 375, width = 162, height = 106 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Determine the semantic measure forfirst order proximily ], coordinate = [ x = 372, y = 375, width = 163, height = 107 ], link_type = [ Next_TB(1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ Count lhe times the Mantel test slalislic greater than or equal to correiation statistic ], coordinate = [ x = 117, y = 537, width = 161, height = 108 ], link_type = [ Next_TB(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ Determine the final similarity measure, s2 ], coordinate = [ x = 372, y = 537, width = 162, height = 108 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ Calculate the p-value for the test  ], coordinate = [ x = 115, y = 701, width = 163, height = 107 ], link_type = [  ]

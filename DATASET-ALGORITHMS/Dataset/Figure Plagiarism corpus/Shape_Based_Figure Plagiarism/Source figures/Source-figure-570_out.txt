@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Selectively Edit Web Content Based On User Preference ], coordinate = [ x = 97, y = 104, width = 282, height = 131 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Reorganize The Edited Content Into A Contiguous Group ], coordinate = [ x = 87, y = 313, width = 302, height = 131 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Update User Preference Based On Partial Web Page Access ], coordinate = [ x = 87, y = 542, width = 303, height = 130 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Track User To Frequently Accessed Website ], coordinate = [ x = 118, y = 777, width = 242, height = 128 ], link_type = [  ]

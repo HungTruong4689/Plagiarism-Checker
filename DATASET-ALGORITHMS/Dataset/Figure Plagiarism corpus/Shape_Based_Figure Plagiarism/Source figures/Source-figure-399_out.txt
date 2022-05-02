@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 349, y = 35, width = 100, height = 71 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Display Source image ], coordinate = [ x = 118, y = 173, width = 554, height = 136 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ User Marks Feature ], coordinate = [ x = 118, y = 375, width = 554, height = 135 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [Identify Contents for Target Image  ], coordinate = [ x = 118, y = 577, width = 554, height = 136 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Generate Target Image ], coordinate = [ x = 117, y = 778, width = 555, height = 136 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Diamond], text = [ Terminate ], coordinate = [ x = 125, y = 981, width = 540, height = 133 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ END ], coordinate = [ x = 352, y = 1183, width = 95, height = 71 ], link_type = [  ]

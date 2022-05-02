@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Type 1 Process Control: Stalic Error Control ], coordinate = [ x = 229, y = 7, width = 218, height = 100 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Type 3 Process Conlrol : Surface Roughness ], coordinate = [ x = 613, y = 7, width = 225, height = 99 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Process Control ], coordinate = [ x = 944, y = 251, width = 236, height = 49 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Type 2 Process Control: Dimensional Error Control ], coordinate = [ x = 303, y = 499, width = 290, height = 100 ], link_type = [  ]

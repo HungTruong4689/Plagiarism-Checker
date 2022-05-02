@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Preprocessing eliminate fuorescence and noise 271 ], coordinate = [ x = 252, y = 26, width = 323, height = 152 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Peak Finding 275], coordinate = [ x = 251, y = 231, width = 323, height = 131 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Binary Spectra Generation 1=peak  0=no peak 279 ], coordinate = [ x = 249, y = 416, width = 324, height = 192 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [Similarity Matrix Calculation How similar is each spectrum to all other spectra in matrix 281 ], coordinate = [ x = 248, y = 656, width = 324, height = 243 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Spectral Clustering 183 ], coordinate = [ x = 248, y = 942, width = 323, height = 97 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Visualization Reordering Matrix to Visually Display Bins 285 ], coordinate = [ x = 247, y = 1108, width = 322, height = 161 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [  Storing 287 ], coordinate = [ x = 245, y = 1341, width = 324, height = 90 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ BEGIN: ENCRYPT MESSAGE FOR DECRYPTION USING A HARDWARE PUBLIC PHYSICALLY UNCLONABLE FUNCTION ], coordinate = [ x = 68, y = 48, width = 482, height = 153 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ SELECT AN INPUT VALUEFROM A LARGE INPUT VALUE POOL ], coordinate = [ x = 38, y = 244, width = 542, height = 85 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ RECEIVE UNIQUE CHARACTERISTICS OFCRYPTOGRAPHIC UNIT FROM THE DESTINATION COMPUTER ], coordinate = [ x = 38, y = 393, width = 542, height = 123 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ USE PUBLIC PARAMETERS TO SIMULATE ACRYPTOGRAPHIC UNIT LOCATED ATTHE DESTINATION COMPUTER AND GENERATE THE SIMULATED OUTPUT FOR THE SELECTED IN PUT VALUE ], coordinate = [ x = 38, y = 571, width = 542, height = 182 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ TRANSMIT SIMULATED OUTPUT TO THE DESTINATION COMPUTER ], coordinate = [ x = 38, y = 809, width = 542, height = 89 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ XOR SELECTED INPUT VALUE WITH PLAIN TEXT MESSAGE TO GENERATE CIPHERTEXT ], coordinate = [ x = 38, y = 948, width = 542, height = 116 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ TRANSMIT CIPHERTEXT TO THE DESTINATION COMPUTER ], coordinate = [ x = 38, y = 1118, width = 542, height = 91 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ W ], coordinate = [ x = 257, y = 1279, width = 103, height = 63 ], link_type = [  ]

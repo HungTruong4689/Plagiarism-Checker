@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ DETERMINE THE OUTPUT DATA ], coordinate = [ x = 474, y = 53, width = 596, height = 106 ], link_type = [ Next_TB(1 : shape1)]
+Shape1 : type = [Rectangle], text = [ RECORD THE OUTPUT DATA ], coordinate = [ x = 472, y = 237, width = 597, height = 105 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ STATISTICS AND ANALYZE ], coordinate = [ x = 470, y = 422, width = 597, height = 105 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ MODIFY THE EXPERIENCE PARAMETER ], coordinate = [ x = 410, y = 606, width = 714, height = 108 ], link_type = [  ]

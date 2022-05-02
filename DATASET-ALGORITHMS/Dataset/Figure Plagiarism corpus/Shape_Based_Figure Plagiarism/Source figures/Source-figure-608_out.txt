@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ User Log-In ], coordinate = [ x = 294, y = 168, width = 134, height = 101 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Security Authorization Check ], coordinate = [ x = 293, y = 304, width = 134, height = 100 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Select Region to Display ], coordinate = [ x = 294, y = 435, width = 134, height = 101 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Select Overlays to Display ], coordinate = [ x = 295, y = 580, width = 133, height = 92 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Select Resources to Display ], coordinate = [ x = 294, y = 735, width = 134, height = 99 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Parallelogram], text = [ Select Situation Preset Overlays ], coordinate = [ x = 292, y = 857, width = 136, height = 116 ], link_type = [ Line(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Display Selected Overlays ], coordinate = [ x = 294, y = 1009, width = 134, height = 100 ], link_type = [  ]

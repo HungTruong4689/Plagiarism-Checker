@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ speech recognition ], coordinate = [ x = 151, y = 46, width = 63, height = 45 ], link_type = [Next_TB(1: shape2)  ]
+Shape1 : type = [Rectangle], text = [ User interface ], coordinate = [ x = 27, y = 99, width = 37, height = 37 ], link_type = [ Double Arrow(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Message building ], coordinate = [ x = 236, y = 98, width = 49, height = 43 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Translator ], coordinate = [ x = 360, y = 105, width = 35, height = 30 ], link_type = [ ]
+Shape4 : type = [Rectangle], text = [ Speech synthesis], coordinate = [ x = 315, y = 157, width = 54, height = 45 ], link_type = [  ]

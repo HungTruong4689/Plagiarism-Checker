@@ -1,0 +1,4 @@
+Shape0 : type = [SQUARE], text = [READIRECT THE CLIENT TO SECURITY EXTENTION ], coordinate = [ x = 22, y = 7, width = 132, height = 142 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ RESPONSD TO CLIENT WITHFAILUR STATUS], coordinate = [ x = 36, y = 175, width = 112, height = 123 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ ALLOW THE CLIENT TO INSERT A SESSION CERTIFICATE AS HTTP ,LDMCERT VARIABLE], coordinate = [ x = 19, y = 329, width = 151, height = 161 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ RESUBMIT THE REQUEST TO THE MANAGED NODE], coordinate = [ x = 45, y = 516, width = 113, height = 122 ], link_type = [  ]

@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Service Develpoment], coordinate = [ x = 18, y = 5, width = 90, height = 84 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Service Contract Formation], coordinate = [ x = 143, y = 5, width = 98, height = 84 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ Service Monitor ], coordinate = [ x = 272, y = 5, width = 80, height = 84 ], link_type = [ Next_LR(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Services Assessment and feedback], coordinate = [ x = 390, y = 5, width = 95, height = 84 ], link_type = [  ]

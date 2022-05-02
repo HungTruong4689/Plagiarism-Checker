@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Check Final Score For Fixed Income Option ], coordinate = [ x = 323, y = 32, width = 264, height = 72 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Fixed Income =(Fixed NetWorth + Sec DTI+ sup) ], coordinate = [ x = 319, y = 136, width = 281, height = 95 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Diamond], text = [ Fixed Income > 0 ], coordinate = [ x = 333, y = 263, width = 253, height = 137 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Fixed Income = 0 ], coordinate = [ x = 71, y = 288, width = 185, height = 88 ], link_type = [  ]

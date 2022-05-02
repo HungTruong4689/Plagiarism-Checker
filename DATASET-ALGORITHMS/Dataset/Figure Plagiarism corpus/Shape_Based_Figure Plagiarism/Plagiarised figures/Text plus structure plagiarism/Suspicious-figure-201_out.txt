@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ 500 Post Document to Posting Lists of Good Phrases in Document ], coordinate = [ x = 59, y = 45, width = 293, height = 53 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Preprocess], coordinate = [ x = 424, y = 55, width = 125, height = 48 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ 502 Update Instance Countsand Bit Vector of Related Phrases for each Good Phrases ], coordinate = [ x = 59, y = 129, width = 293, height = 55 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ 504 Annotate Related Phrase Bit Vectors Based on  Anchor Phrases ], coordinate = [ x = 59, y = 221, width = 293, height = 48 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Annotater ], coordinate = [ x = 424, y = 221, width = 124, height = 47 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ 506 Reorder Index Accordingto Number of Documentsin each Posting List ], coordinate = [ x = 54, y = 297, width = 293, height = 58 ], link_type = [  ]

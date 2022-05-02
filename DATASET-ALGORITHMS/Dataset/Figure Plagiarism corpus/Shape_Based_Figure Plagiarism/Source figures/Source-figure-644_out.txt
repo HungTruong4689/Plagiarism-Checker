@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Detect document identify corners of remittance coupon inmobile image ], coordinate = [ x = 126, y = 11, width = 249, height = 175 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Build perspective transformation], coordinate = [ x = 126, y = 232, width = 249, height = 174 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Perform geometrical transformation on coupon sub image], coordinate = [ x = 126, y = 459, width = 249, height = 175 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [  Identify and read code line from binarized subimage ], coordinate = [ x = 556, y = 468, width = 249, height = 174 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Perform de-warping of remittance coupon subimage ], coordinate = [ x = 126, y = 688, width = 249, height = 174 ], link_type = [ Next_TB(1 : shape6) ]
+Shape5 : type = [Parallelogram], text = [ Perform second geometrical transformation to generate scanner quality image ], coordinate = [ x = 555, y = 696, width = 251, height = 177 ], link_type = [ Next_TB(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ Perform adaptive blnarization of remittance coupon subimage ], coordinate = [ x = 126, y = 916, width = 249, height = 175 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [  Perform adaptiveI binarization of scanner quality imageI 1249 ], coordinate = [ x = 556, y = 925, width = 249, height = 175 ], link_type = [  ]

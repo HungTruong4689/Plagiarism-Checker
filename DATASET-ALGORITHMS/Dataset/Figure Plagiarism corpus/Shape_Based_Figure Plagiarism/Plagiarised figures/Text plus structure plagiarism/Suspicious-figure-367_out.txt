@@ -1,0 +1,4 @@
+Shape0 : type = [SQUARE], text = [ SENSING AN INTERFACE ELECTROGRAM], coordinate = [ x = 93, y = 22, width = 141, height = 151 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ Discover A FAILURE SIGNAL INDICATE FAILURE IN SENSING THE INIRACRDIAC ELECIROCRAM], coordinate = [ x = 82, y = 201, width = 161, height = 171 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [FAILURE SIGNAL DETECTED], coordinate = [ x = 60, y = 395, width = 209, height = 127 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ DETETING A WIRELESS ECG AS A SUBSIIUTE FOR THE INTRACARDIAC ELECTROGRAM], coordinate = [ x = 89, y = 543, width = 142, height = 152 ], link_type = [  ]

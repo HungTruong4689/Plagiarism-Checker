@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Documents ], coordinate = [ x = 110, y = 28, width = 293, height = 47 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [Parallelogram], text = [ Preprocessing ], coordinate = [ x = 105, y = 106, width = 281, height = 48 ], link_type = [ Double Arrow(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Feature Extraction ], coordinate = [ x = 98, y = 186, width = 293, height = 55 ], link_type = [ Double Arrow(1 : shape3) ]
+Shape3 : type = [Parallelogram], text = [ Sentence Ranking ], coordinate = [ x = 99, y = 272, width = 303, height = 51 ], link_type = [ Double Arrow(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Redundancy Reducing ], coordinate = [ x = 97, y = 354, width = 294, height = 46 ], link_type = [ Double Arrow(1 : shape5) ]
+Shape5 : type = [Parallelogram], text = [ Generated Summary ], coordinate = [ x = 99, y = 432, width = 303, height = 51 ], link_type = [  ]

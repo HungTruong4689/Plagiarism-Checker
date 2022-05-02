@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ RECEIVE IMAGES ], coordinate = [ x = 47, y = 88, width = 320, height = 59 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ CPD TO PRODUCE CORRESPONDENCE MESHES ], coordinate = [ x = 47, y = 213, width = 320, height = 84 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ BUILD PCA MODELS FOR MESHES OR ASMS ], coordinate = [ x = 47, y = 362, width = 320, height = 85 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ DETEFIMINE INITIAL SEGHENTAIION ], coordinate = [ x = 47, y = 513, width = 320, height = 84 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ PRODUCE DEFINED BONE SEGIIENTAIION MASKS ], coordinate = [ x = 47, y = 663, width = 320, height = 84 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ CONSTRUCT DISTANCE-TO BONE FEATURES ], coordinate = [ x = 47, y = 813, width = 320, height = 84 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ CPD TO PRODUCE CORRESPONDENCE MESHES ], coordinate = [ x = 47, y = 963, width = 320, height = 84 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ CONSTRUCI DISTANCE-TO DENSE LANDMARK FEATURES ], coordinate = [ x = 47, y = 1113, width = 320, height = 85 ], link_type = [  ]

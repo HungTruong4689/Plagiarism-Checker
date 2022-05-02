@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 169, y = 44, width = 86, height = 40 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ TPEFIFORM INITIALIZATIONT ], coordinate = [ x = 87, y = 106, width = 251, height = 43 ], link_type = [ Next_TB(1 : shape2)  ]
+Shape2 : type = [Rectangle], text = [ PROCESS INPUT ], coordinate = [ x = 120, y = 166, width = 178, height = 43 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ ARE THE READDITIONAL INPUTS? ], coordinate = [ x = 140, y = 229, width = 142, height = 151 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ END], coordinate = [ x = 174, y = 413, width = 73, height = 39 ], link_type = [  ]

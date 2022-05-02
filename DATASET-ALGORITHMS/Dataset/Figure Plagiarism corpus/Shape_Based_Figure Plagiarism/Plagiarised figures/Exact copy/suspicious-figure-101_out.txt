@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Compound ldentifrcation ], coordinate = [ x = 66, y = 104, width = 147, height = 110 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ in Vitro Testing ], coordinate = [ x = 65, y = 290, width = 147, height = 111 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Parallelogram], text = [ Animal Testing ], coordinate = [ x = 64, y = 477, width = 147, height = 110 ], link_type = [ Next_TB((1 : shape3) ]
+Shape3 : type = [Parallelogram], text = [ Safety Testing in Humans ], coordinate = [ x = 63, y = 663, width = 148, height = 108 ], link_type = [ Next_TB((1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Effectivenes Testing in Humans ], coordinate = [ x = 62, y = 848, width = 147, height = 109 ], link_type = [ Next_TB((1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Marketing ], coordinate = [ x = 61, y = 1033, width = 147, height = 109 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ data block ready for eviction fromhost cache ], coordinate = [ x = 183, y = 23, width = 283, height = 151 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ host initiates write operation ], coordinate = [ x = 184, y = 234, width = 283, height = 161 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [  data block copied to storage cache from host], coordinate = [ x = 185, y = 453, width = 283, height = 160 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ evict data block from host ], coordinate = [ x = 186, y = 673, width = 283, height = 161 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ abort copying of data to storage media (optional)], coordinate = [ x = 187, y = 893, width = 282, height = 160 ], link_type = [  ]

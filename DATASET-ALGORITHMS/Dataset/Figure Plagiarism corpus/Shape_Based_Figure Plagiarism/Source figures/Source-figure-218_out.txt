@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Acquire acceleration data in moving state from each acceleration sensor Aias ], coordinate = [ x = 79, y = 95, width = 531, height = 85 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Detect X axis directions component, Y axisdirections component, and Z axis directionscomponent in global coordinate system C.. of each acceleration vector ], coordinate = [ x = 79, y = 232, width = 531, height = 140 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Calculate displacement of each sensorunit Si from previous stationary state ], coordinate = [ x = 79, y = 423, width = 531, height = 85 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Detect movement state from previous stationary state based on detected curve form 65 and lcalculated displacement of each sensor unit Si ], coordinate = [ x = 79, y = 560, width = 530, height = 111 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ Was staying state of inserting section deteocted ], coordinate = [ x = 152, y = 724, width = 384, height = 152 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Display warning ], coordinate = [ x = 78, y = 930, width = 531, height = 54 ], link_type = [  ]

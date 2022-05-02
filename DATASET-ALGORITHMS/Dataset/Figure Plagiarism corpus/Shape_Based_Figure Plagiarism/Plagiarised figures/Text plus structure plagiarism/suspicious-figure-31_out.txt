@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ RETRIEVAL REQUEST INPUTTING DEVICE ], coordinate = [ x = 624, y = 100, width = 278, height = 142 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ FIRST DATABASE ], coordinate = [ x = 145, y = 128, width = 243, height = 95 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ RETRIEVING DEVICE ], coordinate = [ x = 624, y = 355, width = 279, height = 141 ], link_type = [ Next_TB(1 :shape5) ]
+Shape3 : type = [Rectangle], text = [ SECOND DATABASE ], coordinate = [ x = 145, y = 376, width = 243, height = 100 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ HEADING TEXT CORRESPONDING TABLE ], coordinate = [ x = 222, y = 687, width = 277, height = 142 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ RETRIEVAL RESULT EVALUATING DEVICE ], coordinate = [ x = 624, y = 687, width = 278, height = 141 ], link_type = [  ]

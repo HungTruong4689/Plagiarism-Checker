@@ -1,0 +1,5 @@
+Shape0 : type = [SQUARE], text = [ RECIEVE Advanced Substance], coordinate = [ x = 31, y = 4, width = 103, height = 113 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ STORE DVGITAL CONTENT], coordinate = [ x = 47, y = 145, width = 84, height = 94 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ RECEWVE A TRUSTED VOCHER], coordinate = [ x = 42, y = 272, width = 93, height = 103 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ STORE THE TRUSTED VOCUCHER], coordinate = [ x = 35, y = 406, width = 113, height = 123 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [SQUARE], text = [ Limit Utilization In light of THE TRUSTED VOUCHER], coordinate = [ x = 34, y = 564, width = 123, height = 133 ], link_type = [  ]

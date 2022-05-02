@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Pre-Processed Constructed Responses for Given Item and  Subgroup ], coordinate = [ x = 109, y = 111, width = 629, height = 113 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Sort by Respondent Identification in Ascending/Descending Order ], coordinate = [ x = 109, y = 265, width = 629, height = 98 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Pair Respondent's Constructed Response with all other  Constructed Responses whose Respondent Identification is greater/less than than the Respondent Identification], coordinate = [ x = 109, y = 407, width = 629, height = 109 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Constructed Response pairs Submitted to Determine Similarity  ], coordinate = [ x = 109, y = 561, width = 629, height = 71 ], link_type = [  ]

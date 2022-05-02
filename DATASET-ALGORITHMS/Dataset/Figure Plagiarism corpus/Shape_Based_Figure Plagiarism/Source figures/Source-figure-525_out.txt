@@ -1,0 +1,3 @@
+Shape0 : type = [Diamond], text = [ DOES THE METHOD NAMES TART WITH SET AND HAVE THE ANNOTATION ontolgy Property ON IT? ], coordinate = [ x = 514, y = 152, width = 546, height = 206 ], link_type = [ Decision(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ OREATE AN OWL FUNCTIONAL DATA TYPE PROPERTY WHOSE DOMAIN IS THE CLASS AND RANGE IS THE TYPE OF THE FIRST PARAMETER OF THE METHOD ], coordinate = [ x = 509, y = 413, width = 556, height = 107 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ LOAD THE ORIGINAL ONTLOLOGY MODEL ], coordinate = [ x = 607, y = 574, width = 361, height = 74 ], link_type = [  ]

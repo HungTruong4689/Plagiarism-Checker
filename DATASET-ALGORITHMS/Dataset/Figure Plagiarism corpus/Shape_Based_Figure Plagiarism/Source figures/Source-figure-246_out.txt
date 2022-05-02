@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Start Event Distribution System(EDS) ], coordinate = [ x = 38, y = 21, width = 379, height = 111 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Event Adapter Receives Event ], coordinate = [ x = 139, y = 254, width = 170, height = 137 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Event Sent to EventSink(s) ], coordinate = [ x = 139, y = 512, width = 171, height = 137 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Event Sink(s)Process Event ], coordinate = [ x = 141, y = 772, width = 170, height = 137 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Event Sent to Listener(s) ], coordinate = [ x = 142, y = 1031, width = 171, height = 139 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ End ], coordinate = [ x = 175, y = 1291, width = 105, height = 72 ], link_type = [  ]

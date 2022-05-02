@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ SIZE A COUNTING BLOOM FILTER FOR A TARGETERROR RATE FOR THE CORPUS SIZE ], coordinate = [ x = 154, y = 30, width = 515, height = 118 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ GENERATE A SLUG FOR EACH OBJECT IN THE CORPUS ], coordinate = [ x = 154, y = 178, width = 515, height = 119 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ INPUT EACH SLUG INTO THE COUNTING BLOOM FILTER ], coordinate = [ x = 154, y = 327, width = 515, height = 118 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ FOR EACH SLUG WHOSE COUNTER IN THE COUNTING BLOOM FILTER BIN IS 1, OUTPUTTHE OBJECT CORRESPONDING TO THE SLUG ], coordinate = [ x = 155, y = 475, width = 514, height = 153 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ FOR EACH SLUG WHOSE COUNTER INTHE COUNTING BLOOM FILTER BIN ISGREATER THAN 1 , ADD THE SLUG ANDCORRESPONDING OBJECT TO A MULTIMAP ], coordinate = [ x = 154, y = 660, width = 515, height = 154 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ FOR EACH MULTIMAP KEY WITH ONEVALUE, OUTPUT THAT VALUE ], coordinate = [ x = 154, y = 845, width = 515, height = 118 ], link_type = [  ]

@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Receive Color "icon" Image  ], coordinate = [ x = 50, y = 8, width = 531, height = 120 ], link_type = [Next(1 : shape1)   ]
+Shape1 : type = [Rectangle], text = [ Divide Color "icon" Image into Grid 1302 ], coordinate = [ x = 49, y = 175, width = 532, height = 120 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Compute Average Colorat Central Part" of icon ù1304 ], coordinate = [ x = 50, y = 345, width = 530, height = 119 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ Compute Average Color "Outside" of Central Part of  icon 1306 ], coordinate = [ x = 51, y = 513, width = 528, height = 121 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Find Linear Transformation(Map Central Partù Color on White)(Map Outsideù Color on Black) ], coordinate = [ x = 49, y = 684, width = 528, height = 168 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Transfonnation of RGB values into Gray-Shades ], coordinate = [ x = 48, y = 907, width = 529, height = 119 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Output Gray icon Image ], coordinate = [ x = 47, y = 1075, width = 529, height = 120 ], link_type = [  ]

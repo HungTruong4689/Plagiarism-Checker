@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ Sort ], coordinate = [ x = 37, y = 66, width = 41, height = 33 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Binary Search ], coordinate = [ x = 207, y = 65, width = 42, height = 32 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ SET ALL THE INTERFACES THAT ARE IMPLEMENTED BY THIS INTERFACE ], coordinate = [ x = 143, y = 137, width = 361, height = 74 ], link_type = [ Next_TB((1 : shape2) ]
+Shape1 : type = [Diamond], text = [ Annotation is present], coordinate = [ x = 818, y = 190, width = 257, height = 125 ], link_type = [ Decision( 1 : shape3) ]
+Shape2 : type = [Diamond], text = [ INTERFACES EXISTS ], coordinate = [ x = 195, y = 265, width = 258, height = 125 ], link_type = [ Decision(1: shape4) ]
+Shape3 : type = [Rectangle], text = [ DECLARE THAT THE NEW OWL CLASSIS A SUPER CLASS IS OF THIS CLASS ], coordinate = [ x = 766, y = 369, width = 361, height = 74 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ GET THE ONTOLOGY CLASS ANIIOTATION OF THE FIRST INTERFACE ], coordinate = [ x = 143, y = 444, width = 361, height = 74 ], link_type = [  ]

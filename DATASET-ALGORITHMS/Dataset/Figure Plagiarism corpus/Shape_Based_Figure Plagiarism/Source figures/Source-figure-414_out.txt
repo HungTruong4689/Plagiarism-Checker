@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ STATIC ANALYZER ], coordinate = [ x = 94, y = 133, width = 143, height = 82 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DATA SINKA NALYZER ], coordinate = [ x = 443, y = 133, width = 143, height = 83 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ VALUE SET DETERMINER ], coordinate = [ x = 791, y = 133, width = 143, height = 83 ], link_type = [ NExt_TB(1 : shape5) ]
+Shape3 : type = [Rectangle], text = [ LEGAL SINK INPUT VALUES ], coordinate = [ x = 92, y = 265, width = 146, height = 98 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ VALUE VALIDATOR ], coordinate = [ x = 443, y = 263, width = 143, height = 83 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ POSSIBLE SINKINPUT VALUES ], coordinate = [ x = 789, y = 274, width = 146, height = 79 ], link_type = [  ]

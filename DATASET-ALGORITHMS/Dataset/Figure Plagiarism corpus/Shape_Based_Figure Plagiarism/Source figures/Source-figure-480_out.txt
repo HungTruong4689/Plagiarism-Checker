@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Image Processing System ], coordinate = [ x = 292, y = 321, width = 145, height = 118 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Classification System ], coordinate = [ x = 549, y = 320, width = 146, height = 118 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Grouping System ], coordinate = [ x = 810, y = 320, width = 145, height = 119 ], link_type = [ Next_LR(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Data Extraction System ], coordinate = [ x = 1071, y = 320, width = 145, height = 119 ], link_type = [  ]

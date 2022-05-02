@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ QR deoomposistion ], coordinate = [ x = 99, y = 24, width = 182, height = 100 ], link_type = [ Multi flow(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Back Substition ], coordinate = [ x = 421, y = 24, width = 182, height = 100 ], link_type = [  ]

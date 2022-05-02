@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ INDEX GENERATION AND UPDATE ], coordinate = [ x = 340, y = 183, width = 198, height = 58 ], link_type = [ Line(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ DATABASE ], coordinate = [ x = 633, y = 205, width = 164, height = 70 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ INDEX FILE ], coordinate = [ x = 339, y = 287, width = 201, height = 57 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ INPUT CHARACTER STRING TO BE SEARCHED ], coordinate = [ x = 8, y = 389, width = 282, height = 56 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ SEARCH ENGINE ], coordinate = [ x = 339, y = 389, width = 201, height = 55 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ RESULT DISPLAY ], coordinate = [ x = 339, y = 491, width = 201, height = 57 ], link_type = [  ]

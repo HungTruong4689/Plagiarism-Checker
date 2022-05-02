@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Check Minimum Sufficiency ], coordinate = [ x = 295, y = 59, width = 143, height = 94 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ Are One or More iS cores 2 Minimum Threghold ], coordinate = [ x = 227, y = 196, width = 278, height = 168 ], link_type = [ Decision(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Categorize by Quantitative Metric ], coordinate = [ x = 561, y = 236, width = 181, height = 88 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Generate Alert that No Action Option IS at Least Minimally Satisfactory to Pursue ], coordinate = [ x = 223, y = 389, width = 286, height = 118 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Create partitioned statistics bins ], coordinate = [ x = 322, y = 118, width = 233, height = 125 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ For each tile ], coordinate = [ x = 271, y = 283, width = 336, height = 64 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Assign tile to abin ], coordinate = [ x = 323, y = 383, width = 232, height = 96 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Update bins statistics using tiles geometric distribution statistics ], coordinate = [ x = 277, y = 509, width = 322, height = 124 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Next tile ], coordinate = [ x = 271, y = 667, width = 335, height = 63 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Diamond], text = [ Majority noise type is watermark? ], coordinate = [ x = 295, y = 756, width = 287, height = 226 ], link_type = [ Decision(1 : shape6, 2 : shape7) ]
+Shape6 : type = [Rectangle], text = [ Characterise and mark noisy tiles using watermark approach ], coordinate = [ x = 98, y = 981, width = 310, height = 125 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ Characterise and mark noisy tiles using non-watermark approach ], coordinate = [ x = 467, y = 982, width = 315, height = 125 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Long  term memory for storing data ], coordinate = [ x = 116, y = 47, width = 230, height = 58 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ sensing unit ], coordinate = [ x = 83, y = 143, width = 291, height = 45 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ recognition: unit ], coordinate = [ x = 83, y = 228, width = 295, height = 49 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ working memory for producing data sheets], coordinate = [ x = 83, y = 318, width = 291, height = 71 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ behavior-planning unit ], coordinate = [ x = 82, y = 430, width = 291, height = 43 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ actuating unit ], coordinate = [ x = 82, y = 503, width = 291, height = 42 ], link_type = [ Line(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ emotion-generating unit ], coordinate = [ x = 82, y = 575, width = 291, height = 43 ], link_type = [ Line(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ generating unit ], coordinate = [ x = 93, y = 647, width = 291, height = 43 ], link_type = [  ]

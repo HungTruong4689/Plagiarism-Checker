@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ For Each Pixel, Sum Absolute Differences of All Channels  ], coordinate = [ x = 119, y = 118, width = 310, height = 141 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Box Filter  ], coordinate = [ x = 163, y = 342, width = 221, height = 98 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Threshold ], coordinate = [ x = 164, y = 521, width = 221, height = 98 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Transfer to Multiscale Pyramid ], coordinate = [ x = 164, y = 701, width = 222, height = 140 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ CLASSIFY FULL TEXT SENTENCES ], coordinate = [ x = 317, y = 47, width = 185, height = 114 ], link_type = [ Multi Line(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ ANALYZE SENTENCES FOR CENTRALITY ], coordinate = [ x = 136, y = 215, width = 249, height = 110 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ ANALYZE SENTENCES FOR MATCHT to LEGEND ], coordinate = [ x = 435, y = 215, width = 249, height = 110 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ DETERMINE SENTENCE SUMMARY SCORES ], coordinate = [ x = 316, y = 380, width = 186, height = 137 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ FIND PRIMARYI SENTENCES INEACH CLASS ], coordinate = [ x = 316, y = 545, width = 186, height = 114 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Parallelogram], text = [ OUTPUT SUMMARY ], coordinate = [ x = 315, y = 685, width = 186, height = 113 ], link_type = [  ]

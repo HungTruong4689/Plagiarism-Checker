@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ USER INTERFACE UNIT ], coordinate = [ x = 280, y = 79, width = 386, height = 82 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ APPLICATION UNIT ], coordinate = [ x = 279, y = 255, width = 388, height = 81 ], link_type = [ Multi Line(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [  JOB CONTROL DOMAIN UNIT ], coordinate = [ x = 54, y = 430, width = 387, height = 82 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ SERVICEI COMMUNICATION UNIT ], coordinate = [ x = 502, y = 431, width = 387, height = 79 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [  NETWORK I/F UNIT ], coordinate = [ x = 502, y = 608, width = 387, height = 79 ], link_type = [  ]

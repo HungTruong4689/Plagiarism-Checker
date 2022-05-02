@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ E1-EA( Start-Address-Blind-Constant) is calculated and the enciphered value is XORed with the saved Blinded-Start-Address. ], coordinate = [ x = 105, y = 66, width = 787, height = 90 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Processor jumps to the resulting entry point address. ], coordinate = [ x = 104, y = 214, width = 788, height = 91 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 331, y = 117, width = 146, height = 76 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [INPUT IMAGE ], coordinate = [ x = 38, y = 300, width = 727, height = 89 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ DIVIDE IMAGE INTO REGIONS ], coordinate = [ x = 39, y = 455, width = 726, height = 90 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ APPLY IMAGE PROCESSING TO RESPECTIVE SMALL REGION IMAGE TOEXTRACT FEATURE ], coordinate = [ x = 39, y = 610, width = 726, height = 140 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ PERFORM MATCHING PROCESSING ], coordinate = [ x = 39, y = 817, width = 725, height = 91 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ INTEGRATE MATCHING RESULTS ], coordinate = [ x = 39, y = 969, width = 724, height = 92 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ OUTPUT RESULT ], coordinate = [ x = 39, y = 1125, width = 723, height = 92 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ END ], coordinate = [ x = 346, y = 1289, width = 133, height = 75 ], link_type = [  ]

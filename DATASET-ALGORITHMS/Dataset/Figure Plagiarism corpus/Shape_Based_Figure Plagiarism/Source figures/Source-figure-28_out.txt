@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Construct initial population of chromosomes], coordinate = [ x = 172, y = 22, width = 352, height = 95 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Evaluate the initial population ], coordinate = [ x = 172, y = 146, width = 354, height = 66 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Select inditiduals based on fitness score ], coordinate = [ x = 174, y = 280, width = 353, height = 92 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Petrform reproduction ], coordinate = [ x = 174, y = 398, width = 353, height = 62 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Evaluate the new population ], coordinate = [ x = 174, y = 488, width = 352, height = 66 ], link_type = [ Next_TB(1 : shape5)]
+Shape5 : type = [Diamond], text = [Terminate ?  ], coordinate = [ x = 261, y = 583, width = 175, height = 128 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Optimized feature weight  obtained ], coordinate = [ x = 566, y = 605, width = 268, height = 89 ], link_type = [  ]

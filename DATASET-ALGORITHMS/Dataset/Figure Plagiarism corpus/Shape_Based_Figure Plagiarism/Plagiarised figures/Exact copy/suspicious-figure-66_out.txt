@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Launch at start-up ], coordinate = [ x = 243, y = 25, width = 249, height = 60 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Periodically recive data stream ], coordinate = [ x = 159, y = 128, width = 416, height = 61 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Parse and store GPS data ], coordinate = [ x = 201, y = 232, width = 333, height = 61 ], link_type = [ Next_TB((1 : shape3) ]
+Shape3 : type = [Diamond], text = [ Recieve request for latitude,longitude or altitude attribute? ], coordinate = [ x = 203, y = 337, width = 327, height = 183 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Provide requeste attribute with Timestamp, uncertainty, units,etc. ], coordinate = [ x = 142, y = 564, width = 448, height = 91 ], link_type = [  ]

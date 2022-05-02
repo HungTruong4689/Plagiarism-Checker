@@ -1,0 +1,11 @@
+Shape0 : type = [Rectangle], text = [ Get Web Pages From a Folder ], coordinate = [ x = 215, y = 17, width = 406, height = 59 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Create DocID for Each Web Page ], coordinate = [ x = 180, y = 144, width = 476, height = 59 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Store URL to URLù Field ], coordinate = [ x = 215, y = 273, width = 406, height = 58 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Store Geocodes to GEOCODE and MGEOCODE ], coordinate = [ x = 79, y = 398, width = 736, height = 59 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Store Zips to ZIPù and MZIP fields ], coordinate = [ x = 104, y = 527, width = 634, height = 59 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Title and GR is Stored and Indexed ], coordinate = [ x = 164, y = 658, width = 507, height = 59 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Create Inverted Index of Content ], coordinate = [ x = 201, y = 786, width = 439, height = 60 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ LOC is Stored and Indexed ], coordinate = [ x = 206, y = 914, width = 439, height = 58 ], link_type = [ Next_TB(1 : shape8) ]
+Shape8 : type = [Rectangle], text = [ Create Barrel for the folder ], coordinate = [ x = 208, y = 1038, width = 438, height = 58 ], link_type = [ Next_TB(1 : shape9) ]
+Shape9 : type = [Rectangle], text = [ Build Barrel and Zip Lookup Table ], coordinate = [ x = 182, y = 1175, width = 493, height = 68 ], link_type = [  ]
+

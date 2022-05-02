@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ recieve new TCF Packet ], coordinate = [ x = 79, y = 4, width = 94, height = 93 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ Reset the oldest new open TOP session ], coordinate = [ x = 63, y = 126, width = 123, height = 132 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ Is no. of TOP half oper ? ], coordinate = [ x = 14, y = 285, width = 223, height = 164 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ Create new TCF session in slow(process)path ], coordinate = [ x = 56, y = 473, width = 142, height = 152 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [SQUARE], text = [ Reuse the eldest half open TCF session ], coordinate = [ x = 75, y = 649, width = 104, height = 113 ], link_type = [  ]

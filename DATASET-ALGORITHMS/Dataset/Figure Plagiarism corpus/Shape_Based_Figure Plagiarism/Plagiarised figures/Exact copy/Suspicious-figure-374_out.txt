@@ -1,0 +1,4 @@
+Shape0 : type = [SQUARE], text = [ WAIT FOR INTERNET SERVER APPLICATION PROGRAMMING INTERFACE (ISAPI) URL MAP NOTIFICATIONS], coordinate = [ x = 24, y = 5, width = 151, height = 161 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ ALLOW TO PROCEED TO REQESTED PAGE], coordinate = [ x = 43, y = 194, width = 112, height = 122 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ VERIFY THE CERTIFICATE], coordinate = [ x = 40, y = 351, width = 122, height = 132 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ REJECT THE CLIENT], coordinate = [ x = 41, y = 517, width = 132, height = 142 ], link_type = [  ]

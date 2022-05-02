@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 211, y = 28, width = 89, height = 61 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ CREATE SET OF DATA-RETRIEVAL REQUESTS FOREXECUTION BY A FIRST GEOCODER BASED ON SPECIFIC REQUIREMENTS FOR THE FIRST GEOCODER ], coordinate = [ x = 57, y = 136, width = 391, height = 203 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ CREATE SET OF DATA-RETRIEVAL REQUESTS FOR EXECUTION BY A SECOND GEOCODER BASED ON SPECIFIC REQUIREMENTS FOR THE SECOND GEOCODER ], coordinate = [ x = 58, y = 385, width = 390, height = 204 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ SEND SETS OF DATA-RETRIEVAL REQUESTS TO GEOCODERS INPARALLEL FOR CONCURRENT EXECUTION BY THE FIRST AND SECOND GEOCODERS ], coordinate = [ x = 57, y = 636, width = 391, height = 168 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ RETURN GEOCODER RESPONSES AND AGGREGATE INTO FINAL RESPONSE ], coordinate = [ x = 58, y = 851, width = 390, height = 114 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ STOP ], coordinate = [ x = 210, y = 1012, width = 89, height = 60 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Start 270 ], coordinate = [ x = 135, y = 10, width = 143, height = 63 ], link_type = [Next(1 : shape1)   ]
+Shape1 : type = [Rectangle], text = [ Send Stored Sound Data Through Multiple Filters to Isolate Different Frequency Ranges ], coordinate = [ x = 35, y = 101, width = 331, height = 191 ], link_type = [ Next_TB(1 : shape2)  ]
+Shape2 : type = [Parallelogram], text = [ Maintain a Running Average of Sound Magnitude* of Each Filter's Output 274 ], coordinate = [ x = 35, y = 323, width = 330, height = 156 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ Scale Magnitudes to the Range Needed for the Haptic Device 276 ], coordinate = [ x = 35, y = 510, width = 330, height = 157 ], link_type = [ Next_TB(1 : shape4)  ]
+Shape4 : type = [Rectangle], text = [ Assign Periodic Haptic Effects to the Frequency Ranges 275 ], coordinate = [ x = 35, y = 698, width = 329, height = 158 ], link_type = [ Next_TB(1 : shape5)  ]
+Shape5 : type = [Rectangle], text = [ Done 280 ], coordinate = [ x = 125, y = 885, width = 137, height = 63 ], link_type = [  ]

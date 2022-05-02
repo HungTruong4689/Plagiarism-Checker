@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Get product image source ], coordinate = [ x = 78, y = 179, width = 391, height = 78 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Related text Part with the product image extraction ], coordinate = [ x = 78, y = 315, width = 391, height = 101 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Assign extraction confidence score text chunk ], coordinate = [ x = 79, y = 467, width = 391, height = 103 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ recognize one or more information part by Parsing the text chunk ], coordinate = [ x = 79, y = 629, width = 392, height = 92 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ specify information confidence score any information Part ], coordinate = [ x = 78, y = 764, width = 392, height = 97 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Add information part product profile attribute data store infomation confidence score greater threshold ], coordinate = [ x = 80, y = 911, width = 391, height = 174 ], link_type = [  ]

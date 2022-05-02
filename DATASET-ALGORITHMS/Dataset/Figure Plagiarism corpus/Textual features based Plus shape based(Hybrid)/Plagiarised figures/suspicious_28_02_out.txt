@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ soft pobot platform model], coordinate = [ x = 139, y = 14, width = 103, height = 72 ], link_type = [ next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Object Recognition model ], coordinate = [ x = 339, y = 38, width = 117, height = 84 ], link_type = [ next_RL(1 : shape2)  ]
+Shape2 : type = [Rectangle], text = [ Remote Surveillant], coordinate = [ x = 146, y = 87, width = 99, height = 71 ], link_type = [  ]

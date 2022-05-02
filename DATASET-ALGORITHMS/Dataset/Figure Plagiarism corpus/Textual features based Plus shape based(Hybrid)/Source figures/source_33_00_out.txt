@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ service Monitor], coordinate = [ x = 12, y = 66, width = 107, height = 56 ], link_type = [ ]
+Shape1 : type = [Rectangle], text = [ Service Analyzer ], coordinate = [ x = 340, y = 66, width = 108, height = 56 ], link_type = [ ]
+Shape2 : type = [Rectangle], text = [ Service Authorization ], coordinate = [ x = 176, y = 122, width = 108, height = 56 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ Component Measure Instrument], coordinate = [ x = 12, y = 258, width = 107, height = 56 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Service Decision Maker], coordinate = [ x = 340, y = 258, width = 108, height = 56 ], link_type = [  ]

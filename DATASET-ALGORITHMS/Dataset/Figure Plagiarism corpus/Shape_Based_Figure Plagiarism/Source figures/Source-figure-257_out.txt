@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 57, y = 336, width = 108, height = 51 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Decision], text = [ Receipt of a "path" orseries of movementsthrough a given brain froma surface location to apoint defined to be thelocation of a tumor ], coordinate = [ x = 260, y = 271, width = 278, height = 184 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ Initiation of moduleswhich assess various riskvia use of the path andtable look up of thevariable underconsideration which areindicated as the pathmoves toward the tumorfrom the defined surfacepoint ], coordinate = [ x = 611, y = 224, width = 276, height = 281 ], link_type = [ Next_LR(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Return of risks associatedwith the risk variables inuse for the defined path ], coordinate = [ x = 959, y = 314, width = 276, height = 103 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ END  ], coordinate = [ x = 1043, y = 481, width = 113, height = 50 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ FEDERATED SEARCH APPLICATION ], coordinate = [ x = 172, y = 62, width = 460, height = 84 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ FEDERATED SEARCH SERVER ], coordinate = [ x = 37, y = 216, width = 729, height = 142 ], link_type = [ Multi Line(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ BROKER PLUG-IN 1 ], coordinate = [ x = 133, y = 428, width = 151, height = 103 ], link_type = [ Multi Flow(1 : shape4, 2 : shape5) ]
+Shape3 : type = [Rectangle], text = [ BROKERPLUG-IN I1 ], coordinate = [ x = 519, y = 426, width = 151, height = 105 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ GOOGLE ], coordinate = [ x = 18, y = 582, width = 151, height = 103 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ YAHOO ], coordinate = [ x = 249, y = 582, width = 151, height = 103 ], link_type = [  ]

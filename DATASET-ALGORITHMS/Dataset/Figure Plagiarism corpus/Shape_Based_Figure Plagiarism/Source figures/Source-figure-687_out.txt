@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ DISPLAY A GUI SCREEN WITH A SCRIPT EDITOR ], coordinate = [ x = 119, y = 21, width = 309, height = 120 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RECEIVE INSTRUCTIONS FROM A USER TO CREATE ACONVERSATION RULE ], coordinate = [ x = 119, y = 225, width = 309, height = 120 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ DYNAMICALLY SUGGEST A SECOND CONVERSATION RULE ], coordinate = [ x = 119, y = 429, width = 309, height = 120 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ RECEIVE EDITS FOR THE SECOND CONVERSATION RULE FROM A USER ], coordinate = [ x = 119, y = 633, width = 309, height = 152 ], link_type = [  ]

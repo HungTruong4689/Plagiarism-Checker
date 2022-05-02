@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ 4D ], coordinate = [ x = 107, y = 22, width = 88, height = 54 ], link_type = [Next(1:shape1)  ]
+Shape1 : type = [Rectangle], text = [ Search favorite images for attributes matching template In accordance with recipe. Assign top nfavorite images to each of the n window openings such that the template score is maximized. ], coordinate = [ x = 22, y = 101, width = 275, height = 264 ], link_type = [  ]

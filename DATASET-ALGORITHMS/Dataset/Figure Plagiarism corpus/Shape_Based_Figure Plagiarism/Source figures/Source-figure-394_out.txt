@@ -1,0 +1,6 @@
+Shape0 : type = [Diamond], text = [ did user select favorites in step 1005 ? ], coordinate = [ x = 281, y = 135, width = 251, height = 244 ], link_type = [ Decision(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ 4A ], coordinate = [ x = 335, y = 415, width = 122, height = 58 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Format + insertin to template ], coordinate = [ x = 278, y = 505, width = 240, height = 96 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ user_ accepts? ], coordinate = [ x = 312, y = 694, width = 177, height = 172 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ user control option ], coordinate = [ x = 114, y = 722, width = 107, height = 110 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ automatic option ], coordinate = [ x = 566, y = 754, width = 149, height = 83 ], link_type = [  ]

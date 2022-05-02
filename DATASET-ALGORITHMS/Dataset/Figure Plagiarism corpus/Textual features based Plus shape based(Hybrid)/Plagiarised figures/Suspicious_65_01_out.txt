@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ IP], coordinate = [ x = 60, y = 22, width = 325, height = 45 ], link_type = [ Multi Flow(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Clustering ], coordinate = [ x = 54, y = 97, width = 111, height = 46 ], link_type = [ Double Arrow(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Neighbourhood Recognition protocol(NRP)], coordinate = [ x = 275, y = 97, width = 138, height = 45 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ MAC ], coordinate = [ x = 60, y = 171, width = 325, height = 45 ], link_type = [ Next_BT(1: shape2) ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Parallelogram], text = [ Extensible explicit model of world ], coordinate = [ x = 238, y = 161, width = 272, height = 194 ], link_type = [ Multi Flow(1 : shape1, 2 : shape3, 3 : shape3) ]
+Shape1 : type = [Rectangle], text = [ Implicit model ], coordinate = [ x = 932, y = 165, width = 216, height = 192 ], link_type = [ Next_TB((1 : shape4) ]
+Shape2 : type = [Rectangle], text = [ Logic based on model ], coordinate = [ x = 237, y = 505, width = 273, height = 180 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Realitycheck ], coordinate = [ x = 654, y = 505, width = 124, height = 182 ], link_type = [ Multi Flow(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Inference engine ], coordinate = [ x = 914, y = 525, width = 253, height = 145 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Log ], coordinate = [ x = 675, y = 855, width = 82, height = 79 ], link_type = [  ]

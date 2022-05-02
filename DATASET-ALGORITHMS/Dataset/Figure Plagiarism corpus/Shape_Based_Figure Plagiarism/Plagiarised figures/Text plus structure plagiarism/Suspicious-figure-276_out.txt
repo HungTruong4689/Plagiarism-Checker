@@ -1,0 +1,5 @@
+Shape0 : type = [SQUARE], text = [ Produce THE HuB CHALIENGE ], coordinate = [ x = 44, y = 3, width = 141, height = 151 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ ADD test to the HTTP reaction header as treat variable ], coordinate = [ x = 42, y = 183, width = 141, height = 151 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ RESOPNSE TO THE CLIENT WITH RETRY STATUS], coordinate = [ x = 42, y = 361, width = 142, height = 151 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ ALLOW CLENT TO RE SUBMIT REQUEST WITH CLEANT RESPONSE AS THE COOKIE VARIABLE], coordinate = [ x = 45, y = 542, width = 141, height = 152 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [SQUARE], text = [ ALLOW THE CLIENT TO PRESENT THE AUTHENTICATION TOKEN TO THE SERVER], coordinate = [ x = 45, y = 727, width = 141, height = 151 ], link_type = [  ]

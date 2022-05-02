@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Pre-process each document in documents set  ], coordinate = [ x = 121, y = 138, width = 404, height = 99 ], link_type = [ Next_TB((1 : shape1)  ]
+Shape1 : type = [Rectangle], text = [ Create histogram for frequency of terms in each document  ], coordinate = [ x = 121, y = 267, width = 404, height = 100 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Create document reference frequency (corpus) graph  ], coordinate = [ x = 121, y = 433, width = 404, height = 99 ], link_type = [Next(1 : shape3)   ]
+Shape3 : type = [Rectangle], text = [ Remove terms falling outside either edge of predefined thresholds  ], coordinate = [ x = 121, y = 562, width = 404, height = 100 ], link_type = [Next(1 : shape4)   ]
+Shape4 : type = [Rectangle], text = [ Generate themes ], coordinate = [ x = 121, y = 692, width = 404, height = 81 ], link_type = [ Next_TB((1 : shape5)  ]
+Shape5 : type = [Rectangle], text = [ Create clusters  ], coordinate = [ x = 121, y = 802, width = 404, height = 81 ], link_type = [ Next_TB((1 : shape6)  ]
+Shape6 : type = [Rectangle], text = [ Create matrix of documents containing terms for each theme  ], coordinate = [ x = 121, y = 913, width = 404, height = 99 ], link_type = [ Next_TB((1 : shape7)  ]
+Shape7 : type = [Rectangle], text = [ Determine results  ], coordinate = [ x = 121, y = 1042, width = 404, height = 67 ], link_type = [  ]

@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ TRANSLATE DOCUMENTS ], coordinate = [ x = 82, y = 239, width = 562, height = 84 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RECEIVE QUERY ], coordinate = [ x = 82, y = 478, width = 562, height = 84 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ SEARCH TRANSLATED DOCUMENTS ], coordinate = [ x = 82, y = 695, width = 562, height = 85 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ RETURN RESULTS ], coordinate = [ x = 82, y = 934, width = 562, height = 84 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ DATA ENTRY DEVICE ], coordinate = [ x = 94, y = 270, width = 294, height = 78 ], link_type = [ line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ IMAGE ABNORMALITY PROCESSING UNIT ], coordinate = [ x = 439, y = 270, width = 292, height = 78 ], link_type = [ Multi-line(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ MEMORY UNIT ], coordinate = [ x = 783, y = 271, width = 290, height = 77 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ DISPLAY INTERFACE ], coordinate = [ x = 438, y = 393, width = 293, height = 77 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ REMOTE IMAGE DATABASE ], coordinate = [ x = 437, y = 587, width = 293, height = 76 ], link_type = [  ]

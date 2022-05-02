@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Determine Power Remaining in Battery of Compuling Device Having OLED Display ], coordinate = [ x = 268, y = 177, width = 440, height = 88 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Diamond], text = [ Which Operating Mode for Computing Device Selected Based on Remming power? ], coordinate = [ x = 239, y = 333, width = 497, height = 143 ], link_type = [ Decision(1 : shape2, 2 : shape3, 3 : shape4) ]
+Shape2 : type = [Rectangle], text = [ Disable Blur and Animation FUNCTIONS  OF OLED Display ], coordinate = [ x = 60, y = 541, width = 241, height = 322 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ (i) Disable Blur and Animation Functions of OLED Display. and(ii) Decrease Resolution of OLED Display ], coordinate = [ x = 368, y = 541, width = 241, height = 322 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ (i) Disable Blur and Animation Functions of OLED Display,(ii) Decrease Resolution of OLED Display, and(iii) Command Only Black and Red Colors for Display by OLED Display ], coordinate = [ x = 695, y = 541, width = 240, height = 322 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Network ], coordinate = [ x = 1086, y = 82, width = 116, height = 58 ], link_type = [ Next_TB((1 : shape4) ]
+Shape1 : type = [Rectangle], text = [ DispLaY ], coordinate = [ x = 304, y = 400, width = 159, height = 131 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Power Saving Module ], coordinate = [ x = 585, y = 401, width = 157, height = 130 ], link_type = [ Next_TB((1 : shape5) ]
+Shape3 : type = [Rectangle], text = [ Processor ], coordinate = [ x = 828, y = 400, width = 158, height = 131 ], link_type = [ Next_TB((1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Communication Module ], coordinate = [ x = 1071, y = 400, width = 159, height = 131 ], link_type = [ Next_TB((1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Battery ], coordinate = [ x = 585, y = 595, width = 400, height = 130 ], link_type = [  ]

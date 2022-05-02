@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Select ], coordinate = [ x = 196, y = 68, width = 79, height = 37 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Parallelogram], text = [ Send ], coordinate = [ x = 198, y = 119, width = 74, height = 39 ], link_type = [ Multi Line(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Check ], coordinate = [ x = 203, y = 172, width = 65, height = 38 ], link_type = [ Next_RL(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Confirm ], coordinate = [ x = 322, y = 210, width = 66, height = 39 ], link_type = [  ]
+Shape4 : type = [Parallelogram], text = [ Order ], coordinate = [ x = 203, y = 358, width = 64, height = 37 ], link_type = [  ]

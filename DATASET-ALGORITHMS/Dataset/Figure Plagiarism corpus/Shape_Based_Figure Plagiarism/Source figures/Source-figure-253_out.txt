@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ VORONOI DIAGRAM PROCESSING ], coordinate = [ x = 630, y = 294, width = 215, height = 149 ], link_type = [ Multi Flow(1 : shape1, 2 : shape3) ]
+Shape1 : type = [Rectangle], text = [ A POLE SELECTION ], coordinate = [ x = 923, y = 292, width = 215, height = 149 ], link_type = [ Multi Flow(1 : shape2, 3 : shape4) ]
+Shape2 : type = [Rectangle], text = [ DELAUNAY TRIANGULATION PROCESSING ], coordinate = [ x = 1211, y = 290, width = 215, height = 150 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Decision], text = [ FILTERING BY NORMAL ANGLES ], coordinate = [ x = 753, y = 526, width = 216, height = 151 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ MANIFOLDl EXTRACTION ], coordinate = [ x = 1046, y = 525, width = 215, height = 150 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ RECONSTRUCTED SURFACE ], coordinate = [ x = 1034, y = 790, width = 243, height = 152 ], link_type = [  ]

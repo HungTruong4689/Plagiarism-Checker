@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 130, y = 37, width = 101, height = 53 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Find missing stag(s) resolve issues ], coordinate = [ x = 404, y = 106, width = 155, height = 58 ], link_type = [ Next_BT(1 : shape4) ]
+Shape2 : type = [Rectangle], text = [ write descriptor ], coordinate = [ x = 99, y = 113, width = 155, height = 51 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ Determine inputs], coordinate = [ x = 99, y = 177, width = 155, height = 51 ], link_type = [ ]
+Shape4 : type = [Diamond], text = [ all steps], coordinate = [ x = 409, y = 204, width = 144, height = 53 ], link_type = [ Decision( 1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ Determine Sequenual Step: ], coordinate = [ x = 226, y = 250, width = 155, height = 56 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Flow chart complete  ], coordinate = [ x = 576, y = 313, width = 116, height = 49 ], link_type = [  ]

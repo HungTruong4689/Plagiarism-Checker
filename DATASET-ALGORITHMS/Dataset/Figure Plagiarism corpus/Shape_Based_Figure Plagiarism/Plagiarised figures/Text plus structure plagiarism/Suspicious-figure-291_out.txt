@@ -1,0 +1,5 @@
+Shape0 : type = [SQUARE], text = [ POpulale database with delicate and non-Touchy information ], coordinate = [ x = 25, y = 5, width = 142, height = 152 ], link_type = [ Next_TB(1 : shape1)  ]
+Shape1 : type = [SQUARE], text = [ Create straight forward  tables of much of the time looked information ], coordinate = [ x = 34, y = 183, width = 132, height = 141 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ Generate indexes for searching transparent tables ], coordinate = [ x = 34, y = 346, width = 141, height = 152 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ Perform fast searching using transparent indexes ], coordinate = [ x = 42, y = 521, width = 132, height = 141 ], link_type = [ Next_TB(1 : shape4)  ]
+Shape4 : type = [SQUARE], text = [ Encrypt database for Permanent storage ], coordinate = [ x = 48, y = 684, width = 122, height = 132 ], link_type = [  ]

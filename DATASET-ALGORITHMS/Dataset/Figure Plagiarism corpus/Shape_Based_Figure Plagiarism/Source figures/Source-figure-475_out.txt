@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ RECEIVE 3D MAP OF HUMAN FIGURE ], coordinate = [ x = 35, y = 12, width = 697, height = 65 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ EXTRACT BODY EDGE ], coordinate = [ x = 36, y = 127, width = 696, height = 65 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ IDENTIFY AND LOCATE HEAD ], coordinate = [ x = 38, y = 233, width = 696, height = 65 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ ESTIMATE BODY HEIGHT FROM HEAD TO FEET OR FLOOR ], coordinate = [ x = 38, y = 325, width = 697, height = 100 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ TRACK MOTION USING BODY DIMENSIONS ], coordinate = [ x = 40, y = 469, width = 696, height = 66 ], link_type = [  ]

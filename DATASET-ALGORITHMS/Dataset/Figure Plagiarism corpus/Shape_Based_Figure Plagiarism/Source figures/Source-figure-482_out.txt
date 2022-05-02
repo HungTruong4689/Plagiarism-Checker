@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 279, y = 20, width = 97, height = 66 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ SIM-analysis (estimation of the internal IT and external parameters of the recording device) ], coordinate = [ x = 144, y = 167, width = 376, height = 94 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Determination of the position of arecording device used to recordthe virtual initial image ], coordinate = [ x = 145, y = 345, width = 373, height = 95 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Creation of a virtual final imagevia planar transiormations(homographies) ], coordinate = [ x = 143, y = 521, width = 377, height = 95 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ End ], coordinate = [ x = 286, y = 699, width = 87, height = 66 ], link_type = [  ]

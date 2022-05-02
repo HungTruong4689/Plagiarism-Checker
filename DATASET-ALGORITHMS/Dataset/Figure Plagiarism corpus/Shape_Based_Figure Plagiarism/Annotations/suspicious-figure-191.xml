@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/figure-plagiarism/document.xsd" reference="suspicious-figure-191.jpg" language="en">
+  <feature name="tagged-document" reference="suspicious-document-191_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape0"source_reference="Source-figure-13_out.txt" source_component="Shape0" 
+
+  <feature name="artificial-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape1"source_reference="Source-figure-13_out.txt" source_compnent="Shape1"  />
+
+  <feature name="artificial-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape2"source_reference="Source-figure-13_out.txt" source_compnent="Shape2"  />
+
+  <feature name="artificial-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape3"source_reference="Source-figure-13_out.txt" source_compnent="Shape5"  />
+
+  <feature name="artificial-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape4"source_reference="Source-figure-13_out.txt" source_compnent="Shape3"  />
+
+    </document>

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Split image into character blocks. ], coordinate = [ x = 168, y = 19, width = 305, height = 100 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Identify character blocks as letters,digits,or symbols. ], coordinate = [ x = 169, y = 164, width = 305, height = 101 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Group or split hard to identify character blocks. ], coordinate = [ x = 162, y = 307, width = 305, height = 102 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Identify character blocks that constitute a line of text. ], coordinate = [ x = 164, y = 449, width = 305, height = 101 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Form a string for each line of text. ], coordinate = [ x = 164, y = 591, width = 304, height = 101 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Post processing. ], coordinate = [ x = 167, y = 735, width = 303, height = 100 ], link_type = [  ]

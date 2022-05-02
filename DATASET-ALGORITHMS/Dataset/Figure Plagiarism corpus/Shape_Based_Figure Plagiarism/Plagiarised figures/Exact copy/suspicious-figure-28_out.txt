@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Sentence pairs feature extraction ], coordinate = [ x = 79, y = 10, width = 353, height = 96 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Feature weighting using genetic algorithm ], coordinate = [ x = 79, y = 134, width = 353, height = 89 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Retrieve similar cases using weighted similarity measure ], coordinate = [ x = 81, y = 254, width = 352, height = 91 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ Similar ?], coordinate = [ x = 169, y = 373, width = 173, height = 96 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Reuse case ], coordinate = [ x = 608, y = 389, width = 172, height = 62 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Identify CST relationship ], coordinate = [ x = 595, y = 531, width = 202, height = 92 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Rctise case ], coordinate = [ x = 132, y = 543, width = 244, height = 66 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Adapt in casebase ], coordinate = [ x = 132, y = 638, width = 244, height = 65 ], link_type = [  ]

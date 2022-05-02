@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Re-scan list of contours of Bubbles to evaluate ], coordinate = [ x = 105, y = 107, width = 295, height = 95 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Image of Bubble to evaluate by OCR ], coordinate = [ x = 105, y = 225, width = 295, height = 92 ], link_type = [ Next_TB(1 : shape2)  ]
+Shape2 : type = [Rectangle], text = [ Send to Image processing library to reslze and normalize ], coordinate = [ x = 105, y = 334, width = 295, height = 93 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [  Send to Image processing library to compare against training XML: is symbol detected Inside bubble image? ], coordinate = [ x = 106, y = 440, width = 295, height = 168 ], link_type = [ Multi Flow(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [  OUTPUT 0], coordinate = [ x = 44, y = 718, width = 203, height = 41 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [  Output 1 ], coordinate = [ x = 300, y = 718, width = 203, height = 41 ], link_type = [  ]

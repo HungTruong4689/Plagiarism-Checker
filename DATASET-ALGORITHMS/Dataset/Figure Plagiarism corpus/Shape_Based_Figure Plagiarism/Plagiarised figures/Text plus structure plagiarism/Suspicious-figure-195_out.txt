@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Phase 1 comparison data prepration(Gold Standard Document) ], coordinate = [ x = 362, y = 75, width = 301, height = 95 ], link_type = [ Next_TB(1 : shape1)   ]
+Shape1 : type = [Rectangle], text = [ Phase 2 input data data prepration(Englishs translated our-attic text ], coordinate = [ x = 361, y = 184, width = 301, height = 95 ], link_type = [Line(1 : shape2)     ]
+Shape2 : type = [Rectangle], text = [ Phase 3 Method 1 alfonseca manandhar method(NER and WSD techniques) ], coordinate = [ x = 364, y = 288, width = 289, height = 99 ], link_type = [ [Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Phase 4 Method 1 Gupta and colleagues approach(Based on Hearst Pattern) ], coordinate = [ x = 373, y = 392, width = 276, height = 99 ], link_type = [  ]

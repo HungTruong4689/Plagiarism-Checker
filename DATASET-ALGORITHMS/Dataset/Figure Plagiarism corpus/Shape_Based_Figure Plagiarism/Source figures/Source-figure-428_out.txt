@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Outlier Restriction ], coordinate = [ x = 118, y = 32, width = 140, height = 62 ], link_type = [ Next_TB(1:shape1)  ]
+Shape1 : type = [Rectangle], text = [ Extract Value of VariabIe_X ], coordinate = [ x = 61, y = 119, width = 253, height = 66 ], link_type = [Next(1:shape2) ]
+Shape2 : type = [Diamond], text = [ Variable_X < Thresshold_Z ? ], coordinate = [ x = 50, y = 211, width = 276, height = 167 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ VariabIe_XThreshold_Z ], coordinate = [ x = 364, y = 250, width = 164, height = 89 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Use VariabIe_X ], coordinate = [ x = 374, y = 364, width = 145, height = 72 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Receive web crawling configuration ], coordinate = [ x = 103, y = 19, width = 396, height = 92 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Download webpage ], coordinate = [ x = 103, y = 152, width = 396, height = 83 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Render Javascript ], coordinate = [ x = 103, y = 285, width = 396, height = 83 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Extract information from web pagebased on the web crawling configuration ], coordinate = [ x = 103, y = 419, width = 396, height = 140 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Store extracted lnformation ], coordinate = [ x = 103, y = 599, width = 396, height = 83 ], link_type = [  ]

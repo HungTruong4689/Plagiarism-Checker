@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Translator ], coordinate = [ x = 458, y = 86, width = 69, height = 54 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Axis X], coordinate = [ x = 161, y = 136, width = 48, height = 55 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Axis Y ], coordinate = [ x = 244, y = 137, width = 56, height = 54 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Spindle ], coordinate = [ x = 329, y = 138, width = 57, height = 53 ], link_type = [  ]

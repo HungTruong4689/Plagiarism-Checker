@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Receive a message including a user modification of a selected portion of 3D graphic indicia ], coordinate = [ x = 122, y = 34, width = 568, height = 121 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Update 2.5D GIS data in the GIS database as needed based on the modification ], coordinate = [ x = 37, y = 227, width = 738, height = 121 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Optionally update 3D data in the 3D database as neededbased on the modification ], coordinate = [ x = 37, y = 415, width = 738, height = 121 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Pass modified GIS and/or 3D information to the engine interface for updating the 3D rendering ], coordinate = [ x = 37, y = 605, width = 738, height = 121 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Cause the 3D window display to be updated ], coordinate = [ x = 123, y = 798, width = 567, height = 80 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ End ], coordinate = [ x = 332, y = 943, width = 148, height = 121 ], link_type = [  ]

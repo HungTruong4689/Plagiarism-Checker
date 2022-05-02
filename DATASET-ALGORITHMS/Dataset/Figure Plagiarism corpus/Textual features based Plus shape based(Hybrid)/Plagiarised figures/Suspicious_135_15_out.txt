@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ LLM 1 ], coordinate = [ x = 144, y = 29, width = 68, height = 55 ], link_type = [ Next_LR(1: shape1) ]
+Shape1 : type = [Rectangle], text = [ LLC 1 ], coordinate = [ x = 249, y = 29, width = 68, height = 55 ], link_type = [ ]
+Shape2 : type = [Rectangle], text = [ LLM 2 ], coordinate = [ x = 144, y = 87, width = 68, height = 55 ], link_type = [ Next_LR(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ LLC 2 ], coordinate = [ x = 249, y = 87, width = 68, height = 55 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ LLM M ], coordinate = [ x = 144, y = 169, width = 68, height = 54 ], link_type = [ Next_LR(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ LLC M ], coordinate = [ x = 249, y = 169, width = 68, height = 54 ], link_type = [  ]

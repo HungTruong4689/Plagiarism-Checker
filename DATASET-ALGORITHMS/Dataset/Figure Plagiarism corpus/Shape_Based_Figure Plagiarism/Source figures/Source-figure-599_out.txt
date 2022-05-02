@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ DEFINE HIERARCHICAL CONTENT REPRESENTATION AND  QUERY LANGUAGE  ], coordinate = [ x = 42, y = 41, width = 747, height = 94 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Quadrangle], text = [ DEFINE IMAGE PARSING AND UNDERSTANDING  ], coordinate = [ x = 41, y = 189, width = 746, height = 93 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ DEFINE MULTILEVEL SEARCH ENGINE ], coordinate = [ x = 39, y = 336, width = 747, height = 95 ], link_type = [  ]

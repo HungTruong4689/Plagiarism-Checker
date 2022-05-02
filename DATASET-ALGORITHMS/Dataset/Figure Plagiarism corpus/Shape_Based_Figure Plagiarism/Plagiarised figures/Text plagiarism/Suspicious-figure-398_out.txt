@@ -1,0 +1,4 @@
+Shape0 : type = [SQUARE], text = [ Outer Interface ], coordinate = [ x = 193, y = 9, width = 103, height = 113 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ Processor ], coordinate = [ x = 384, y = 8, width = 103, height = 113 ], link_type = [ Double Arrow(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ Information giving Module], coordinate = [ x = 562, y = 8, width = 103, height = 113 ], link_type = [  ]
+Shape3 : type = [SQUARE], text = [ Encoding Module ], coordinate = [ x = 23, y = 22, width = 93, height = 103 ], link_type = [ Double Arrow(1 : shape0)  ]

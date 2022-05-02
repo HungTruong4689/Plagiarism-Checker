@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Image analysissection ], coordinate = [ x = 78, y = 70, width = 171, height = 76 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Image feature extractionformula derivatron section ], coordinate = [ x = 347, y = 72, width = 212, height = 76 ], link_type = [ ]
+Shape2 : type = [Rectangle], text = [ Distance function calculation unit ], coordinate = [ x = 729, y = 179, width = 172, height = 75 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [  Shader nodeanalysis section_:._j1 ], coordinate = [ x = 77, y = 280, width = 171, height = 101 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Shader feature classmcation section ], coordinate = [ x = 288, y = 281, width = 171, height = 101 ], link_type = [ Next_LR(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Shader featureextraction formula derivafion section ], coordinate = [ x = 499, y = 282, width = 172, height = 101 ], link_type = [  ]

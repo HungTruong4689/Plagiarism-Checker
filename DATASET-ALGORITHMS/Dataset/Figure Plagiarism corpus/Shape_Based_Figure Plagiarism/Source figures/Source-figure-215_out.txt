@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Perform measurement in each sensor unit Si ], coordinate = [ x = 95, y = 148, width = 559, height = 53 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Calculate pitch angle all and roll angle /3i in localcoordinate system Ci of each sensor unit Si from measurement data obtained by acceleration sensor Ai ], coordinate = [ x = 95, y = 250, width = 559, height = 107 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Calculate yaw angle vi in local coordinate system CI of each sensor unit Si from measurement data obtained by geomagnetic sensor Bi ], coordinate = [ x = 95, y = 406, width = 559, height = 106 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Form each link Tj from posture angles a i, 3i, and y: ], coordinate = [ x = 95, y = 563, width = 558, height = 52 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Parallel translate each formed link T1 to compensate position ], coordinate = [ x = 95, y = 664, width = 558, height = 81 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Perform curve interpolation with respect to detectedlinear form 61 and estimate detected curve form 65 ], coordinate = [ x = 95, y = 793, width = 559, height = 81 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Diamond], text = [ End of inspection?  ], coordinate = [ x = 251, y = 923, width = 248, height = 145 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ GEOCODING SERVICE(SERVICE HORIZONTALS) ], coordinate = [ x = 345, y = 64, width = 273, height = 111 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ PLATFORM COMMON COMPONENTS ], coordinate = [ x = 743, y = 64, width = 187, height = 111 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ GEOCODING MANAGER ], coordinate = [ x = 387, y = 307, width = 188, height = 111 ], link_type = [ Line(1 : shape5)  ]
+Shape3 : type = [Rectangle], text = [ RESULTS COMPONENT(RANKING ANDSCORING) ], coordinate = [ x = 674, y = 480, width = 186, height = 146 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ TRIAGE COMPONENT(QUERY TRIAGE) ], coordinate = [ x = 102, y = 498, width = 186, height = 110 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ PARALLEL EXECUTION COMPONENT(GEOCODING) ], coordinate = [ x = 387, y = 688, width = 188, height = 128 ], link_type = [  ]

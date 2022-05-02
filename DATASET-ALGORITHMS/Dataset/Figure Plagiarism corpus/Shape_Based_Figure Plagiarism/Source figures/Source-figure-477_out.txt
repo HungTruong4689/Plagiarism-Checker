@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ 100 Input Video Stream  ], coordinate = [ x = 48, y = 5, width = 239, height = 162 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ 105 Compute Difference inIllumination vs. Static Image  ], coordinate = [ x = 48, y = 220, width = 239, height = 161 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ 110 Threshold the Difference ], coordinate = [ x = 48, y = 429, width = 239, height = 161 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ 115 Group Pixels into Blobs : ], coordinate = [ x = 48, y = 644, width = 239, height = 161 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ 120 Biob Analysis ], coordinate = [ x = 48, y = 858, width = 239, height = 162 ], link_type = [  ]

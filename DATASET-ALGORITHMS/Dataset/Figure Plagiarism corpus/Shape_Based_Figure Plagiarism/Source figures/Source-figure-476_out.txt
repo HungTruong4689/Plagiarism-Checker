@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ FIND MEDIAL AXES AND EXTREME POINTS OF LIMBS ], coordinate = [ x = 121, y = 16, width = 524, height = 95 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ LOCATE JOINTS ], coordinate = [ x = 121, y = 148, width = 524, height = 59 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ IDENTIFY LEFT AND RIGHT ARMS INCALIBRATION POSE ], coordinate = [ x = 121, y = 243, width = 524, height = 95 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ FIND TOP OF HEAD BETWEEN ARMS ], coordinate = [ x = 121, y = 375, width = 524, height = 58 ], link_type = [  ]

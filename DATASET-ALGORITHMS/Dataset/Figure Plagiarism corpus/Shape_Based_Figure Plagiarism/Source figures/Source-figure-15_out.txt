@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Query document ], coordinate = [ x = 61, y = 29, width = 116, height = 84 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Sentence splitter], coordinate = [ x = 266, y = 45, width = 288, height = 53 ], link_type = [ Multi Flow(1 : shape2, 2 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Local similarity extractor], coordinate = [ x = 317, y = 91, width = 203, height = 37 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ document similarity extractor], coordinate = [ x = 249, y = 200, width = 355, height = 53 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Result ], coordinate = [ x = 283, y = 287, width = 271, height = 54 ], link_type = [  ]

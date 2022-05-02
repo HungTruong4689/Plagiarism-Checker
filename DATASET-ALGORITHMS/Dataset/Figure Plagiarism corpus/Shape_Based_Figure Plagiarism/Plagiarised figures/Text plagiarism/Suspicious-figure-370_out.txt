@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ obtain Multiple Measuramants Between MIAItIp|eElectrode Pans, Chosen From Al Leasl 3Electrodes ], coordinate = [ x = 237, y = 45, width = 326, height = 62 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Pre-Filter srgnais To suppress Incoherent NoiseTe ], coordinate = [ x = 238, y = 145, width = 325, height = 62 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ compute The Cross-Correlation Matrix  ], coordinate = [ x = 239, y = 246, width = 325, height = 67 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ Compute Eigenvaiues 0! The Cross Correlation Malrlx  ], coordinate = [ x = 239, y = 339, width = 325, height = 76 ], link_type = [ Next_TB(1 : shape4)  ]
+Shape4 : type = [Rectangle], text = [ Eiimmate Noise Sources Associated With Smaller Eigenvalues ], coordinate = [ x = 238, y = 441, width = 327, height = 52 ], link_type = [ Next_TB(1 : shape5)  ]
+Shape5 : type = [Rectangle], text = [ Obtain separated Sourcese  ], coordinate = [ x = 240, y = 522, width = 325, height = 67 ], link_type = [ Next_TB(1 : shape6)  ]
+Shape6 : type = [Rectangle], text = [ Pertorm Additinal separation Based On HigherOrder statistics, IF Necessary ], coordinate = [ x = 239, y = 615, width = 325, height = 74 ], link_type = [ Next_TB(1 : shape7)  ]
+Shape7 : type = [Rectangle], text = [ Identity selected vector ], coordinate = [ x = 241, y = 718, width = 325, height = 68 ], link_type = [  ]

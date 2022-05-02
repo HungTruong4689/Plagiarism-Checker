@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ TEXT EXTRACTOR ], coordinate = [ x = 277, y = 38, width = 286, height = 86 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ TEXT OCCUPANCY AMOUNT CALCULATOR ], coordinate = [ x = 276, y = 216, width = 286, height = 91 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ COMPARATOR ], coordinate = [ x = 276, y = 398, width = 286, height = 59 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ DISPLAY ], coordinate = [ x = 276, y = 549, width = 286, height = 66 ], link_type = [  ]

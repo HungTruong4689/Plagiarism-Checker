@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 202, y = 53, width = 64, height = 38 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ TRAFFIC MONITOR RECEIVES REAL-TIME TRAFFICS TATISTIC UPDATES ], coordinate = [ x = 82, y = 114, width = 304, height = 90 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ TRAFFIC MONITOR COMPILESREAL-TIME TRAFFIC INFORMATION ], coordinate = [ x = 82, y = 227, width = 304, height = 89 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ RTIN CONTROLLERS QUERYDATA SOURCES ], coordinate = [ x = 82, y = 340, width = 304, height = 69 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ RTIN CONTROLLERS PROCESSCIUERY RESULTS ], coordinate = [ x = 82, y = 432, width = 304, height = 69 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ RTIN CONTROLLERS UPDATERTIN DATABASE ], coordinate = [ x = 82, y = 525, width = 304, height = 68 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ RTIN CONTROLLERS SENTRTIN DATABASE UPDATET0 RTIN SERVERS ], coordinate = [ x = 82, y = 617, width = 304, height = 89 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ END ], coordinate = [ x = 204, y = 729, width = 61, height = 39 ], link_type = [  ]

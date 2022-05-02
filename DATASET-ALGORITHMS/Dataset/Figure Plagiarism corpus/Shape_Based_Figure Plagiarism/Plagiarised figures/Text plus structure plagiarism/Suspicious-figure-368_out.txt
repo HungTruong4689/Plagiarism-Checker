@@ -1,0 +1,4 @@
+Shape0 : type = [SQUARE], text = [ Detecting a Majority of Cardiovascular Signs INCLUDING ELECTROGRAME (S)AND remote ECG (s) ], coordinate = [ x = 42, y = 21, width = 151, height = 161 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ Creating QUALITY PARAMETERS Every DEMOSTRATION oF A Nature oF Cardiovascular Sign ], coordinate = [ x = 48, y = 214, width = 142, height = 151 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ SELECTING Heart signal(s) In view of In any event the quality parameters ], coordinate = [ x = 63, y = 395, width = 122, height = 132 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ Distinguishing AN ARRhythmia In light of THE chose Heart signaI(s) ], coordinate = [ x = 59, y = 565, width = 141, height = 151 ], link_type = [  ]

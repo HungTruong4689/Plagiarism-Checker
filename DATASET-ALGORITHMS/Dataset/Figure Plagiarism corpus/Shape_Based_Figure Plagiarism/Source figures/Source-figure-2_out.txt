@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ ODN], coordinate = [ x = 168, y = 41, width = 74, height = 64 ], link_type = [ Multi Line(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ mRNA ], coordinate = [ x = 51, y = 147, width = 75, height = 64 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Truncated adenosine A1 receptor ], coordinate = [ x = 293, y = 147, width = 173, height = 64 ], link_type = [  ]

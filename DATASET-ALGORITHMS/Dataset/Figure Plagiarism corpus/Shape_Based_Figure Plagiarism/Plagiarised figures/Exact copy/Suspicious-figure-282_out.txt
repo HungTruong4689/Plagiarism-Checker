@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ REQUEST A use or THE DIGITAL CONTENT comem ], coordinate = [ x = 305, y = 137, width = 192, height = 52 ], link_type = [ Next_TB(1:shape1) ]
+Shape1 : type = [Diamond], text = [ CONTENT CLASSIFICATION], coordinate = [ x = 329, y = 204, width = 144, height = 93 ], link_type = [ Decision(1 : shape2,2:shape3)) ]
+Shape2 : type = [Diamond], text = [  USE ALLOWED BY TRUSTED VOUCHER], coordinate = [ x = 448, y = 334, width = 144, height = 94 ], link_type = [ Decision( 1 : shape5) ]
+Shape3 : type = [Diamond], text = [ DIGITAL CONTENT EXPERID ], coordinate = [ x = 351, y = 432, width = 144, height = 94 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ DELET THE DOGITAL CONTENT], coordinate = [ x = 542, y = 442, width = 193, height = 52 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ use THE DIGITAL CONTENT IN THE REQUESTED MANNER. ], coordinate = [ x = 185, y = 529, width = 193, height = 52 ], link_type = [  ]

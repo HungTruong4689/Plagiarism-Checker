@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Generate sentence lattice 302 ], coordinate = [ x = 75, y = 41, width = 575, height = 131 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine set of possible paths through lattice 304 ], coordinate = [ x = 79, y = 276, width = 575, height = 133 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Score each path through lattice 306  ], coordinate = [ x = 79, y = 552, width = 575, height = 132 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Select most likely path 308 ], coordinate = [ x = 79, y = 825, width = 575, height = 132 ], link_type = [  ]

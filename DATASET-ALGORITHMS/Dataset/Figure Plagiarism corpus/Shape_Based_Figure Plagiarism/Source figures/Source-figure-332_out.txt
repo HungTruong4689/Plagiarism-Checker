@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Select an expression. ], coordinate = [ x = 249, y = 31, width = 462, height = 149 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Find a section of an image suitably similar to selected expression. ], coordinate = [ x = 250, y = 256, width = 463, height = 149 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Build a text string directly from the section and score the text string against the selected expression. ], coordinate = [ x = 242, y = 477, width = 461, height = 147 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ If score is above a threshold,record that selected expression was found at a location in the image. ], coordinate = [ x = 246, y = 696, width = 462, height = 149 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Repeat steps 801 -804 for allexpressions. ], coordinate = [ x = 247, y = 918, width = 461, height = 149 ], link_type = [  ]

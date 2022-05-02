@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ preprocessing ], coordinate = [ x = 172, y = 14, width = 166, height = 34 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Candidate Extraction ], coordinate = [ x = 172, y = 78, width = 166, height = 34 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Candidate Clustering ], coordinate = [ x = 172, y = 142, width = 166, height = 35 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Graph-Based Ranking ], coordinate = [ x = 172, y = 206, width = 166, height = 35 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Keyphrase Selection ], coordinate = [ x = 172, y = 270, width = 166, height = 34 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ CPU ], coordinate = [ x = 67, y = 177, width = 220, height = 115 ], link_type = [ Next_TB(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ MEMORY 106 RULE REFINEMENT PROGRAM ], coordinate = [ x = 366, y = 177, width = 484, height = 195 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ RULE REFINEMENT PROGRAM ], coordinate = [ x = 398, y = 242, width = 418, height = 77 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ I/O INTERFACE ], coordinate = [ x = 67, y = 409, width = 258, height = 97 ], link_type = [ Multi Flow(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ I/O DEVICES ], coordinate = [ x = 22, y = 609, width = 169, height = 134 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ STORAGEUNIT ], coordinate = [ x = 212, y = 609, width = 169, height = 134 ], link_type = [  ]

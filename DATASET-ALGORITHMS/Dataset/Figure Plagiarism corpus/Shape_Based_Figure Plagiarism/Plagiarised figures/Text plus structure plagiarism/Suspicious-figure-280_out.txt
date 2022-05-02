@@ -1,0 +1,8 @@
+Shape0 : type = [SQUARE], text = [ OBTAIN THE CERTIFICATE], coordinate = [ x = 252, y = 2, width = 103, height = 113 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ VERIFY THE CERTIFICATE], coordinate = [ x = 239, y = 149, width = 122, height = 132 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ VERIFICATION RESULT], coordinate = [ x = 222, y = 312, width = 164, height = 126 ], link_type = [ Decision(1 : shape3, 2 : shape4) ]
+Shape3 : type = [SQUARE], text = [ USE AN HTML TO INDECATE A FILILURE STATUS TO THE CLIENT], coordinate = [ x = 412, y = 394, width = 131, height = 141 ], link_type = [  ]
+Shape4 : type = [SQUARE], text = [ CREATE AND REGISTER NEW AUTHNTICATION SESSION], coordinate = [ x = 61, y = 399, width = 132, height = 142 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ VALIDATE THIS SESSION BY VERIFYING THE AUTHENTICATION TOKEN ], coordinate = [ x = 256, y = 577, width = 122, height = 132 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [SQUARE], text = [ GENERATE THE NODE CHALLENGE RANDOM NUMBER], coordinate = [ x = 249, y = 740, width = 123, height = 133 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [SQUARE], text = [ GENERATE THE NOTDE CHALLENGE RANDOM NUMBER], coordinate = [ x = 244, y = 898, width = 132, height = 142 ], link_type = [  ]

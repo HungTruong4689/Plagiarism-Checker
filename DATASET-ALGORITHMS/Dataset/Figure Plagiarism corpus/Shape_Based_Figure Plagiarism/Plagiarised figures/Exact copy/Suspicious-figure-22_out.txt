@@ -1,0 +1,6 @@
+Shape0 : type = [Parallelogram], text = [ Biofeedback Display ], coordinate = [ x = 365, y = 109, width = 205, height = 147 ], link_type = [ Multi Flow(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Parallelogram], text = [ DecisionRules ], coordinate = [ x = 85, y = 325, width = 237, height = 114 ], link_type = [ Multi Flow(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Intelligent Biofeed back Display Generator ], coordinate = [ x = 365, y = 301, width = 206, height = 149 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Decision Rule Mangement System ], coordinate = [ x = 101, y = 498, width = 206, height = 148 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Parallelogram], text = [ Biofeedback Software Processor ], coordinate = [ x = 367, y = 498, width = 205, height = 147 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Biofeed back Monitoring System ], coordinate = [ x = 635, y = 496, width = 206, height = 147 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Save Web Links  to Database ], coordinate = [ x = 320, y = 36, width = 332, height = 116 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Access Web Site Automatically ], coordinate = [ x = 317, y = 225, width = 333, height = 117 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Categorize Websites ], coordinate = [ x = 382, y = 415, width = 199, height = 115 ], link_type = [ Next_TB((1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determine If Website Updated ], coordinate = [ x = 326, y = 618, width = 306, height = 116 ], link_type = [ Next_TB((1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Signal User of Update ], coordinate = [ x = 377, y = 808, width = 200, height = 115 ], link_type = [ Next_TB((1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Link to Page ], coordinate = [ x = 403, y = 995, width = 145, height = 116 ], link_type = [ Next_TB((1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Reward User with eCoupon ], coordinate = [ x = 347, y = 1183, width = 252, height = 115 ], link_type = [ Next_TB((1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ User Exchanges eCoupon for Prizes ], coordinate = [ x = 305, y = 1371, width = 333, height = 115 ], link_type = [  ]

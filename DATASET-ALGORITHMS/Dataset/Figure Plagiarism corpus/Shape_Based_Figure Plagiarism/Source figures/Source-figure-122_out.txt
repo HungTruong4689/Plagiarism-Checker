@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ GEOCODING MANAGER(ENGINE) ], coordinate = [ x = 357, y = 73, width = 194, height = 114 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ TRIACE COMPONENT(QUERY TRIACE) ], coordinate = [ x = 357, y = 288, width = 193, height = 114 ], link_type = [ Next_TB(1 : shape4) ]
+Shape2 : type = [Rectangle], text = [ PARSER COMPONENT ], coordinate = [ x = 35, y = 538, width = 193, height = 115 ], link_type = [ Line(1 : shape5) ]
+Shape3 : type = [Rectangle], text = [ QUERY OPTIMIZER COMPONENT ], coordinate = [ x = 679, y = 538, width = 194, height = 115 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ CLASSIFIER ], coordinate = [ x = 357, y = 646, width = 193, height = 60 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ VERIFIER COMPONENT ], coordinate = [ x = 251, y = 843, width = 192, height = 113 ], link_type = [  ]

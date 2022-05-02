@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [  ACTIVITY ], coordinate = [ x = 191, y = 26, width = 169, height = 115 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ AlENGINE ], coordinate = [ x = 192, y = 215, width = 168, height = 115 ], link_type = [  ]

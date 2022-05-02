@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Install Motherboard in Chassis ], coordinate = [ x = 86, y = 28, width = 230, height = 58 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Detect Unique Chassis Structure], coordinate = [ x = 53, y = 124, width = 291, height = 71 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Look Up Parameter with Chassis ID ], coordinate = [ x = 53, y = 237, width = 295, height = 48 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Establish Parameter ], coordinate = [ x = 53, y = 326, width = 291, height = 43 ], link_type = [  ]

@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ <<OwL:Class>>BookOut0fstock0utput ], coordinate = [ x = 23, y = 16, width = 216, height = 51 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ <<OwL:Class>>Ordershippedoutput ], coordinate = [ x = 259, y = 59, width = 212, height = 51 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ <<OwL:Class>> Signlndata-acdName:xsd.smng-passwordstring ], coordinate = [ x = 20, y = 65, width = 222, height = 99 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ <<Service>>ExprassCongoBuyService ], coordinate = [ x = 259, y = 111, width = 238, height = 51 ], link_type = [ Multi Flow(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ <<ServiceProfile>>ProfiIe_Congo_BookBuying_Service ], coordinate = [ x = 22, y = 218, width = 329, height = 56 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ <<ServvceGrounmng>CongoBuyGrounding ], coordinate = [ x = 398, y = 218, width = 217, height = 52 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ <<ServiceModel >>ExpressCongoBuyProcessModel ], coordinate = [ x = 24, y = 282, width = 476, height = 59 ], link_type = [  ]

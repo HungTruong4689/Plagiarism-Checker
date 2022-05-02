@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ ESTIMATE DISTANCE ], coordinate = [ x = 150, y = 165, width = 312, height = 52 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RECEIVE ACTUAL DISTANCE da ], coordinate = [ x = 150, y = 268, width = 312, height = 92 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ CALCULATE NEW K FACTOR ], coordinate = [ x = 150, y = 412, width = 312, height = 92 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Parallelogram], text = [ Kn ], coordinate = [ x = 147, y = 555, width = 311, height = 52 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ ADD Kn T0 CIRCULAR BUFFER ], coordinate = [ x = 146, y = 658, width = 312, height = 93 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Parallelogram], text = [ UPDATED CIRCULAR BUFFER ], coordinate = [ x = 143, y = 803, width = 310, height = 92 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ AVERAGE K VALUES IN BUFFER ], coordinate = [ x = 142, y = 947, width = 312, height = 92 ], link_type = [  ]

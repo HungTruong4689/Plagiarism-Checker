@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Problem Report ], coordinate = [ x = 458, y = 149, width = 101, height = 31 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Expert System Libaray ], coordinate = [ x = 87, y = 210, width = 119, height = 80 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Agent software ], coordinate = [ x = 357, y = 204, width = 65, height = 60 ], link_type = [ Double Arrow(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Automatic Upgrades ], coordinate = [ x = 458, y = 213, width = 101, height = 49 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Hardware/SW Configuration ], coordinate = [ x = 458, y = 286, width = 101, height = 49 ], link_type = [  ]

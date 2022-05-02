@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Extract words from all documents, remove stop words, and slore the stemmed words. ], coordinate = [ x = 43, y = 12, width = 330, height = 62 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Compute weights of words. select top wieghted words to form the vocabulary ], coordinate = [ x = 60, y = 93, width = 313, height = 84 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Compute normalized  word histo grame for each of the document ], coordinate = [ x = 43, y = 198, width = 330, height = 65 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Compute the PCA projection matrix B ], coordinate = [ x = 45, y = 285, width = 328, height = 54 ], link_type = [  ]

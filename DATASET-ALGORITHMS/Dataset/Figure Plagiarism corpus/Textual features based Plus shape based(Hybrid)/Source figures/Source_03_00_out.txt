@@ -1,0 +1,9 @@
+Shape0 : type = [Rectangle], text = [ Positive User Profile], coordinate = [ x = 206, y = 69, width = 99, height = 43 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Nagative User Profile], coordinate = [ x = 308, y = 69, width = 112, height = 43 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Learning Agent ], coordinate = [ x = 62, y = 129, width = 166, height = 63 ], link_type = [ Next_BT(1 : shape0) ]
+Shape3 : type = [Rectangle], text = [ Query Suing Generalation with GA Applied ], coordinate = [ x = 374, y = 166, width = 154, height = 68 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ user Input feedback], coordinate = [ x = 62, y = 206, width = 166, height = 64 ], link_type = [ Next_BT(1 : shape2) ]
+Shape5 : type = [Rectangle], text = [ Webpages Process & Selection], coordinate = [ x = 242, y = 262, width = 166, height = 67 ], link_type = [ Next_BT(1 : shape4) ]
+Shape6 : type = [Rectangle], text = [  Google], coordinate = [ x = 265, y = 410, width = 120, height = 74 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [  WWW], coordinate = [ x = 265, y = 410, width = 120, height = 74 ], link_type = [  ]
+

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ BUSINESS REVEALS ITS INFORMATION FOR ACCESS THROUGH GATEWAY ], coordinate = [ x = 164, y = 134, width = 675, height = 98 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ BUSINESS ACCESS SERVICE TOOL RECEIVES REQUEST FROM CLIENT APPLICATION ], coordinate = [ x = 164, y = 266, width = 676, height = 99 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ DETERMINE A SECURITY LEVEL OF THE REQUEST ], coordinate = [ x = 165, y = 399, width = 677, height = 68 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ TRANSMIT THE REQUEST AND THE DETERMINED SECURITY LEVEL TO THE GATEWAY ], coordinate = [ x = 166, y = 501, width = 677, height = 99 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ GATEWAY FILTERS THE REQUESTED INFORMATION ACCORDING TO THE SECURITY LEVEL ], coordinate = [ x = 167, y = 633, width = 677, height = 99 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ GATEWAY TRANSMITS THE FILTERED IINFORMATION BACK TO THE CLIENT APPLICATION ], coordinate = [ x = 167, y = 766, width = 677, height = 98 ], link_type = [  ]

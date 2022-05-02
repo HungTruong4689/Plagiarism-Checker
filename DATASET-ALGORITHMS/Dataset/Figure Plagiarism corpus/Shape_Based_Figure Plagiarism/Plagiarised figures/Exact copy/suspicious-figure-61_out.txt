@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ DETERMINE TRAINING TEXT ], coordinate = [ x = 124, y = 129, width = 454, height = 45 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DETERMINE NUMBER OF LATENT CLASSES ], coordinate = [ x = 125, y = 242, width = 453, height = 46 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ DETERMINE PLSA MODEL BASED ON TRAINING TEXT AND DETERMINED LATENT CLASSES ], coordinate = [ x = 125, y = 356, width = 453, height = 106 ], link_type = [ Next_TB((1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ SELECT TEXT T0 SUMMARIZE ], coordinate = [ x = 124, y = 530, width = 454, height = 45 ], link_type = [ Next_TB((1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ DETERMINE DIscREEtE text SEGMENTS ], coordinate = [ x = 125, y = 644, width = 453, height = 46 ], link_type = [ Next_TB((1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ DETERMINE AND DISPLAY DISCRETE SENTENCE BASED AND SENTENCE CONSTITUENT BASED SUMMARIES ], coordinate = [ x = 125, y = 757, width = 453, height = 106 ], link_type = [ Next_TB((1 : shape6) ]
+Shape6 : type = [Diamond], text = [ ANOTHER TEXT REGION To SuMMARIZE? ], coordinate = [ x = 191, y = 932, width = 323, height = 136 ], link_type = [  ]

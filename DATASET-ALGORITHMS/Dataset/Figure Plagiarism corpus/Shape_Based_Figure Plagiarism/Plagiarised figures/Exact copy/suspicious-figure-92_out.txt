@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ GEOCODING MANAGER(ENGINE) ], coordinate = [ x = 255, y = 57, width = 194, height = 114 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ PARALL ELEXECUTION COMPONENT(GEOCODING) ], coordinate = [ x = 255, y = 299, width = 193, height = 132 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ GEOCODING COMMANDS ], coordinate = [ x = 175, y = 559, width = 352, height = 149 ], link_type = [ Next_TB((1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ GEOCODER ], coordinate = [ x = 255, y = 844, width = 194, height = 114 ], link_type = [  ]

@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 304, y = 19, width = 77, height = 38 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ IDENTIFV E-MAIL TO BEPOSSIBLE SPAM MESSAGE ], coordinate = [ x = 155, y = 81, width = 373, height = 70 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ QUERY TWO-STRIKES DATABASE FORTIME OF LAST SUSPICIOUS E-MAILFROM SUBJECT IP ADDRESS ], coordinate = [ x = 155, y = 176, width = 373, height = 101 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Diamond], text = [ AMOUNT OF TIME SINCE LAST SUSPECT E-MAIL LESSTHAN THRESHOLD VALUE? ], coordinate = [ x = 189, y = 302, width = 305, height = 214 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ QUARANTINE E-MAIL AND FLAGIP ADDRESS AS SPAM SOURCE ], coordinate = [ x = 155, y = 541, width = 373, height = 70 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ SAVE TIME OF CURRENT EMAiL IN DATABASE ], coordinate = [ x = 155, y = 646, width = 373, height = 69 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ END ], coordinate = [ x = 307, y = 740, width = 69, height = 39 ], link_type = [  ]

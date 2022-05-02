@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ Presentation device(computer notebook) ], coordinate = [ x = 78, y = 103, width = 280, height = 146 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ slide- analyzer device ], coordinate = [ x = 658, y = 128, width = 139, height = 94 ], link_type = [  ]

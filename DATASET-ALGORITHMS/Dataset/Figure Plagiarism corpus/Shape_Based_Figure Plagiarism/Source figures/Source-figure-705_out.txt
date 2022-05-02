@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ output ], coordinate = [ x = 456, y = 111, width = 206, height = 124 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ input ], coordinate = [ x = 183, y = 257, width = 139, height = 209 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Processor], coordinate = [ x = 457, y = 294, width = 206, height = 124 ], link_type = [ Double Arrow(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ memory ], coordinate = [ x = 457, y = 476, width = 206, height = 125 ], link_type = [  ]

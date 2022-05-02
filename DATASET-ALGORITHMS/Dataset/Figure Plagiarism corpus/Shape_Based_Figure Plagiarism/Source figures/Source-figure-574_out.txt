@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ SELECT THE INFORMATIONS THAT THE USER WANTS ], coordinate = [ x = 75, y = 207, width = 529, height = 103 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ CALCULAT THE EXPERIENCE ANALYTIC PARAMETER AGAIN?  ], coordinate = [ x = 75, y = 397, width = 535, height = 286 ], link_type = [ Decision(1 : shape2, 2 : shape3, 3 : shape4) ]
+Shape2 : type = [Rectangle], text = [ EXPERIENCE ANALYTIC AND STATISTICAL MODULE ], coordinate = [ x = 690, y = 438, width = 246, height = 209 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ MODIFY THE ANALYTIC PARAMETER ], coordinate = [ x = 1013, y = 477, width = 246, height = 135 ], link_type = [  ]
+Shape4 : type = [Parallelogram], text = [ OUTPUT ], coordinate = [ x = 180, y = 771, width = 321, height = 103 ], link_type = [  ]

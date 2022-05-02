@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Segment Human Figure ], coordinate = [ x = 255, y = 65, width = 321, height = 169 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Sample Contour Points ], coordinate = [ x = 255, y = 308, width = 322, height = 169 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Calculate IDSC Descriptors‚ ], coordinate = [ x = 255, y = 551, width = 321, height = 169 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Compare With IDSC Gallery ], coordinate = [ x = 255, y = 794, width = 322, height = 169 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Label Features ], coordinate = [ x = 255, y = 1037, width = 321, height = 169 ], link_type = [  ]

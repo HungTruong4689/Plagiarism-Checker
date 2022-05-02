@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Apply the Canny Edge Detector on the wireframe to identify edges and form contours. ], coordinate = [ x = 21, y = 129, width = 666, height = 64 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Compute the contour moments for each contour found. ], coordinate = [ x = 19, y = 249, width = 668, height = 64 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Identify shape features by comparing each found contour with those defined in the library of models. ], coordinate = [ x = 19, y = 370, width = 667, height = 64 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Identify text content using an OCR system. ], coordinate = [ x = 19, y = 491, width = 668, height = 49 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Store extracted features from the wireframe into the data store. ], coordinate = [ x = 19, y = 597, width = 669, height = 50 ], link_type = [  ]

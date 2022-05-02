@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ LEXICAL ANALYSIS ], coordinate = [ x = 293, y = 61, width = 165, height = 55 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ PARSER], coordinate = [ x = 533, y = 60, width = 128, height = 54 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ QUERY STRING ], coordinate = [ x = 57, y = 116, width = 165, height = 45 ], link_type = [Multi flow (1: shape0,2 :shape3  ]
+Shape3 : type = [Rectangle], text = [ TOKEN ], coordinate = [ x = 292, y = 172, width = 166, height = 55 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ ABSTRACT SYNTAX TREE ] , coordinate = [ x = 533, y = 173, width = 128, height = 55 ], link_type = [  ]

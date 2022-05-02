@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Analysis of image patches for text and non next areas to obtain a threshold for each image patch ], coordinate = [ x = 212, y = 97, width = 301, height = 122 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Thresholding the image patch ], coordinate = [ x = 212, y = 253, width = 301, height = 49 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Edge extraction from binarizcd image patch for text ], coordinate = [ x = 212, y = 335, width = 299, height = 73 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ is patch of edge map from binurized image patch similar to corresponding patch of edge map from-hase congruency map ISù ], coordinate = [ x = 144, y = 439, width = 439, height = 189 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Extract text from binarized image patch for text ], coordinate = [ x = 214, y = 659, width = 298, height = 66 ], link_type = [  Next(1 : shape5)  ]
+Shape5 : type = [Diamond], text = [ Last image patch ], coordinate = [ x = 259, y = 757, width = 211, height = 82 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Combination of all binarized image patches ], coordinate = [ x = 212, y = 872, width = 300, height = 67 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Post-processing (retrieval of small isolated elemenL etc.) ], coordinate = [ x = 213, y = 969, width = 299, height = 66 ], link_type = [  ]

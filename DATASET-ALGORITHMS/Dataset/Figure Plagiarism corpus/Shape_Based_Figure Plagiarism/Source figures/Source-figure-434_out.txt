@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Transfer to _Warning of Possible Foreclosure Page From Short Form ], coordinate = [ x = 108, y = 37, width = 188, height = 87 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Warning of Possible Foreclosure Page From Full Form ], coordinate = [ x = 562, y = 37, width = 183, height = 87 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Recommendation that Possible Foreclosure is Dealt with Before Unsecured Debt ], coordinate = [ x = 80, y = 162, width = 267, height = 77 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Recommendation that Possible Foreclosure is Deall with Before Unsecured Debt ], coordinate = [ x = 531, y = 162, width = 267, height = 78 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Diamond], text = [ Deal with Foreclosure Now? ], coordinate = [ x = 60, y = 262, width = 305, height = 112 ], link_type = [ ]
+Shape5 : type = [Diamond], text = [ ‘ Deal With FOIGCIOSLIFE ], coordinate = [ x = 512, y = 264, width = 304, height = 112 ], link_type = [  ]

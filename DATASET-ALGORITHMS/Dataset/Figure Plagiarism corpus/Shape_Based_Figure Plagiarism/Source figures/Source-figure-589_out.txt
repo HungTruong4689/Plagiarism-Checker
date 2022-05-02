@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ START 218 ], coordinate = [ x = 231, y = 214, width = 248, height = 122 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine sweep points  ], coordinate = [ x = 33, y = 396, width = 644, height = 147 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Determine control points 220 ], coordinate = [ x = 33, y = 603, width = 644, height = 145 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determine set points 222 ], coordinate = [ x = 34, y = 808, width = 644, height = 146 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Determine parameters for registration transformation equation 224 ], coordinate = [ x = 34, y = 1037, width = 645, height = 145 ], link_type = [Line(1 : shape5)   ]
+Shape5 : type = [Rectangle], text = [ END 226 ], coordinate = [ x = 232, y = 1243, width = 246, height = 121 ], link_type = [  ]

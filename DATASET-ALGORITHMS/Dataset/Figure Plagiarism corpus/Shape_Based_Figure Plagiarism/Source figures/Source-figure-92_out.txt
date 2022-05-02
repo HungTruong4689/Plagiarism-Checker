@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ DATASTORE(S) ], coordinate = [ x = 406, y = 83, width = 197, height = 173 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ QUERY INTERFACE ], coordinate = [ x = 257, y = 303, width = 463, height = 120 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ QUERYMANAGERI QUERY QUERYPOPULATOR BUILDER ], coordinate = [ x = 38, y = 487, width = 832, height = 341 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ GUI(s)  ], coordinate = [ x = 261, y = 850, width = 479, height = 120 ], link_type = [  ]

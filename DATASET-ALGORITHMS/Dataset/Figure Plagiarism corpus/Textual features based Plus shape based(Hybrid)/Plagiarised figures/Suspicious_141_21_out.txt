@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Machine Tool], coordinate = [ x = 140, y = 19, width = 156, height = 114 ], link_type = [  ]
+Shape1 : type = [SQUARE], text = [  ], coordinate = [ x = 298, y = 22, width = 14, height = 24 ], link_type = [ Next_BT(1 : shape3) ]
+Shape2 : type = [SQUARE], text = [  ], coordinate = [ x = 298, y = 43, width = 14, height = 24 ], link_type = [  ]
+Shape3 : type = [SQUARE], text = [  ], coordinate = [ x = 298, y = 106, width = 14, height = 24 ], link_type = [  ]
+Shape4 : type = [SQUARE], text = [ D ], coordinate = [ x = 178, y = 183, width = 15, height = 25 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ HMI], coordinate = [ x = 33, y = 231, width = 113, height = 100 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ MCU], coordinate = [ x = 167, y = 231, width = 112, height = 100 ], link_type = [  ]

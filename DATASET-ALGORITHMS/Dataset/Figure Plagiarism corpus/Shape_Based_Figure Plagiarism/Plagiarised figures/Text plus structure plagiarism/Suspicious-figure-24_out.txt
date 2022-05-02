@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ DataSet ], coordinate = [ x = 169, y = 50, width = 114, height = 92 ], link_type = [ Multi Flow(1 : shape1, 2 : shape4) ]
+Shape1 : type = [Rectangle], text = [ Parameter Assign ], coordinate = [ x = 360, y = 32, width = 124, height = 125 ], link_type = [ Multi Flow(1 : shape2, 2 : shape5) ]
+Shape2 : type = [Rectangle], text = [ Sound Rendering ], coordinate = [ x = 561, y = 31, width = 124, height = 125 ], link_type = [ Multi Flow(1 : shape3, 2 : shape5) ]
+Shape3 : type = [Rectangle], text = [ Sound Output ], coordinate = [ x = 765, y = 53, width = 112, height = 88 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Index Assign ], coordinate = [ x = 151, y = 219, width = 150, height = 43 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ METAPHOR ], coordinate = [ x = 374, y = 217, width = 298, height = 44 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ SET WIRING OBJECT PLANE ], coordinate = [ x = 55, y = 36, width = 266, height = 58 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ MATCH OTHER AXIAL CONDITIONS ], coordinate = [ x = 37, y = 132, width = 291, height = 72 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ ECUTE IN-PLANE= REGRESSION(=POLYNOM|NAL; APPROXIMATION) ], coordinate = [ x = 37, y = 251, width = 295, height = 85 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ EXTRA CONDITION MATCHING POINTS INSIDE THE WIRING OBJECTION PLANE ], coordinate = [ x = 37, y = 371, width = 291, height = 89 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ SUPPLY THE RESULTS INTO DATA BASE ], coordinate = [ x = 37, y = 496, width = 290, height = 90 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Diamond], text = [ THE OPERATION on ALL THE PLANES NENDED? ], coordinate = [ x = 52, y = 622, width = 274, height = 232 ], link_type = [  ]

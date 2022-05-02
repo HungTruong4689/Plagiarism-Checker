@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ SEND REQUEST FOR iMAGE(S) OF A LOCATION ], coordinate = [ x = 65, y = 138, width = 699, height = 59 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RECEIVE IMAGE(S) OF THE LOCATION ], coordinate = [ x = 64, y = 240, width = 701, height = 58 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ PERFORM OBJECT RECOGNITION ANALYSIS ON IMAGE ], coordinate = [ x = 64, y = 366, width = 700, height = 81 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ COMPARE FIRST PORTION(S) OF IMAGE WITH SECOND PORTION(S) OF IMAGE ], coordinate = [ x = 64, y = 491, width = 701, height = 85 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ FAVORABL COMPARE ], coordinate = [ x = 299, y = 657, width = 241, height = 146 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ PROVIDE NOTIFICATION ], coordinate = [ x = 642, y = 667, width = 223, height = 83 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ END ], coordinate = [ x = 350, y = 871, width = 107, height = 59 ], link_type = [  ]

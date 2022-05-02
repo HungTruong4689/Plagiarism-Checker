@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ Retailer ], coordinate = [ x = 264, y = 212, width = 113, height = 59 ], link_type = [ ]
+Shape1 : type = [Rectangle], text = [ Manufacturer ], coordinate = [ x = 27, y = 300, width = 138, height = 59 ], link_type = [ Multi Flow(1 : shape0, 2 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Direct Channel], coordinate = [ x = 262, y = 403, width = 116, height = 67 ], link_type = [  ]

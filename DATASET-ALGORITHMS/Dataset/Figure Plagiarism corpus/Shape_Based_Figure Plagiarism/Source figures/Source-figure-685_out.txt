@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ RECEIVE CONTROL SEQUENCE(S) ], coordinate = [ x = 217, y = 45, width = 345, height = 84 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ IDENTIFY CONTRIBUTING PORTION(S) OF THE CONTROL SEQUENCE(S) ], coordinate = [ x = 219, y = 190, width = 343, height = 114 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ GENERATE NEW CONTROL SEQUENCE BASED ON CONTRIBUTING PORTIONS ], coordinate = [ x = 216, y = 363, width = 346, height = 113 ], link_type = [  ]

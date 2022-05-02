@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Check Results of Chapter 7 Bankruptcy Option ], coordinate = [ x = 381, y = 38, width = 350, height = 82 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ Non-Exempt Assest < 1 ?  ], coordinate = [ x = 350, y = 191, width = 403, height = 157 ], link_type = [ Decision(1 : shape2,2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Non-ExemptAssets = 1 ], coordinate = [ x = 61, y = 389, width = 298, height = 103 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ c7 bankruptcy =(((Bscore + debt bkrpt) -(final)) - ((Non-Exempt Assets)/1000)) ], coordinate = [ x = 371, y = 562, width = 362, height = 138 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [  c7 bankruptcy <0 ], coordinate = [ x = 387, y = 762, width = 330, height = 157 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ c7 bankruptcy =0 ], coordinate = [ x = 184, y = 942, width = 203, height = 101 ], link_type = [  ]

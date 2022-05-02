@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Info Sec Policy], coordinate = [ x = 201, y = 1, width = 113, height = 41 ], link_type = [ Multi Line(1 : shape1, 2 : shape2, 3 : shape3, 4 : shape4) ]
+Shape1 : type = [Rectangle], text = [ Management ], coordinate = [ x = 15, y = 84, width = 100, height = 36 ], link_type = [ Multi Line(1 : shape2, 2 : shape6, 3 : shape7) ]
+Shape2 : type = [Rectangle], text = [ Technobgy ], coordinate = [ x = 136, y = 84, width = 100, height = 40 ], link_type = [ Next_BT(1 : shape6) ]
+Shape3 : type = [Rectangle], text = [ Cluture], coordinate = [ x = 254, y = 83, width = 100, height = 41 ], link_type = [ Multi Line(1 : shape5, 2 : shape6, 3 : shape7) ]
+Shape4 : type = [Rectangle], text = [ Economy ], coordinate = [ x = 387, y = 83, width = 100, height = 41 ], link_type = [ Multi Flow(1 : shape6, 2 : shape8) ]
+Shape5 : type = [Rectangle], text = [ Confidentiality], coordinate = [ x = 54, y = 158, width = 109, height = 40 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Integrity ], coordinate = [ x = 199, y = 158, width = 100, height = 40 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ Availability ], coordinate = [ x = 321, y = 156, width = 100, height = 41 ], link_type = [  ]

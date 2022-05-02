@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ IMAGE MATCHING MODULE ], coordinate = [ x = 390, y = 98, width = 172, height = 78 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ OCR MODULE  ], coordinate = [ x = 390, y = 200, width = 172, height = 77 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ PARSING MODULE ], coordinate = [ x = 390, y = 303, width = 172, height = 82 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ PRODUCT PROFILE MODULEM ], coordinate = [ x = 390, y = 413, width = 172, height = 93 ], link_type = [  ]

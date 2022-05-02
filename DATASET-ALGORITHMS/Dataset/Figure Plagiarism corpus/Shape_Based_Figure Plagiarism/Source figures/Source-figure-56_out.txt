@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ DOCUMENT LOCATOR ], coordinate = [ x = 131, y = 317, width = 238, height = 170 ], link_type = [ Multi Line(1 : shape1, 2 : shape3) ]
+Shape1 : type = [Rectangle], text = [ HISTORY COMPONENT ], coordinate = [ x = 452, y = 317, width = 237, height = 170 ], link_type = [ Multi Line(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ RANKING COMPONENT ], coordinate = [ x = 772, y = 318, width = 239, height = 169 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Document corpus ], coordinate = [ x = 321, y = 578, width = 188, height = 92 ], link_type = [  ]

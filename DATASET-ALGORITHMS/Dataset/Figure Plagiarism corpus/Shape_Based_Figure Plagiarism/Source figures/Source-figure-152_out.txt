@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Select A Combination of Parameters Variable By Automated Apparatus 801 ], coordinate = [ x = 303, y = 11, width = 288, height = 195 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Select Combinations of Values of Parameters Corresponding To Experiments 802 ], coordinate = [ x = 303, y = 273, width = 287, height = 220 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Cause Apparatus To Perform Experiments 803 ], coordinate = [ x = 302, y = 570, width = 288, height = 128 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determine Results of Experiments 804 ], coordinate = [ x = 302, y = 755, width = 288, height = 128 ], link_type = [ Multi Flow(1 : shape4, 2 : shape5, 3 : shape6) ]
+Shape4 : type = [Rectangle], text = [ Regression Model 806 ], coordinate = [ x = 367, y = 973, width = 158, height = 129 ], link_type = [ Next_TB(1 : shape7) ]
+Shape5 : type = [Parallelogram], text = [ Unsupervised Learning Clustering 808 ], coordinate = [ x = 607, y = 1074, width = 159, height = 167 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Multi variate Visualization 805  ], coordinate = [ x = 112, y = 1094, width = 157, height = 126 ], link_type = [  ]
+Shape7 : type = [Parallelogram], text = [ Classifier  807 ], coordinate = [ x = 365, y = 1212, width = 159, height = 129 ], link_type = [  ]

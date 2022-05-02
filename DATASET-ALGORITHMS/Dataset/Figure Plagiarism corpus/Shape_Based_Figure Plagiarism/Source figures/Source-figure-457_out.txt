@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Display List of Options to User Sorted at Primary Options and Secondary Options, _and Indicate Which Options are Primaw Options and/or have Score > inset ], coordinate = [ x = 103, y = 131, width = 404, height = 125 ], link_type = [ Next_TB(1 : shape1)  ]
+Shape1 : type = [Rectangle], text = [ Prompt User to Select Additional Options ], coordinate = [ x = 205, y = 281, width = 199, height = 84 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ Receive Selections of Additional Options ], coordinate = [ x = 144, y = 391, width = 322, height = 151 ], link_type = [ Decision(1 : shape3, 2 : shape4) ]
+Shape3 : type = [Diamond], text = [ Score > winset ? ], coordinate = [ x = 509, y = 411, width = 232, height = 112 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ List Option _as Primary Option ], coordinate = [ x = 535, y = 549, width = 179, height = 62 ], link_type = [ Next_TB(1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ Check for User Update ], coordinate = [ x = 219, y = 568, width = 166, height = 63 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Send Information to Parties Who Provide the Top Options ], coordinate = [ x = 453, y = 636, width = 344, height = 65 ], link_type = [  ]

@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Initialize CS and/or CC for theme set for user ], coordinate = [ x = 179, y = 20, width = 246, height = 50 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ At CS, obtain data signals from input devices ], coordinate = [ x = 81, y = 116, width = 442, height = 50 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ At CS, process data signals to produce attributes representing user's context,including adding required data fields, such as attribute name, timestamp, units, etc. ], coordinate = [ x = 81, y = 213, width = 442, height = 104 ], link_type = [ Next_TB((1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ At CS, provide attribute to CM for storage  ], coordinate = [ x = 80, y = 362, width = 442, height = 32 ], link_type = [ Next_TB((1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ At CC request from CM and recieve attributes ], coordinate = [ x = 63, y = 441, width = 477, height = 33 ], link_type = [ Next_TB((1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ At CC, process attributes to determme appropnate output ], coordinate = [ x = 9, y = 520, width = 583, height = 34 ], link_type = [ Next_TB((1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Provide output signal to user, other entity or other process ], coordinate = [ x = 9, y = 600, width = 583, height = 33 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [  RAM ], coordinate = [ x = 393, y = 315, width = 117, height = 76 ], link_type = [ Line(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ Storage System ], coordinate = [ x = 617, y = 341, width = 135, height = 91 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Processing Unit ], coordinate = [ x = 80, y = 349, width = 205, height = 112 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Cache ], coordinate = [ x = 393, y = 419, width = 117, height = 76 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ I/O lnterface(s) ], coordinate = [ x = 80, y = 696, width = 205, height = 111 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Network Adapter ], coordinate = [ x = 358, y = 696, width = 205, height = 111 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ DisplaY ], coordinate = [ x = 114, y = 904, width = 136, height = 111 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ External Device(s) ], coordinate = [ x = 358, y = 904, width = 205, height = 111 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Determine that a device is receiving DOS attack vectors ], coordinate = [ x = 255, y = 110, width = 232, height = 58 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Identify the attack vector With the highest idle time ], coordinate = [ x = 256, y = 209, width = 231, height = 58 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Redune the idle timeout for the attack vectors ], coordinate = [ x = 56, y = 293, width = 147, height = 107 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Remove the attack Vector ], coordinate = [ x = 256, y = 308, width = 231, height = 58 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ ls the number oF attack vectors less than a threshold? ], coordinate = [ x = 241, y = 409, width = 261, height = 195 ], link_type = [  ]

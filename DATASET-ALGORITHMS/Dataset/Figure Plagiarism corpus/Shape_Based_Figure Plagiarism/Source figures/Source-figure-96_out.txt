@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Receive query images ], coordinate = [ x = 84, y = 28, width = 482, height = 134 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Extract regions ], coordinate = [ x = 84, y = 268, width = 482, height = 134 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Map regions to wordsusing dictionary ], coordinate = [ x = 84, y = 513, width = 482, height = 134 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Form word histogram ], coordinate = [ x = 84, y = 753, width = 482, height = 134 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Optionally store regionparameters ], coordinate = [ x = 82, y = 996, width = 481, height = 133 ], link_type = [  ]

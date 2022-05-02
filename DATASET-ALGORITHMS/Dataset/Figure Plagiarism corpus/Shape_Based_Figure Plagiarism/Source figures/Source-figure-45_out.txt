@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 318, y = 14, width = 133, height = 71 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Parallelogram], text = [ SELECT ONE HEADINGAND SEND TORETRIEVING DEVICE ], coordinate = [ x = 208, y = 149, width = 349, height = 187 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ RETRIEVAL PROCESSING BY RETRIEVING DEVICE ], coordinate = [ x = 209, y = 373, width = 349, height = 188 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ SEND RETRIEVAL RESULT TO RETRIEVAL EVALUATING DEVICE ], coordinate = [ x = 210, y = 598, width = 347, height = 186 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ HEADING REMAINS?  ], coordinate = [ x = 152, y = 824, width = 471, height = 183 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ RETRIEVAL PROCESSING BY RETRIEVING DEVICE ], coordinate = [ x = 210, y = 1045, width = 348, height = 187 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ END ], coordinate = [ x = 332, y = 1269, width = 119, height = 71 ], link_type = [  ]

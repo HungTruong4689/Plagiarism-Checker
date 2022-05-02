@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ Identify tne predicates of Sentence ], coordinate = [ x = 55, y = 13, width = 312, height = 47 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Based onpredicates,determine the frameset (predicate class) involve], coordinate = [ x = 55, y = 74, width = 312, height = 76 ], link_type = [ Next_TB(1 : shape2)  ]
+Shape2 : type = [Rectangle], text = [ Delemnnelhe the different of the sentence based on the frameeset. ], coordinate = [ x = 55, y = 160, width = 312, height = 74 ], link_type = [  ]

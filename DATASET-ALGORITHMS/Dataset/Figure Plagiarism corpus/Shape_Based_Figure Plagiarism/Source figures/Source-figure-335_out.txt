@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Image ComponentT ], coordinate = [ x = 84, y = 70, width = 171, height = 81 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Text Box Enhancement Component ], coordinate = [ x = 295, y = 70, width = 172, height = 81 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Image Preprocessing Component ], coordinate = [ x = 84, y = 179, width = 170, height = 80 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Character Reoognition Component ], coordinate = [ x = 294, y = 179, width = 172, height = 80 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Text Detection Component 207 \Classifier ], coordinate = [ x = 83, y = 287, width = 172, height = 110 ], link_type = [  ]

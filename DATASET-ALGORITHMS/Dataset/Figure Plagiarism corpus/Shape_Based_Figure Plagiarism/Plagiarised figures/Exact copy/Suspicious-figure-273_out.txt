@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ DIRECT THE CLIENT TO INVOKE THE SECURITY PLUGâ-IN TO GENERATE THE CLIENT RESPONSE; TO THE SERVER CHALLENGE ], coordinate = [ x = 70, y = 119, width = 471, height = 112 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ SAVE THE SECURITY TOKEN AS A NAMEDCOOKIE ], coordinate = [ x = 70, y = 250, width = 471, height = 83 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ RE-SUBMIT THE ORIGINAL REQUEST URL WITH THE QUERY STRING TO THE SERVER  ], coordinate = [ x = 71, y = 352, width = 470, height = 83 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [CONFIRM AUTHENTICATION USING THESECURITY TOKEN CONTAINED IN THE COOKIETL ], coordinate = [ x = 71, y = 455, width = 470, height = 96 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ IS THE CLIENTAUTHORIZED TO ACCESS9 ], coordinate = [ x = 136, y = 602, width = 342, height = 124 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ ALLOW ACCESS TO THE REQUESTED PAGE ], coordinate = [ x = 72, y = 776, width = 470, height = 67 ], link_type = [  ]

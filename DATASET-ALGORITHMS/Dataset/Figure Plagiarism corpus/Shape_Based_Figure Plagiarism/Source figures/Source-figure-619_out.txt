@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ Source System ], coordinate = [ x = 44, y = 106, width = 449, height = 312 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Pose Estimation} System 10.0. ], coordinate = [ x = 753, y = 105, width = 449, height = 312 ], link_type = [  ]

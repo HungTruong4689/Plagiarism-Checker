@@ -1,0 +1,7 @@
+Shape0 : type = [Diamond], text = [ Months Behindon Credit Cards > 4? ], coordinate = [ x = 627, y = 177, width = 251, height = 122 ], link_type = [ Decision(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ DS Behind =9 ], coordinate = [ x = 316, y = 198, width = 202, height = 79 ], link_type = [  ]
+Shape2 : type = [Diamond], text = [ 876Months Behind on Credit Cards ], coordinate = [ x = 627, y = 352, width = 251, height = 122 ], link_type = [ Decision(1 : shape3, 2 : shape4) ]
+Shape3 : type = [Rectangle], text = [ DS Behind =9 ], coordinate = [ x = 316, y = 373, width = 202, height = 79 ], link_type = [  ]
+Shape4 : type = [Diamond], text = [ Months Behind on Credit Cards ], coordinate = [ x = 627, y = 556, width = 251, height = 122 ], link_type = [ Decision(1 : shape5, 2 : shape6) ]
+Shape5 : type = [Rectangle], text = [ DS Behind =12 ], coordinate = [ x = 331, y = 577, width = 202, height = 80 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ DS Behind =9 ], coordinate = [ x = 331, y = 738, width = 202, height = 79 ], link_type = [  ]

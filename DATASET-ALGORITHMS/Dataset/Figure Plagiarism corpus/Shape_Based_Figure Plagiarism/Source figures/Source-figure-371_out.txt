@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 419, y = 22, width = 142, height = 99 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine candidate feature terms related to the subject ], coordinate = [ x = 197, y = 210, width = 553, height = 199 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Calculate a relevance score for each candidate feature term ], coordinate = [ x = 181, y = 509, width = 584, height = 191 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determine the most relevant feature terms based on scores ], coordinate = [ x = 180, y = 779, width = 584, height = 200 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ END], coordinate = [ x = 417, y = 1063, width = 132, height = 97 ], link_type = [  ]

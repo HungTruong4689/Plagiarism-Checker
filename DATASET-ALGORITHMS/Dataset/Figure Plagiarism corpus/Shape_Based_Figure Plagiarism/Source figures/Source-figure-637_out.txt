@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Image extraction unit ], coordinate = [ x = 106, y = 51, width = 155, height = 70 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Search system ], coordinate = [ x = 379, y = 110, width = 144, height = 69 ], link_type = [ Multi Flow(1 : shape2, 2 : shape4, 3 : shape4) ]
+Shape2 : type = [Rectangle], text = [ Shader database ], coordinate = [ x = 631, y = 111, width = 144, height = 70 ], link_type = [ Multi Line(1 : shape4, 2 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Shader extraction unit ], coordinate = [ x = 105, y = 165, width = 155, height = 70 ], link_type = [ ]
+Shape4 : type = [Rectangle], text = [ UI provision unit ], coordinate = [ x = 378, y = 285, width = 395, height = 70 ], link_type = [ Multi Line(1 : shape7, 2 : shape8) ]
+Shape5 : type = [Rectangle], text = [ Screen display unit&  ], coordinate = [ x = 265, y = 429, width = 154, height = 68 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ User selection unit ], coordinate = [ x = 728, y = 431, width = 152, height = 69 ], link_type = [  ]

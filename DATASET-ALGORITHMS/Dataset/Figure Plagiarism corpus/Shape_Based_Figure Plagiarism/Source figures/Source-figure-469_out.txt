@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Receive 3D rendering output from engine interface ], coordinate = [ x = 37, y = 21, width = 738, height = 121 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Pass 3D rendering output to mapview controller for display in a 3D window ], coordinate = [ x = 37, y = 232, width = 737, height = 121 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Receive a message including a user selection made in the 3D window ], coordinate = [ x = 36, y = 444, width = 738, height = 121 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Map the user selection to corresponding 2D geo location coordinates ], coordinate = [ x = 141, y = 650, width = 529, height = 122 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Provide the 2D geo location coordinates to the mapview controller to allow the mapview controller to obtain appropriate GIS information ], coordinate = [ x = 13, y = 858, width = 786, height = 121 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ End ], coordinate = [ x = 331, y = 1069, width = 149, height = 121 ], link_type = [  ]

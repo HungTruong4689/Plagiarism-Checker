@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ J=2 ], coordinate = [ x = 137, y = 90, width = 315, height = 68 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ J=1 ], coordinate = [ x = 138, y = 207, width = 315, height = 67 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ J=J+l ], coordinate = [ x = 776, y = 262, width = 254, height = 67 ], link_type = [  ]
+Shape3 : type = [Diamond], text = [ i < J ], coordinate = [ x = 146, y = 325, width = 300, height = 122 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Diamond], text = [ J < J? ], coordinate = [ x = 530, y = 441, width = 303, height = 124 ], link_type = [ ]
+Shape5 : type = [Diamond], text = [ C(J) =C(I) AND D(J) = D(i)?], coordinate = [ x = 144, y = 503, width = 306, height = 179 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ GENERATE THE CONDITION FORMULA EX(jg=ig ANDY(J =Y 1 ], coordinate = [ x = 140, y = 736, width = 316, height = 155 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ i=i+1 ], coordinate = [ x = 141, y = 943, width = 315, height = 66 ], link_type = [  ]

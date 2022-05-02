@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Decision$8. ], coordinate = [ x = 387, y = 26, width = 225, height = 70 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ set tolerance threshold forclassification, Tc1 002 ], coordinate = [ x = 298, y = 139, width = 359, height = 96 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ asset tolerance threshold for Iidentification, Ti I1 004 ], coordinate = [ x = 298, y = 279, width = 359, height = 99 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ classification score, Sc1 006 ], coordinate = [ x = 298, y = 422, width = 359, height = 76 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ calculate identification score. Si1 Q07 ], coordinate = [ x = 298, y = 541, width = 359, height = 76 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Diamond], text = [ TK“? ], coordinate = [ x = 336, y = 661, width = 283, height = 96 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Diamond], text = [ es _ lis ], coordinate = [ x = 335, y = 802, width = 284, height = 95 ], link_type = [  ]

@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ START 252 ], coordinate = [ x = 269, y = 189, width = 209, height = 104 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Compare signal value data set to cluster models 254 ], coordinate = [ x = 103, y = 343, width = 540, height = 123 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Extract parameters for each cluster model ], coordinate = [ x = 103, y = 516, width = 539, height = 123 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Compute scores for fit of each cluster model 258 ], coordinate = [ x = 102, y = 688, width = 540, height = 123 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Compare scores to determine best fit cluster model' 260 ], coordinate = [ x = 102, y = 881, width = 540, height = 122 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Predict missing clusters 262 ' ], coordinate = [ x = 101, y = 1052, width = 539, height = 123 ], link_type = [ Line(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ END 264 ], coordinate = [ x = 282, y = 1225, width = 189, height = 103 ], link_type = [  ]

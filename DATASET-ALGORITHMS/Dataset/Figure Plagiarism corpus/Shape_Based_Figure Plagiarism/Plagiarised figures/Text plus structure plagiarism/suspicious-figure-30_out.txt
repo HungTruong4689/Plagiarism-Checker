@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [  Access Pre-Processed Constructed Responses for Given Item and Subgroupg], coordinate = [ x = 119, y = 32, width = 412, height = 71 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Fair the Pre-Processed Constructed Responses ], coordinate = [ x = 121, y = 131, width = 409, height = 45 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Divide the Constructed Responses Into One or Mare Strings ],coordinate = [ x = 119, y = 200, width = 412, height = 70 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determine a Minimum Number of Operations to Transform the Shorter of the two paired Constructed Responses into the most similar substring of the Lancer Construdnd Response Stings], coordinate = [ x = 117, y = 274, width = 416, height = 142 ], link_type = [  ]
+Shape4 : type = [Diamond], text = [ Have All the stings Been Analyzed? ], coordinate = [ x = 161, y = 434, width = 326, height = 108 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [  Compute Similarity Value ], coordinate = [ x = 117, y = 575, width = 415, height = 44 ], link_type = [Next(1 : shape6)   ]
+Shape6 : type = [Diamond], text = [ Similarity Value >Similarity Threshold Value? ], coordinate = [ x = 161, y = 641, width = 327, height = 150 ], link_type = [ Decision(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [  Flag Pairs whem Similarity Value > Similarity Threshold Value ], coordinate = [ x = 653, y = 685, width = 419, height = 66 ], link_type = [  ]

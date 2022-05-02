@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [  Speech recognition (setting of confidence Rea.(w ,m)) ], coordinate = [ x = 50, y = 150, width = 615, height = 81 ], link_type = [ Next_TB((1:shape1) ]
+Shape1 : type = [Rectangle], text = [  Character recognitioni (setting of confidence) ], coordinate = [ x = 50, y = 257, width = 615, height = 85 ], link_type = [ Next_TB((1:shape2 ]
+Shape2 : type = [Rectangle], text = [  Calculation of confidence R9,,,(w.. l) ], coordinate = [ x = 50, y = 368, width = 615, height = 65 ], link_type = [ Next_TB((1:shape3) ]
+Shape3 : type = [Rectangle], text = [  Calculation of frequencies of appearance Na=.(w«) and Mm-(WI)i and frequency of co-appearance Ncmxm (WE, W1) ], coordinate = [ x = 50, y = 459, width = 615, height = 128 ], link_type = [ Next_TB((1:shape4) ]
+Shape4 : type = [Rectangle], text = [ Calculation of scores $o:1:(Wa, l) andS3€um(Wj, l) ], coordinate = [ x = 51, y = 613, width = 614, height = 77 ], link_type = [ Next_TB((1:shape5) ]
+Shape5 : type = [Rectangle], text = [ Determination of inherent portion ], coordinate = [ x = 51, y = 716, width = 614, height = 61 ], link_type = [Next(1:shape6) ]
+Shape6 : type = [Rectangle], text = [ Minirig prooessing V(counting of feature words, calculation offeature level) ], coordinate = [ x = 51, y = 802, width = 614, height = 101 ], link_type = [ Next_TB((1:shape7) ]
+Shape7 : type = [Rectangle], text = [ Output of mining results ], coordinate = [ x = 51, y = 929, width = 614, height = 65 ], link_type = [  ]

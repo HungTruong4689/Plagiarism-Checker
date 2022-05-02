@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ EXPERIENCE ANALYTIC AND STATISTICAL MODULE ], coordinate = [ x = 31, y = 79, width = 529, height = 112 ], link_type = [ Multi Line(1 : shape1, 2 : shape4) ]
+Shape1 : type = [Rectangle], text = [ ARTIFICIAL INTELLIGENC EENGINE ], coordinate = [ x = 662, y = 82, width = 531, height = 112 ], link_type = [ Multi Flow(1 : shape2, 2 : shape5, 3 : shape6) ]
+Shape2 : type = [Rectangle], text = [ OUTPUT ], coordinate = [ x = 1298, y = 85, width = 192, height = 110 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ MODIFICATION MODULE ], coordinate = [ x = 63, y = 297, width = 463, height = 111 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ FRONT CODE CALCULATION MODULE ], coordinate = [ x = 629, y = 284, width = 285, height = 141 ], link_type = [ Line(1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ REAR CODE CALCULATION MODULE ], coordinate = [ x = 1051, y = 286, width = 288, height = 141 ], link_type = [ Line(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ USER INTERFACE ], coordinate = [ x = 628, y = 517, width = 252, height = 110 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ REMOTE DATABASE ], coordinate = [ x = 1050, y = 519, width = 255, height = 110 ], link_type = [  ]

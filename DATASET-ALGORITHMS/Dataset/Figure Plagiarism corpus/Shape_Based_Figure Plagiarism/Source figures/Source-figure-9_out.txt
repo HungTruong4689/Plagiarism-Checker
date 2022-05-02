@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Logical Strudure Extraction ], coordinate = [ x = 95, y = 154, width = 250, height = 52 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [  citation Parsing ], coordinate = [ x = 95, y = 232, width = 250, height = 53 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Structure Component Weighted ], coordinate = [ x = 83, y = 311, width = 273, height = 52 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Structural Term weignting ], coordinate = [ x = 95, y = 390, width = 251, height = 55 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Relevance Rankmg ], coordinate = [ x = 94, y = 477, width = 251, height = 51 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Plaglansm Screening ], coordinate = [ x = 95, y = 554, width = 252, height = 52 ], link_type = [ Next_TB(1 : shape6)  ]
+Shape6 : type = [Rectangle], text = [ Results Report ], coordinate = [ x = 144, y = 633, width = 147, height = 55 ], link_type = [  ]

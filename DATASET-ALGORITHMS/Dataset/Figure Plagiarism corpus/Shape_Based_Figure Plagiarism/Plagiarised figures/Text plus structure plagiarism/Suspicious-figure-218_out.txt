@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ NORMARIZE DATA, OF POST-REGON-DIVISION DATA BASE ], coordinate = [ x = 459, y = 115, width = 334, height = 137 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ SELECT REGION ], coordinate = [ x = 494, y = 334, width = 267, height = 102 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [  SELECT OBJECTI POINT IN THE REGION ], coordinate = [ x = 496, y = 501, width = 266, height = 136 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ CALCULATE WIRING FUNCTIONS (FIG.4)A ], coordinate = [ x = 463, y = 708, width = 334, height = 138 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ COMPUTATION ON ALL POINTS IN THE REGON ENDED ], coordinate = [ x = 383, y = 925, width = 490, height = 200 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Diamond], text = [ COMPUTATION ON ALL REGION SENDED ? ], coordinate = [ x = 420, y = 1195, width = 423, height = 199 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ End ], coordinate = [ x = 590, y = 1460, width = 110, height = 70 ], link_type = [  ]

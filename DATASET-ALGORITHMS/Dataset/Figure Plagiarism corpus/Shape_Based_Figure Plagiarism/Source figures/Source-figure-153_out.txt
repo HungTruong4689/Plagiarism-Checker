@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ IDENTIFY TEXT BLOCKS CONTAIN COLUMN/ROW DDRESS RANGES ], coordinate = [ x = 52, y = 12, width = 157, height = 75 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ APPLY COLUMN ROW SEPERATDRS ], coordinate = [ x = 59, y = 115, width = 141, height = 96 ], link_type = [ Decision(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ DIVIDE TEXT BLOCKS INTO SMALLER TEXT BLOCKS AND ASSIGN NEW TEXT BLOCK ADDRESSES ], coordinate = [ x = 261, y = 121, width = 156, height = 84 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ COMBINE TExT BLOCKS WHICH HAVE THE SAME COLUMN AND Row ADDRESS ], coordinate = [ x = 38, y = 266, width = 180, height = 71 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ UPDATE AND BUILD HIEHARCHICAI. TREE STRUCTURE FOR TABLE ], coordinate = [ x = 37, y = 367, width = 183, height = 53 ], link_type = [  ]

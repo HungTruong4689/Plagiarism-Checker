@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ DPCM], coordinate = [ x = 253, y = 3, width = 75, height = 49 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ entrpoy coding], coordinate = [ x = 378, y = 3, width = 73, height = 49 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ DWT ], coordinate = [ x = 38, y = 66, width = 67, height = 50 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Fractal wavelet code selection], coordinate = [ x = 253, y = 56, width = 82, height = 70 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ entrpoy coding ], coordinate = [ x = 376, y = 97, width = 77, height = 50 ], link_type = [  ]

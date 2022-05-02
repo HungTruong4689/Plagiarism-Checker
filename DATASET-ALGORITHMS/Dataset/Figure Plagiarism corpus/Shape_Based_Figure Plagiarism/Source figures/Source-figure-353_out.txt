@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ PARTITION ARTIFICIAL INTELLIGENCE (Al) FOR GAMING INTO A SERVER-SIDE AIAND A CLIENT-SIDE AI& 802], coordinate = [ x = 72, y = 100, width = 727, height = 215 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ SEND A GLIMPSE OF A GAME STATE FROM THESERVER-SIDE AI To THE CLIENT-SIDE AI‚804 ], coordinate = [ x = 72, y = 407, width = 727, height = 215 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ COMPUTE COMPUTATIONALLY INTENSIVE TUNINGPARAMETERS VIA THE CLIENT-SIDE AI 806 ], coordinate = [ x = 72, y = 712, width = 727, height = 216 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ SEND THE TUNING PARAMETERS TO TUNE THESERVER-SIDE AI 808‚ ], coordinate = [ x = 72, y = 1019, width = 727, height = 215 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ ANALYSIS TARGET DATA PAIR SEARCH UNIT ], coordinate = [ x = 194, y = 191, width = 417, height = 75 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ ANALYSIS VIEWPOINT GENERATION UNIT ], coordinate = [ x = 193, y = 333, width = 417, height = 77 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ POSITIVE EXAMPLE SET IDENTIFICATION UNIT ], coordinate = [ x = 192, y = 477, width = 418, height = 77 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ GHARACTERISTIC QUANTITY CALCULATION UNIT ], coordinate = [ x = 192, y = 621, width = 418, height = 77 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ CHARAGTEFIISTIC EXPRESSION RANKING UNIT ], coordinate = [ x = 192, y = 765, width = 417, height = 79 ], link_type = [  ]

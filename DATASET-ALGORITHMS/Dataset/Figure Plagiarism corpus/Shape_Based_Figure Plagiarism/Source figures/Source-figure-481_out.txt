@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ Selecta job ], coordinate = [ x = 13, y = 156, width = 149, height = 120 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Scan document or choose digital document ], coordinate = [ x = 278, y = 155, width = 149, height = 121 ], link_type = [ Double Arrow(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Send over network ], coordinate = [ x = 543, y = 155, width = 149, height = 122 ], link_type = [  ]

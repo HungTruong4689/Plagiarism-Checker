@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ CONTENT SERVER ], coordinate = [ x = 283, y = 137, width = 172, height = 95 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ NETWORK ], coordinate = [ x = 175, y = 272, width = 386, height = 147 ], link_type = [ Multi Line(1 : shape2, 2 : shape3, 3 : shape4) ]
+Shape2 : type = [Rectangle], text = [PC], coordinate = [ x = 47, y = 518, width = 171, height = 93 ], link_type = [  ]
+Shape3 : type = [Parallelogram], text = [ PC], coordinate = [ x = 282, y = 518, width = 172, height = 94 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ PC ], coordinate = [ x = 518, y = 519, width = 171, height = 94 ], link_type = [  ]

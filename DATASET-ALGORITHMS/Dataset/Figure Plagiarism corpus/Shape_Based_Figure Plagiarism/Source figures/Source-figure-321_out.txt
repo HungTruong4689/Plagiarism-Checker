@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Data Input Subsystem  ], coordinate = [ x = 15, y = 104, width = 197, height = 111 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Data Storage And Retrieval Subsystem  ], coordinate = [ x = 295, y = 104, width = 198, height = 111 ], link_type = [ Double Arrow(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Network ], coordinate = [ x = 312, y = 290, width = 156, height = 123 ], link_type = [ Double Arrow(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Data Manipulation And Analysis Subsystem  ], coordinate = [ x = 296, y = 482, width = 197, height = 111 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Reporting Subsystem  ], coordinate = [ x = 295, y = 667, width = 197, height = 111 ], link_type = [  ]

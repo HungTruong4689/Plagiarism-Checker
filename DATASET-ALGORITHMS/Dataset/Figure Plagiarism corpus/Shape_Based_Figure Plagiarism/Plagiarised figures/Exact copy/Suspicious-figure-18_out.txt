@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ DIVIDE MODEL LINE SEGMENTS AT FLAWINTO SECTIONS OF MAXIMUM LINE SIZE ], coordinate = [ x = 85, y = 148, width = 511, height = 89 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ WITHIN EACH SECTION DETERMINE ADISPLACEMENT VECTOR FOR EACH MODELPIXEL VERSUS RUNTIME PIXELS UP TO AMAXIMUM “PIXEL FLEX" VALUE AWAY ], coordinate = [ x = 85, y = 286, width = 511, height = 138 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ AVERAGE THE DISPLACEMENTS TO CREATE VECTOR ], coordinate = [ x = 67, y = 480, width = 547, height = 87 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ DOUBLE CHECK FIT OF DISPLACEMENTS USING CHAMFER DISTANCE TOOL ], coordinate = [ x = 85, y = 616, width = 511, height = 85 ], link_type = [ Next_TB(1 : shape4 ) ]
+Shape4 : type = [Diamond], text = [ BETTER FIT ?], coordinate = [ x = 209, y = 738, width = 263, height = 150 ], link_type = [ Decision(1 : shape5, 2 : shape6) ]
+Shape5 : type = [Rectangle], text = [ DISCARD DISPLACEMENT ], coordinate = [ x = 562, y = 769, width = 192, height = 86 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ MARK DISPLACEMENT AS VALID ], coordinate = [ x = 148, y = 952, width = 385, height = 61 ], link_type = [  ]

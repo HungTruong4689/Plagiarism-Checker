@@ -1,0 +1,6 @@
+Shape0 : type = [SQUARE], text = [ Produce THE HTML THAT Guides THE Customer to Conjure THE SECURITY Module ], coordinate = [ x = 66, y = 0, width = 132, height = 142 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ ALIoW THE CLIENT TO SUBMIT THE CERTIFICATE TO THE SECURITY EXTENSION], coordinate = [ x = 65, y = 165, width = 132, height = 141 ], link_type = [ Next_TB(1 : shape2)  ]
+Shape2 : type = [SQUARE], text = [ VERIFY THE CERTIFICATE BY CHECKING THE CERTIFICATE'S SIGNATURE WITH THE TRUSTED CODE'S CERTIFICATE ], coordinate = [ x = 63, y = 331, width = 132, height = 142 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ IS THE CERTIFICATE VALID ], coordinate = [ x = 62, y = 494, width = 131, height = 142 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [SQUARE], text = [ CREATE A CONNECTION SESSION], coordinate = [ x = 63, y = 659, width = 132, height = 141 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [SQUARE], text = [ PERFORM A SERVER CHALIENGE BY USING AN HTML TO CONVERT THE CHALLENGE TO THE CLIENT], coordinate = [ x = 65, y = 822, width = 131, height = 142 ], link_type = [  ]

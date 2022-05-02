@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ BEGIN ], coordinate = [ x = 265, y = 52, width = 89, height = 61 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RECEIVE NATURAL LANGUAGE QUERY STRING AND CONTEXT INFORMATION ], coordinate = [ x = 114, y = 160, width = 390, height = 113 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ PARSE STRING INTO PARSE RESULTS ], coordinate = [ x = 115, y = 320, width = 390, height = 88 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ CREATE DATA-RETRIEVAL REQUESTS BASED ON PARSE RESULTS ], coordinate = [ x = 114, y = 454, width = 391, height = 114 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ FEDERATE REQUESTS TO DATA RETRIEVAL GEOCODERS FOR PROCESSING INTO RESPONSES ], coordinate = [ x = 114, y = 615, width = 391, height = 114 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ PROCESS AND MERGE RESPONSES INTO RANKED LIST OF RESULTS ], coordinate = [ x = 115, y = 776, width = 389, height = 114 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ SELECT RANKED SET OF RESULTS FROM RANKED LIST AND RETURN FOR PROCESSING ], coordinate = [ x = 114, y = 938, width = 390, height = 113 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ End ], coordinate = [ x = 261, y = 1099, width = 93, height = 60 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Diamond], text = [ RSS > TH + HYS], coordinate = [ x = 135, y = 35, width = 158, height = 71 ], link_type = [ Decision(1 : shape1 , 2 : shape2)]
+Shape1 : type = [Diamond], text = [ RSS > RSS + HYS ], coordinate = [ x = 229, y = 114, width = 158, height = 71 ], link_type = [ Decision(1 : shape3, 2 : shape4) ]
+Shape2 : type = [Rectangle], text = [ Handoff to W], coordinate = [ x = 38, y = 242, width = 82, height = 41 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Handoff to M], coordinate = [ x = 163, y = 242, width = 82, height = 40 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ No Handoff], coordinate = [ x = 268, y = 241, width = 82, height = 41 ], link_type = [  ]

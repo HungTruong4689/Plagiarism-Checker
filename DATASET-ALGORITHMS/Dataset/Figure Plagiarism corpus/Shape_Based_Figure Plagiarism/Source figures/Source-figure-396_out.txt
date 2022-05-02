@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ 4A ], coordinate = [ x = 130, y = 38, width = 74, height = 49 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Search for top n images corresponding to n window openings matching attributes In template in accordance with recipe such that the template score is maximized. ], coordinate = [ x = 19, y = 118, width = 311, height = 211 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Image source ], coordinate = [ x = 755, y = 90, width = 322, height = 134 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Application Module ], coordinate = [ x = 91, y = 211, width = 322, height = 133 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Smile Detection Module ], coordinate = [ x = 755, y = 324, width = 322, height = 134 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Communications Interface Module ], coordinate = [ x = 91, y = 444, width = 323, height = 134 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Display Device ], coordinate = [ x = 755, y = 579, width = 322, height = 133 ], link_type = [  ]

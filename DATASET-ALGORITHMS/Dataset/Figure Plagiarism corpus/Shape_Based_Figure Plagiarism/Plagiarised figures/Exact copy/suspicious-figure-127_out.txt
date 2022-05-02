@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ P @], coordinate = [ x = 327, y = 118, width = 373, height = 70 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ PROCESS SAMPLE POINT S) ], coordinate = [ x = 328, y = 260, width = 374, height = 69 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Diamond], text = [ 720 DOES SI LIE ON THE CONVEX HULL OF Si'.7 ], coordinate = [ x = 347, y = 375, width = 337, height = 200 ], link_type = [ Decision(1 : shape3, 2 : shape4) ]
+Shape3 : type = [Rectangle], text = [ DESIGNATE POLE P(+AS THE VERTEX OF Vor(S)) FARTHEST FROM 5P *- P U {Pi+) ], coordinate = [ x = 653, y = 566, width = 317, height = 183 ], link_type = [ LINE(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ DESIGNATE FICTITIOUS VEFITEX P)+ WITHs)P(+ DIFIECTION EQUALTO THE AVERAGE OF OUTWAFID NOFIMALS OF HULL FACES AT si ], coordinate = [ x = 48, y = 570, width = 318, height = 247 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ DESIGNATE POLE Pi AS THE VERTEX OF Vor(S)) FAFITHEST FIOM Si SUCH THAT SiPi" SIP) < 0P< P U {Pi} ], coordinate = [ x = 160, y = 893, width = 722, height = 166 ], link_type = [ Next_TB((1 : shape6) ]
+Shape6 : type = [Diamond], text = [ LAST SAMPLE POINT? ], coordinate = [ x = 407, y = 1107, width = 228, height = 140 ], link_type = [ Decision(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ END ], coordinate = [ x = 478, y = 1295, width = 93, height = 58 ], link_type = [  ]

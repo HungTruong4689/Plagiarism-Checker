@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Connection to Ease End of Arrester ], coordinate = [ x = 277, y = 69, width = 244, height = 35 ], link_type = [ ]
+Shape1 : type = [Rectangle], text = [ Grading Component ], coordinate = [ x = 23, y = 158, width = 93, height = 54 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Sparkqap ], coordinate = [ x = 370, y = 159, width = 81, height = 31 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [  ], coordinate = [ x = 146, y = 210, width = 65, height = 42 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [  ], coordinate = [ x = 403, y = 215, width = 57, height = 34 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Catridge (Near sparkgap) ], coordinate = [ x = 403, y = 265, width = 180, height = 42 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ connection to Ground ], coordinate = [ x = 295, y = 346, width = 163, height = 32 ], link_type = [  ]

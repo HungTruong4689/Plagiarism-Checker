@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Receive Gray icon ù Image 2001 ], coordinate = [ x = 47, y = 19, width = 653, height = 147 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Find votingù Points on Gray icon ùImage for Each Side of Document 2002 ], coordinate = [ x = 45, y = 221, width = 655, height = 147 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Find Side Candidates 2004 ], coordinate = [ x = 45, y = 428, width = 654, height = 147 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Choose Best Side Candidates 2006 ], coordinate = [ x = 44, y = 637, width = 654, height = 146 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Define Document Corners 2008 ], coordinate = [ x = 43, y = 847, width = 652, height = 148 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Output Position of Document Corners 2009 ], coordinate = [ x = 42, y = 1057, width = 652, height = 146 ], link_type = [  ]

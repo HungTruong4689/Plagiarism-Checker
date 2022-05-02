@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Receive original color image from mobile device ], coordinate = [ x = 226, y = 21, width = 257, height = 181 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Convert original color image into smaller color image (color iconù image)], coordinate = [ x = 226, y = 250, width = 257, height = 180 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Perform color depth reduction ], coordinate = [ x = 226, y = 485, width = 257, height = 180 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Find document corners  ], coordinate = [ x = 226, y = 722, width = 257, height = 180 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Output document coner positions ], coordinate = [ x = 226, y = 958, width = 257, height = 181 ], link_type = [  ]

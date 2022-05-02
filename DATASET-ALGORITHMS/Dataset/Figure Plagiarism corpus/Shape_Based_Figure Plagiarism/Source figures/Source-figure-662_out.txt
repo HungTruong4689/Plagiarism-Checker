@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [  lReceive bi-tonal image of remittance coupon ], coordinate = [ x = 477, y = 16, width = 291, height = 203 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Execute matching ], coordinate = [ x = 477, y = 274, width = 291, height = 203 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [Matching template found? ], coordinate = [ x = 490, y = 545, width = 264, height = 275 ], link_type = [ Decision(1 : shape3, 2 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Extract data from coupon using template information & associate data with field values ], coordinate = [ x = 34, y = 580, width = 293, height = 205 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Perform dynamic data capture to extract information from coupon ], coordinate = [ x = 477, y = 900, width = 291, height = 203 ], link_type = [  ]

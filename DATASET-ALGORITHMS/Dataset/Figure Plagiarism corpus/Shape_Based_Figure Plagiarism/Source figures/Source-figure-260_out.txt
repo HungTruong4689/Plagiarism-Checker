@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 74, y = 282, width = 103, height = 51 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Receipt of a currentx coordinate andv-coordinate and desired number of incremental movements ], coordinate = [ x = 272, y = 228, width = 279, height = 157 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ ..aesirei.number of incremental movements is to beone  ], coordinate = [ x = 627, y = 222, width = 271, height = 164 ], link_type = [ Decision(1 : shape3, 2 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Risks of damage of movesto the left, right, anddown are checked, andthe move with theminimum risk ofdamage is returned ], coordinate = [ x = 973, y = 211, width = 279, height = 183 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ 2D reroute process, isutilized to determine thenext two least riskyincremental movements,which are then returned ], coordinate = [ x = 625, y = 449, width = 278, height = 157 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ End ], coordinate = [ x = 1056, y = 501, width = 104, height = 51 ], link_type = [  ]

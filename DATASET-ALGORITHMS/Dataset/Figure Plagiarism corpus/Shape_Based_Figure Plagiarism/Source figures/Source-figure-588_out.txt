@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ START 206 ], coordinate = [ x = 301, y = 271, width = 278, height = 154 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine signal values for each channel corresponding to alleles at a first locus ' 208 ], coordinate = [ x = 39, y = 504, width = 820, height = 184 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Set first channel value to X; set second channel value to Y in a coordinate system  210 ], coordinate = [ x = 38, y = 767, width = 820, height = 183 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ END212 ], coordinate = [ x = 341, y = 1030, width = 206, height = 152 ], link_type = [  ]

@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Anafyze image ], coordinate = [ x = 25, y = 106, width = 236, height = 74 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Classify Image features ], coordinate = [ x = 24, y = 211, width = 236, height = 74 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Extract coIor feature set,texture feature set,and pattern feature set ], coordinate = [ x = 23, y = 316, width = 236, height = 99 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Extract image feature value ], coordinate = [ x = 21, y = 446, width = 237, height = 74 ], link_type = [  ]

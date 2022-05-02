@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ APPLICATION  ], coordinate = [ x = 117, y = 25, width = 345, height = 45 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ IEEE 1588-2008 STACK SOFTWARE], coordinate = [ x = 117, y = 101, width = 345, height = 46 ], link_type = [ Multi Flow(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ TSYNC MODLUE DRIVER SOFTWARE], coordinate = [ x = 114, y = 191, width = 153, height = 44 ], link_type = [Double Arrow(1 : shape4)  ]
+Shape3 : type = [Rectangle], text = [ MAC CONTROLLER DRIVER SOFTWARE  ], coordinate = [ x = 308, y = 192, width = 153, height = 42 ], link_type = [ Double Arrow(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ TSYNC MODULE HARDWARE], coordinate = [ x = 114, y = 271, width = 153, height = 41 ], link_type = [ ]
+Shape5 : type = [Rectangle], text = [ MAC CONTROLLER DRIVER HARDWARE], coordinate = [ x = 308, y = 272, width = 153, height = 40 ], link_type = [ ]
+Shape6 : type = [Rectangle], text = [ ETHERNET PHY], coordinate = [ x = 118, y = 378, width = 342, height = 33 ], link_type = [  ]

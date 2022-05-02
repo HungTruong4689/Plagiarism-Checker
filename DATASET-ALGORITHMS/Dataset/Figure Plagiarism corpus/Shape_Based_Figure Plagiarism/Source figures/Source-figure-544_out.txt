@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Obtain CAD model ], coordinate = [ x = 273, y = 47, width = 228, height = 80 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Create Scan Sequences ], coordinate = [ x = 268, y = 171, width = 228, height = 80 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Optimise Sequences For Max Visibilty ], coordinate = [ x = 270, y = 294, width = 229, height = 79 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Scan Using Optimal Scan Sequence ], coordinate = [ x = 269, y = 410, width = 228, height = 79 ], link_type = [  ]

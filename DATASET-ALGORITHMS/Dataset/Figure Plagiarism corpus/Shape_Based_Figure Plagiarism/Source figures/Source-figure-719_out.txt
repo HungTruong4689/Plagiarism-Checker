@@ -1,0 +1,3 @@
+Shape0 : type = [SQUARE], text = [ REQUEST A USE OR THE DIGITAL CONTENT ], coordinate = [ x = 36, y = 14, width = 103, height = 113 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ DELET THE DIGITAL CONTENT], coordinate = [ x = 47, y = 155, width = 94, height = 103 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ Use THE DIGITAL CONTENT IN THE REQUESTED MANNER], coordinate = [ x = 32, y = 293, width = 122, height = 132 ], link_type = [  ]

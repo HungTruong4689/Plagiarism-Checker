@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ Preprocessing POS tagging  ], coordinate = [ x = 50, y = 70, width = 373, height = 60 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ feature set definition WondNet semannc heuristics ], coordinate = [ x = 48, y = 153, width = 373, height = 88 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Machine learning weka], coordinate = [ x = 48, y = 274, width = 372, height = 67 ], link_type = [  ]

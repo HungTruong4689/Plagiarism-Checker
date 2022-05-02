@@ -1,0 +1,2 @@
+Shape0 : type = [SQUARE], text = [ Information Preparing Implies], coordinate = [ x = 38, y = 26, width = 132, height = 142 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ MEMORY Implies Gadget TRAKING Implies], coordinate = [ x = 280, y = 29, width = 122, height = 132 ], link_type = [  ]

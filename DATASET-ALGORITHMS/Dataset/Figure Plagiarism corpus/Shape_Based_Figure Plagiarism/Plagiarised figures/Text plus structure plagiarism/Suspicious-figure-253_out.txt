@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Detect on-screen view changes 803 ], coordinate = [ x = 248, y = 132, width = 639, height = 102 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Generate a geospatial search regionde fined by instantaneous view specification 805 ], coordinate = [ x = 248, y = 283, width = 639, height = 121 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ RELATIVE VIEW change >Threshold ? 807 ], coordinate = [ x = 412, y = 454, width = 312, height = 195 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Contact search server identified by search specification (e.g., VDNL data structure)81 1 ], coordinate = [ x = 248, y = 699, width = 639, height = 121 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Submit the search specification and thedynamically generated geospatial search813 ], coordinate = [ x = 249, y = 869, width = 638, height = 121 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Receive results of search, and display results as contents of virtual data layer 815 ], coordinate = [ x = 248, y = 1039, width = 640, height = 121 ], link_type = [  ]

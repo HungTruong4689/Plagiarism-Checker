@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Produce Regions from a Map ], coordinate = [ x = 84, y = 23, width = 361, height = 62 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ compute Expanded Line ], coordinate = [ x = 83, y = 134, width = 361, height = 62 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Create Folders for Regions ], coordinate = [ x = 84, y = 247, width = 361, height = 62 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Copy Data to Folders ], coordinate = [ x = 83, y = 358, width = 361, height = 62 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Omit Duplicate Documents ], coordinate = [ x = 83, y = 474, width = 361, height = 62 ], link_type = [  ]

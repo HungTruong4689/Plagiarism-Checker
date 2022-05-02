@@ -1,0 +1,4 @@
+Shape0 : type = [Parallelogram], text = [ Web Browser ], coordinate = [ x = 132, y = 58, width = 155, height = 106 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Parallelogram], text = [ Curation Tool(s) ], coordinate = [ x = 343, y = 57, width = 154, height = 107 ], link_type = [ Multi Line(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Application Server ], coordinate = [ x = 133, y = 211, width = 155, height = 107 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [Information Extraction Engine(s) ], coordinate = [ x = 344, y = 210, width = 154, height = 107 ], link_type = [  ]

@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Service levels implies availability ) ], coordinate = [ x = 160, y = 117, width = 262, height = 95 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Random Market size ], coordinate = [ x = 442, y = 219, width = 165, height = 90 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Wholesale price. w ], coordinate = [ x = 9, y = 231, width = 143, height = 80 ], link_type = [ Multi flow (1: shape0, 2 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Delivery leadtime,t ], coordinate = [ x = 225, y = 335, width = 140, height = 80 ], link_type = [  ]

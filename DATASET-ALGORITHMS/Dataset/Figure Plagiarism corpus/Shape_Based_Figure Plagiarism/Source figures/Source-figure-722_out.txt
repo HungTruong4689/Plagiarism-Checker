@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Populate database with sensitiveand non sensitive data ], coordinate = [ x = 136, y = 155, width = 323, height = 61 ], link_type = [ Next(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Generate transparent tables of requently searched data ], coordinate = [ x = 136, y = 252, width = 323, height = 61 ], link_type = [ Next(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Generate indexes for searching transparent tables ], coordinate = [ x = 136, y = 350, width = 322, height = 60 ], link_type = [ Next(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Perform fast searching using transparent indexes ], coordinate = [ x = 136, y = 447, width = 323, height = 60 ], link_type = [ Next(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Encrypt database for permanent storage ], coordinate = [ x = 136, y = 544, width = 323, height = 60 ], link_type = [  ]

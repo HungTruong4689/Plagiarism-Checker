@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Extract text from image. ], coordinate = [ x = 273, y = 43, width = 400, height = 130 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Select an expression. ], coordinate = [ x = 273, y = 238, width = 401, height = 129 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Find occurrences in extracted text that are suitably similar to the selected expression. ], coordinate = [ x = 264, y = 428, width = 401, height = 127 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Score how well selected expression matches occurrence in extracted text. ], coordinate = [ x = 268, y = 614, width = 401, height = 129 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ if score is above a threshold,record that selected expression was found at a location in the image. ], coordinate = [ x = 272, y = 806, width = 400, height = 129 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Repeat steps 502-505 for all expressions. ], coordinate = [ x = 273, y = 1000, width = 400, height = 127 ], link_type = [  ]

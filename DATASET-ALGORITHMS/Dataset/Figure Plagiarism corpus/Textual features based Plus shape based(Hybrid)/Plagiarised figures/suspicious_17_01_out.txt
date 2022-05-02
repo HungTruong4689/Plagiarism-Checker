@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Computer], coordinate = [ x = 301, y = 5, width = 158, height = 49 ], link_type = [ Multi Flow(1 : shape1, 2 : shape2, 3 : shape3, 4 : shape4, 5 : shape5, 6 : shape6) ]
+Shape1 : type = [Rectangle], text = [ Monitor], coordinate = [ x = 17, y = 141, width = 86, height = 48 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Mouse ], coordinate = [ x = 124, y = 141, width = 86, height = 48 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ CPU ], coordinate = [ x = 230, y = 141, width = 69, height = 48 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Motherboard ], coordinate = [ x = 319, y = 141, width = 122, height = 48 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Kryboard ], coordinate = [ x = 461, y = 141, width = 105, height = 48 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Sound Card], coordinate = [ x = 585, y = 141, width = 123, height = 48 ], link_type = [  ]

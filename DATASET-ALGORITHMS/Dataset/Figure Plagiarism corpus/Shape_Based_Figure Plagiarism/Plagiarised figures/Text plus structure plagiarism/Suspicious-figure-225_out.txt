@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ SELECT 50 DATA POINTS ], coordinate = [ x = 143, y = 28, width = 230, height = 58 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DATA POINTS  ], coordinate = [ x = 109, y = 124, width = 291, height = 51 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ ESTIMATE DISTANCE . ], coordinate = [ x = 109, y = 222, width = 295, height = 49 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ RECEIVE ACTUAL DISTANCE ], coordinate = [ x = 104, y = 306, width = 291, height = 44 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ COMPUTE ACTUAL STRIDE LENGTH], coordinate = [ x = 104, y = 385, width = 291, height = 59 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ACTUAL STRIDE LENGTH ], coordinate = [ x = 104, y = 479, width = 291, height = 49 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ GIVE WEIGHT OF 50 ], coordinate = [ x = 109, y = 563, width = 291, height = 43 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ 50 USERDATA POINTS ], coordinate = [ x = 105, y = 640, width = 291, height = 56 ], link_type = [  ]

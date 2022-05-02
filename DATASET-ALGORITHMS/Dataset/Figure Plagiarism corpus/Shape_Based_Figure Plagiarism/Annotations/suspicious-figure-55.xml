@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/figure-plagiarism/document.xsd" reference="suspicious-figure-55.jpg" language="en">
+  <feature name="tagged-document" reference="suspicious-document-55_out.txt" language="en" />
+  <feature name="real-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape0"source_reference="Source-figure-605_out.txt" source_component="Shape5" 
+
+  <feature name="real-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape1"source_reference="Source-figure-605_out.txt" source_compnent="Shape6"  />
+
+  <feature name="real-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape4"source_reference="Source-figure-605_out.txt" source_compnent="Shape7"  />
+
+  <feature name="real-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape5"source_reference="Source-figure-605_out.txt" source_compnent="Shape8"  />
+
+  <feature name="real-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape6"source_reference="Source-figure-605_out.txt" source_compnent="Shape9"  />
+
+  <feature name="real-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape7"source_reference="Source-figure-605_out.txt" source_compnent="Shape10"  />
+  </document>

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ PERFORM COLLISION TEST ], coordinate = [ x = 297, y = 121, width = 263, height = 88 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ COLLECTION ?], coordinate = [ x = 322, y = 287, width = 214, height = 115 ], link_type = [ Decision(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ SEEK SHORTCUTS ], coordinate = [ x = 316, y = 481, width = 216, height = 184 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ Found SHORTCUT? ], coordinate = [ x = 316, y = 734, width = 225, height = 121 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ FOLLOW SELECTED ROUTE ], coordinate = [ x = 631, y = 737, width = 161, height = 114 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ TAKE SHORTCUT ], coordinate = [ x = 347, y = 932, width = 162, height = 88 ], link_type = [  ]

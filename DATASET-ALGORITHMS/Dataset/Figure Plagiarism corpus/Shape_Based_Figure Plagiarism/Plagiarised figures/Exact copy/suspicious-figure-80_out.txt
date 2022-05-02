@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ INPUT UNIT ], coordinate = [ x = 19, y = 280, width = 355, height = 69 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ EXTRACTION RULE CREATING SECTION ], coordinate = [ x = 482, y = 280, width = 353, height = 69 ], link_type = [ Next_TB((1 : shape2]
+Shape2 : type = [Rectangle], text = [ EXTRACTION RULE APPLYING SECTION ], coordinate = [ x = 484, y = 440, width = 352, height = 69 ], link_type = [ Next_TB((1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ EXTRACTION object document STORAGE SECTION ], coordinate = [ x = 981, y = 441, width = 355, height = 68 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ RULE RELATION CREATING SECTION ], coordinate = [ x = 486, y = 601, width = 352, height = 69 ], link_type = [ Next_TB((1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ EXTRACTION RESULT STORAGE SECTION ], coordinate = [ x = 982, y = 601, width = 355, height = 70 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ RULE RELATION OUTPUT SECT ION ], coordinate = [ x = 487, y = 762, width = 352, height = 68 ], link_type = [  ]

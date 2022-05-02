@@ -1,0 +1,3 @@
+Shape0 : type = [Parallelogram], text = [ Processor], coordinate = [ x = 108, y = 38, width = 268, height = 54 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Parallelogram], text = [ slide analyzer program code ], coordinate = [ x = 26, y = 127, width = 414, height = 55 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Parallelogram], text = [ slide image storage ], coordinate = [ x = 26, y = 217, width = 414, height = 54 ], link_type = [  ]

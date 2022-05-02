@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 373, y = 52, width = 93, height = 62 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RECEIVE A RESULT PAGE FROM A WEB SEARCHENGINE AND AN INTEGER NUMBER FOR THERESULTS ON THE RESULT PAGE ], coordinate = [ x = 106, y = 162, width = 626, height = 119 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ GENERATE ONE OR MORE SIMPLIFIE DVARIATIONS OF THE RESULT PAGE ], coordinate = [ x = 105, y = 348, width = 627, height = 100 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ PARSE THE VARIATIONS TO DETERMINE ONE ORMORE REPEATING PATTERNS ], coordinate = [ x = 106, y = 515, width = 625, height = 99 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ SELECT THE ONE OR MORE REPEATING PATTERNS THAT ARE REPEATED THE INTEGER VALUE NUMBER OF TIMES AS RESULT PATTERNS ], coordinate = [ x = 106, y = 681, width = 625, height = 118 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ SELECT ONE OF THE ONE ORE MORE RESULT PATTERNS AS A HIGHEST RATED RESULT PATTERN ACCORDING TO PREDEFINED RATING CRITERIA ], coordinate = [ x = 105, y = 866, width = 626, height = 137 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ GENERATE A REGULAR EXPRESSION FROM THEHIGHEST RATED RESULT PATTERN AS AN OUTPUT ], coordinate = [ x = 106, y = 1071, width = 625, height = 118 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ End ], coordinate = [ x = 375, y = 1237, width = 85, height = 62 ], link_type = [  ]

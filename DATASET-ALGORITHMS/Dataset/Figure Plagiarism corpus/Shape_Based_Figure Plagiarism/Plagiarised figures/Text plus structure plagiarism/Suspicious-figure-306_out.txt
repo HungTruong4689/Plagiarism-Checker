@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ RECEIVE RULE A113 ], coordinate = [ x = 190, y = 23, width = 198, height = 83 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ SLID ADMIN? ], coordinate = [ x = 194, y = 123, width = 190, height = 82 ], link_type = [ Decision(1 : shape2, 2:shape3) ]
+Shape2 : type = [Diamond], text = [ OMP spec?  ], coordinate = [ x = 351, y = 248, width = 183, height = 76 ], link_type = [ Decision( 1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ APPLY TO ALL NON SERVER SILO ], coordinate = [ x = 41, y = 360, width = 198, height = 89 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ APPLY TO SILO  ], coordinate = [ x = 344, y = 360, width = 198, height = 89 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ APPLY To spec come ONLY   ], coordinate = [ x = 191, y = 486, width = 198, height = 88 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Parallelogram], text = [ Given: Set of Nth-order tokens 900 ], coordinate = [ x = 123, y = 21, width = 628, height = 78 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Order the constituent tokens of each Nth order token using a single color channel 902 ], coordinate = [ x = 147, y = 113, width = 581, height = 105 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Find all other Nth order tokens with matching reflectance ratios and spectralratios. as shown on right.904 ], coordinate = [ x = 53, y = 291, width = 770, height = 106 ], link_type = [Next(1 : shape3  ]
+Shape3 : type = [Rectangle], text = [ Accumulate the spectral ratios calculated by each pair ofmatching Nth-order tokens into an array.906 ], coordinate = [ x = 109, y = 416, width = 659, height = 105 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Execute a mean shift algorithm on the array of spectral ratios.908 ], coordinate = [ x = 219, y = 550, width = 439, height = 105 ], link_type = [ Next_TB(1 : shape5 ]
+Shape5 : type = [Rectangle], text = [ Output is the spectral ratio for a part or the whole of the image.910 ], coordinate = [ x = 213, y = 672, width = 490, height = 139 ], link_type = [  ]

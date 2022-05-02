@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ ANNOTATOR METADATA ], coordinate = [ x = 98, y = 30, width = 145, height = 109 ], link_type = [ Multi-flow(1 : shape1, 2 : shape3) ]
+Shape1 : type = [Rectangle], text = [ UPDATE REPOSITORY  ], coordinate = [ x = 362, y = 29, width = 147, height = 124 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [  ANNOTATOR REPOSTTORY ], coordinate = [ x = 589, y = 30, width = 179, height = 122 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ COMPILED ANNOTATORS ], coordinate = [ x = 84, y = 213, width = 175, height = 119 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ COMPILE SPECIFICATION ], coordinate = [ x = 351, y = 212, width = 169, height = 109 ], link_type = [  ]

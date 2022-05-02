@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ start ], coordinate = [ x = 452, y = 15, width = 227, height = 53 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Read query ], coordinate = [ x = 416, y = 87, width = 307, height = 35 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Extract Features ], coordinate = [ x = 450, y = 150, width = 243, height = 34 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Parallelogram], text = [ compare query with meta data and rank witn cosine ], coordinate = [ x = 357, y = 214, width = 426, height = 63 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Show the most important result ], coordinate = [ x = 402, y = 310, width = 329, height = 34 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ End ], coordinate = [ x = 453, y = 370, width = 229, height = 46 ], link_type = [  ]

@@ -1,0 +1,7 @@
+Shape0 : type = [Diamond], text = [ Suceed?  ], coordinate = [ x = 134, y = 236, width = 315, height = 91 ], link_type = [ Decision(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Digitize Y Axls  ], coordinate = [ x = 107, y = 376, width = 368, height = 119 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Diamond], text = [ Suceed?  ], coordinate = [ x = 135, y = 544, width = 313, height = 91 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Digitize Curves  ], coordinate = [ x = 108, y = 683, width = 367, height = 120 ], link_type = [ Next_TB((1 : shape4) ]
+Shape4 : type = [Diamond], text = [  Succeed? ], coordinate = [ x = 135, y = 851, width = 314, height = 91 ], link_type = [ Decision(1 : shape5, 2 : shape6) ]
+Shape5 : type = [Rectangle], text = [ Finish ], coordinate = [ x = 236, y = 991, width = 113, height = 91 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Failed ], coordinate = [ x = 624, y = 991, width = 114, height = 91 ], link_type = [  ]

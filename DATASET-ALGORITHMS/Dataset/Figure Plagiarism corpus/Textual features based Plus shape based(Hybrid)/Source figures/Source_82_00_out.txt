@@ -1,0 +1,7 @@
+Shape0 : type = [Diamond], text = [ Receive Wake up Signal ], coordinate = [ x = 68, y = 66, width = 83, height = 61 ], link_type = [ Decision(1 : shape1, 2 : shape4) ]
+Shape1 : type = [Rectangle], text = [ Energy Havester output a DC voltage to Wake up Critical ], coordinate = [ x = 166, y = 68, width = 80, height = 57 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ wake up circuit Generates pulses to trigger T mote Sky ], coordinate = [ x = 261, y = 68, width = 81, height = 57 ], link_type = [ Next_LR(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ T mote Sky trigger by pulses and put MCU in active mode ], coordinate = [ x = 357, y = 68, width = 81, height = 57 ], link_type = [Next_TB( 1: shape 6)  ]
+Shape4 : type = [Rectangle], text = [T mote Sky remains in sleep mode ], coordinate = [ x = 70, y = 134, width = 79, height = 57 ], link_type = [ Next_RL(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Send data ], coordinate = [ x = 261, y = 134, width = 81, height = 57 ], link_type = [  ]
+Shape6 : type = [Diamond], text = [ T mote Sky  has data to send ], coordinate = [ x = 356, y = 133, width = 82, height = 59 ], link_type = [  ]

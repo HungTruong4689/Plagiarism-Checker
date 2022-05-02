@@ -1,0 +1,5 @@
+Shape0 : type = [SQUARE], text = [ DATA STORAGE DEVICE CLIENT AGENT ], coordinate = [ x = 34, y = 15, width = 132, height = 142 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ GELOCATION DATA SERVER], coordinate = [ x = 276, y = 18, width = 122, height = 132 ], link_type = [  ]
+Shape2 : type = [SQUARE], text = [ REGESTERED OWNER APPARTUS], coordinate = [ x = 489, y = 115, width = 151, height = 161 ], link_type = [ ]
+Shape3 : type = [SQUARE], text = [ HOST DEVICE NETWORK INTERFACE MEANS], coordinate = [ x = 30, y = 237, width = 122, height = 132 ], link_type = [ Double Arrow(1 : shape4) ]
+Shape4 : type = [SQUARE], text = [ SERVER DEVICE TRAKING MEANS], coordinate = [ x = 250, y = 233, width = 151, height = 161 ], link_type = [  ]

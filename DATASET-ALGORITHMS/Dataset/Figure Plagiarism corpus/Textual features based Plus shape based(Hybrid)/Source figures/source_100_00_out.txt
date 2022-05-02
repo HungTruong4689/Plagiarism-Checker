@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Large queues build at edges ], coordinate = [ x = 952, y = 16, width = 90, height = 55 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Large queue Builds at interior bottlench], coordinate = [ x = 428, y = 54, width = 94, height = 56 ], link_type = [ ]
+Shape2 : type = [Rectangle], text = [ Smaller queue Builds at interior bottlench], coordinate = [ x = 969, y = 85, width = 90, height = 54 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ Provider station 0], coordinate = [ x = 131, y = 96, width = 71, height = 55 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Provider station 0], coordinate = [ x = 715, y = 97, width = 67, height = 53 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Provider station 1], coordinate = [ x = 715, y = 235, width = 67, height = 54 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Provider station 1 ], coordinate = [ x = 131, y = 240, width = 71, height = 56 ], link_type = [  ]

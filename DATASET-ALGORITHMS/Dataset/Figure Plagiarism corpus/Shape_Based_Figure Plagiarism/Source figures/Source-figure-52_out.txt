@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ INFORMATION SENDING SERVER (1 ) ], coordinate = [ x = 289, y = 105, width = 140, height = 87 ], link_type = [ Line(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ USER TERMINAL ], coordinate = [ x = 567, y = 140, width = 135, height = 74 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ INFORMATIONI RETRIEVAL SERVER ], coordinate = [ x = 110, y = 188, width = 142, height = 87 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ NETWORK ], coordinate = [ x = 387, y = 278, width = 248, height = 119 ], link_type = [ Line(1 : shape6)  ]
+Shape4 : type = [Rectangle], text = [ INFORMATION STORAGE SERVER(1) ], coordinate = [ x = 110, y = 294, width = 142, height = 87 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ INFORMATION SENDING SERVER(2) ], coordinate = [ x = 136, y = 411, width = 141, height = 86 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ INFORMATION SENDING SERVER(3) ], coordinate = [ x = 261, y = 498, width = 141, height = 86 ], link_type = [  ]

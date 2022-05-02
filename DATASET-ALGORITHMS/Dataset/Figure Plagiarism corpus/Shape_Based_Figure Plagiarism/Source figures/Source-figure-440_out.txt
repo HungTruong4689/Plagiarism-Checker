@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Find Statute of Limitations for State ], coordinate = [ x = 145, y = 143, width = 202, height = 112 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Score1 =(((Months Behind on Credit Cards I 12) / Statute of Limitations) * 80) ], coordinate = [ x = 112, y = 286, width = 267, height = 112 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ Score1 >15 ?], coordinate = [ x = 99, y = 430, width = 293, height = 126 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Do Nothin Soore =Scor1 +( tatute of Limitations * 5) ], coordinate = [ x = 466, y = 558, width = 197, height = 89 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Do Nothing Score =Score1 ], coordinate = [ x = 148, y = 588, width = 195, height = 84 ], link_type = [  ]

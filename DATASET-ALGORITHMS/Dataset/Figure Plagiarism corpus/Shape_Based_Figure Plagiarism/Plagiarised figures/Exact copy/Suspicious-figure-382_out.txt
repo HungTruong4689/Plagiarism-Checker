@@ -1,0 +1,4 @@
+Shape0 : type = [SQUARE], text = [ Populate buffer(withpayload) ], coordinate = [ x = 195, y = 16, width = 103, height = 113 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ Pad payload ], coordinate = [ x = 386, y = 15, width = 103, height = 113 ], link_type = [ Double Arrow(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ xor verification Information buffer ], coordinate = [ x = 564, y = 15, width = 103, height = 112 ], link_type = [  ]
+Shape3 : type = [SQUARE], text = [ Start ], coordinate = [ x = 25, y = 29, width = 93, height = 103 ], link_type = [  ]

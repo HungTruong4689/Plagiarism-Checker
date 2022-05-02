@@ -1,0 +1,6 @@
+Shape0 : type = [SQUARE], text = [ SUBMIT REQUEST TO MANAGED NODE'S WEB SERVER ], coordinate = [ x = 101, y = 9, width = 122, height = 132 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ CHECK THE solicitations DESTINATION], coordinate = [ x = 100, y = 162, width = 122, height = 132 ], link_type = [ Next_TB(1 : shape2)  ]
+Shape2 : type = [Diamond], text = [ THE DESTINATION APROTECTED PAGE], coordinate = [ x = 45, y = 321, width = 228, height = 160 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ CHECK FOR A Substantial SECURITY TOKENINDICATING Past Validation ID], coordinate = [ x = 97, y = 500, width = 122, height = 132 ], link_type = [ Next_TB(1 : shape4)   ]
+Shape4 : type = [Diamond], text = [ Effectively confirme], coordinate = [ x = 68, y = 647, width = 164, height = 113 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [SQUARE], text = [ DIVERT Solicitation To THE SERVER SECURITY Expansion Utilizing A suitable RE-DIRECT HTML], coordinate = [ x = 72, y = 781, width = 152, height = 162 ], link_type = [  ]

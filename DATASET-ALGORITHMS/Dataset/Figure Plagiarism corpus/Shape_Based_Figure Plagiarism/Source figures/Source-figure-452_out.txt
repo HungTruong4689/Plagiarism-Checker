@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Check Final Score For Debt Settlement Option ], coordinate = [ x = 387, y = 32, width = 293, height = 83 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DS point:(DS pt1 - DS pt2) ], coordinate = [ x = 419, y = 175, width = 241, height = 102 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ debt settlement:(DS credit + DS debt + DS behind+ DS ccNum + DS point) ], coordinate = [ x = 341, y = 343, width = 398, height = 108 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [  debt settlement > 100 ? ], coordinate = [ x = 355, y = 509, width = 367, height = 157 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ debt settlement =100 ], coordinate = [ x = 69, y = 537, width = 217, height = 101 ], link_type = [  ]
+Shape5 : type = [Diamond], text = [  \debt settlement <O?/ ], coordinate = [ x = 374, y = 737, width = 330, height = 157 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ debt settlement =0 ], coordinate = [ x = 69, y = 765, width = 217, height = 102 ], link_type = [  ]

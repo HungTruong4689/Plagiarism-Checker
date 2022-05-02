@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Receive mobile image ], coordinate = [ x = 93, y = 27, width = 271, height = 190 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Generate bitonal image], coordinate = [ x = 93, y = 279, width = 271, height = 189 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Identify code line in bitonal image ], coordinate = [ x = 93, y = 526, width = 271, height = 189 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determine code line confidences], coordinate = [ x = 93, y = 776, width = 271, height = 189 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Return test results], coordinate = [ x = 93, y = 1016, width = 271, height = 189 ], link_type = [  ]

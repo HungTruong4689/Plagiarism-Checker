@@ -1,0 +1,2 @@
+Shape0 : type = [SQUARE], text = [ DATA PROCESSING MEANS ], coordinate = [ x = 38, y = 26, width = 132, height = 142 ], link_type = [ Double Arrow(1 : shape1)]
+Shape1 : type = [SQUARE], text = [ MEMORY MEANS DEVICE TRACKING MEANS], coordinate = [ x = 280, y = 29, width = 122, height = 132 ], link_type = [  ]

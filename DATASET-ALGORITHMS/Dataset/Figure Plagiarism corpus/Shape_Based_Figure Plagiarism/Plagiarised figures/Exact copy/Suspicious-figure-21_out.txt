@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Image acquisition and processing ], coordinate = [ x = 83, y = 25, width = 411, height = 54 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Feature detection and extraction ], coordinate = [ x = 112, y = 125, width = 359, height = 58 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Generate a candidate edge image ], coordinate = [ x = 111, y = 228, width = 359, height = 58 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [  Outer perimeter boundary calculated ], coordinate = [ x = 84, y = 331, width = 410, height = 53 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Inner perimeter boundary calculated ], coordinate = [ x = 87, y = 430, width = 410, height = 53 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [Spatial domain mapping onto the microplate ], coordinate = [ x = 24, y = 528, width = 540, height = 67 ], link_type = [  ]

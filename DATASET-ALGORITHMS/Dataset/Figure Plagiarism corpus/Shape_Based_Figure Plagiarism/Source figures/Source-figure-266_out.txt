@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ VIDEO SEQUENCE INPUT ], coordinate = [ x = 217, y = 13, width = 340, height = 77 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ FEATURE TRACKINGS ], coordinate = [ x = 217, y = 193, width = 340, height = 75 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ PAIRWISE CAMERA POSE ESTIMATIONI ], coordinate = [ x = 131, y = 316, width = 511, height = 77 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ SUBSEQUENCE POSE ESTIMATION ], coordinate = [ x = 131, y = 439, width = 510, height = 75 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ STITCHING SUBSEQUENCES ], coordinate = [ x = 131, y = 570, width = 510, height = 77 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ GLOBAL ADJUSTMENT ], coordinate = [ x = 131, y = 706, width = 510, height = 76 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ I MATCH-MOVE ROUTINE(FIG. 17)E ‘ ], coordinate = [ x = 655, y = 881, width = 307, height = 150 ], link_type = [ Next_TB(1 : shape7)  ]
+Shape7 : type = [Rectangle], text = [ VIDEO SEQUENCEOUTPUT ], coordinate = [ x = 263, y = 1043, width = 247, height = 150 ], link_type = [  ]

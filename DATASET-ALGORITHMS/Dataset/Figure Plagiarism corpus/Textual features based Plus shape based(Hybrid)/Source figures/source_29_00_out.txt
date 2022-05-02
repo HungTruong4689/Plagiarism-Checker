@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ LATCH ], coordinate = [ x = 74, y = 34, width = 28, height = 91 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ REG1], coordinate = [ x = 175, y = 32, width = 30, height = 93 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ REG2 ], coordinate = [ x = 278, y = 31, width = 28, height = 93 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Control], coordinate = [ x = 56, y = 149, width = 63, height = 51 ], link_type = [  ]

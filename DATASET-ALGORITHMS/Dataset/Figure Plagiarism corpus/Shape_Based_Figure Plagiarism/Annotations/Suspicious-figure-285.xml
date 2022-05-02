@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><document reference="Suspicious-figure-285.txt" language="en"><feature name="tagged-document" reference="Suspicious-figure-285.xml" language="en" />
+
+<feature name="tagged-document" reference="suspicious-document-285_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType "obfuscation="Medium"this_component="Shape0"source_reference="Source-figure-719_out.txt" source_component="Shape0" 
+
+<feature name="tagged-document" reference="suspicious-document-285_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType,Text Modification : Paraphrasing "obfuscation="Strong"this_component="Shape1"source_reference="Source-figure-719_out.txt" source_component="Shape1" 
+
+<feature name="tagged-document" reference="suspicious-document-285_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType,Text Modification : Paraphrasing "obfuscation="Strong"this_component="Shape2"source_reference="Source-figure-719_out.txt" source_component="Shape2" 
+
+<feature name="tagged-document" reference="suspicious-document-285_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType "obfuscation="Medium"this_component="Shape3"source_reference="Source-figure-719_out.txt" source_component="Shape3" 
+
+<feature name="tagged-document" reference="suspicious-document-285_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType "obfuscation="Medium"this_component="Shape4"source_reference="Source-figure-719_out.txt" source_component="Shape4" 
+
+<feature name="tagged-document" reference="suspicious-document-285_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType "obfuscation="Medium"this_component="Shape5"source_reference="Source-figure-719_out.txt" source_component="Shape5" 
+
+
+
+
+</document>

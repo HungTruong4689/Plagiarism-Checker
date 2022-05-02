@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ INPUT UNIT ], coordinate = [ x = 112, y = 183, width = 172, height = 94 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [  HDD ], coordinate = [ x = 400, y = 183, width = 172, height = 94 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ RAM ], coordinate = [ x = 112, y = 299, width = 171, height = 93 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ OPTICAL DISC DRIVE ], coordinate = [ x = 399, y = 300, width = 173, height = 93 ], link_type = [  ]

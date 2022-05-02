@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Scanning Engine], coordinate = [ x = 45, y = 82, width = 87, height = 63 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Alert Engine], coordinate = [ x = 179, y = 82, width = 87, height = 63 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Report engine ], coordinate = [ x = 313, y = 82, width = 87, height = 63 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ vetfirication Engine  ], coordinate = [ x = 447, y = 82, width = 98, height = 63 ], link_type = [ Double Arrrow(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Security Web Site ], coordinate = [ x = 435, y = 204, width = 110, height = 63 ], link_type = [  ]

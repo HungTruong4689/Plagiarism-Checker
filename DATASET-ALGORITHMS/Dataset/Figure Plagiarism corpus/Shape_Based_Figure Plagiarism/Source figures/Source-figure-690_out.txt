@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Obtain a webpage ], coordinate = [ x = 138, y = 28, width = 492, height = 74 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Receive a user selection of a node in the webpage ], coordinate = [ x = 139, y = 133, width = 490, height = 102 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Present web crawling configuration options pertaining to a web crawling actionto be performed with respect to the user selected node ], coordinate = [ x = 140, y = 256, width = 487, height = 150 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Receive a user input specifying the webcrawling configuration options ], coordinate = [ x = 138, y = 432, width = 492, height = 122 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Perform the web crawling action on the user selected node according to the user input ], coordinate = [ x = 138, y = 584, width = 492, height = 122 ], link_type = [  ]

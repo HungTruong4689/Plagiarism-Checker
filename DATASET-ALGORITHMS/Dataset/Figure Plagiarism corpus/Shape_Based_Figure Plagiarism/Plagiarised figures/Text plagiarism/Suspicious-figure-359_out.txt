@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Begin ], coordinate = [ x = 293, y = 124, width = 100, height = 46 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ OBTAIN MODEL NUMBER/OS TYPE ], coordinate = [ x = 68, y = 207, width = 544, height = 49 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ NARROW OBJECT TO BE RETRIEVED ], coordinate = [ x = 68, y = 292, width = 544, height = 49 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ PERFORM CONCEPTUAL RETRIEVAL ], coordinate = [ x = 67, y = 376, width = 545, height = 49 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ OBTAIN RESULT OF CONCEPTUAL RETRIEVAL TO GETHER WITH SCORE ], coordinate = [ x = 67, y = 462, width = 544, height = 70 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ TRANSMIT CONTENTS HAVINGHIGH SCORE TOGETHER WITH SCORE ], coordinate = [ x = 67, y = 569, width = 544, height = 72 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ END ], coordinate = [ x = 290, y = 677, width = 100, height = 46 ], link_type = [  ]

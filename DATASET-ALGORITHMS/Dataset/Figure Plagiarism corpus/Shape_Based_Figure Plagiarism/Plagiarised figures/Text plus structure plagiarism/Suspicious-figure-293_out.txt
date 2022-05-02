@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Encoding Module ], coordinate = [ x = 324, y = 145, width = 120, height = 71 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ External Intervace ], coordinate = [ x = 91, y = 181, width = 67, height = 71 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Processor], coordinate = [ x = 175, y = 179, width = 135, height = 76 ], link_type = [ Multi Flow(1 : shape0, 2 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Data Providing Module ], coordinate = [ x = 326, y = 240, width = 118, height = 71 ], link_type = [  ]

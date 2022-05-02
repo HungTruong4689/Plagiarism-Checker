@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ HTML RESULT PAGE ], coordinate = [ x = 1160, y = 71, width = 142, height = 97 ], link_type = [ Next_TB(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ BROKER EDITOR ], coordinate = [ x = 112, y = 251, width = 179, height = 116 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ FEDERATED SEARCH SERVER ], coordinate = [ x = 618, y = 251, width = 178, height = 116 ], link_type = [ Next_LR(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ STANDARD REGULAR EXPRESSION MATCHER ], coordinate = [ x = 1124, y = 233, width = 214, height = 152 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ RESULT OBJECT ], coordinate = [ x = 1161, y = 450, width = 141, height = 97 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 376, y = 17, width = 113, height = 53 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RECEIVE QUERY IN LANGUAGE Ll ], coordinate = [ x = 159, y = 127, width = 555, height = 105 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ TRANSLATE QUERY INTO LANGUAGE SET {Ln} ], coordinate = [ x = 159, y = 298, width = 555, height = 106 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ FOR EACH LANGUAGE Li W SET ], coordinate = [ x = 159, y = 471, width = 555, height = 105 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ SEARCH DOCUMENTS IN LANGUAGE Li USINGu QUERY IN Li ], coordinate = [ x = 159, y = 642, width = 555, height = 123 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ MORE LANGUAGES? ], coordinate = [ x = 159, y = 832, width = 556, height = 105 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ RETURN RESULTS ], coordinate = [ x = 159, y = 1003, width = 556, height = 105 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ END ], coordinate = [ x = 376, y = 1174, width = 121, height = 56 ], link_type = [  ]

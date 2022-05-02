@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ CRM Customer Relationship Management], coordinate = [ x = 228, y = 62, width = 255, height = 85 ], link_type = [ ]
+Shape1 : type = [Rectangle], text = [ EKM Enterprise Knowledge Management ], coordinate = [ x = 240, y = 139, width = 230, height = 150 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ ERF Enterprise Resources Planning ], coordinate = [ x = 202, y = 281, width = 307, height = 84 ], link_type = [  ]

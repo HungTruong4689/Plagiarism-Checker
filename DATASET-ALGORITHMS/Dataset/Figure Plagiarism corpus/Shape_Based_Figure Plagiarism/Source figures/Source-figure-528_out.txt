@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ identify set of documents to analyze  ], coordinate = [ x = 139, y = 135, width = 302, height = 83 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Retrieve documents set into document warehouse], coordinate = [ x = 139, y = 268, width = 302, height = 84 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Perform text analysis  ], coordinate = [ x = 139, y = 401, width = 302, height = 84 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Display and visualize (optional) results  ], coordinate = [ x = 139, y = 535, width = 302, height = 83 ], link_type = [  ]

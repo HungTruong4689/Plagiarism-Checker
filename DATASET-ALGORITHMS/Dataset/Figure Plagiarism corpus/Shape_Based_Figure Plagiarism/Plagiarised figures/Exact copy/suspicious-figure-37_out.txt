@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ third screening unit ], coordinate = [ x = 580, y = 86, width = 196, height = 71 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ reception unit ], coordinate = [ x = 68, y = 143, width = 198, height = 72 ], link_type = [ Line(1 : shape4) ]
+Shape2 : type = [Rectangle], text = [ reference storage unit ], coordinate = [ x = 614, y = 232, width = 145, height = 132 ], link_type = [  ]
+Shape3 : type = [Parallelogram], text = [ processing method determination unit ], coordinate = [ x = 341, y = 240, width = 199, height = 132 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ semantic pattern matching unit unit ], coordinate = [ x = 66, y = 256, width = 199, height = 110 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ execution unit ], coordinate = [ x = 342, y = 424, width = 198, height = 70 ], link_type = [  ]

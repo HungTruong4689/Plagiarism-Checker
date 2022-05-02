@@ -1,0 +1,6 @@
+Shape0 : type = [Parallelogram], text = [  DATA POINTS ], coordinate = [ x = 396, y = 39, width = 235, height = 42 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ ESTIMATE DISTANCE ], coordinate = [ x = 395, y = 117, width = 237, height = 41 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ RECEIVE ACTUAL DISTANCE ], coordinate = [ x = 395, y = 195, width = 236, height = 73 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ ADD WEIGHTS ], coordinate = [ x = 112, y = 234, width = 236, height = 41 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ COMPUTE ACTUAL STRIDE LENGTH ], coordinate = [ x = 395, y = 304, width = 236, height = 72 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Parallelogram], text = [ ACTUAL STRIDE LENGTH ], coordinate = [ x = 393, y = 413, width = 235, height = 72 ], link_type = [  ]

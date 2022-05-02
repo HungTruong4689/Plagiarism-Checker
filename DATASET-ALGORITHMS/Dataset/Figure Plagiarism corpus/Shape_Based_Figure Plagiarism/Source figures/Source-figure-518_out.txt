@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Separate Out Combinatorial Primitive Supporting Words ], coordinate = [ x = 574, y = 156, width = 212, height = 70 ], link_type = [ Next_TB(1 : shape1)  ]
+Shape1 : type = [Rectangle], text = [ Retrieve simple Primitives in defintion of Combinatorial Primitives ], coordinate = [ x = 576, y = 255, width = 211, height = 70 ], link_type = [ ]
+Shape2 : type = [Rectangle], text = [ Retrieve Definitions 0f Terminal Primitive construction ], coordinate = [ x = 852, y = 256, width = 211, height = 70 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Separate out Simple Primitives ], coordinate = [ x = 852, y = 412, width = 211, height = 69 ], link_type = [ Next_TB(1 : shape5)  ]
+Shape4 : type = [Rectangle], text = [ separate outCombinatorial Premitves ], coordinate = [ x = 1129, y = 412, width = 211, height = 69 ], link_type = [ Next_TB(1 : shape6)]
+Shape5 : type = [Rectangle], text = [ ldenlify Relative Sets ], coordinate = [ x = 853, y = 509, width = 210, height = 70 ], link_type = [ Line(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ Retrieve Simple Prinilives in Dehnilluns 0f Combinatorial Primnives ], coordinate = [ x = 1130, y = 511, width = 210, height = 70 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ List All Relatlve Sets Identified ], coordinate = [ x = 853, y = 776, width = 211, height = 70 ], link_type = [  ]

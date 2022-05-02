@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ RECEIVE A FIRST FILE COMPRISING SOFTWARE CODE AND A SECOND FILE IHAVING A DESIGN PATTERN IMPLEMENTEDIN THE SOFTWARE CODE  ], coordinate = [ x = 77, y = 143, width = 386, height = 168 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ IDENTIFY A FUNCTION CALL TO A FUNCTION IN A CLASS IMPLEMENTING THE DESIGN PATTERN ], coordinate = [ x = 77, y = 374, width = 385, height = 126 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [  RESOLVE THE IDENTIFIED FUNCTION CALL ], coordinate = [ x = 77, y = 564, width = 386, height = 127 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ CREATE A REPRESENTATION OF THE CALLED IFUNCTION  ], coordinate = [ x = 78, y = 753, width = 387, height = 127 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ REPLACE THE FUNCTION CALL WITH THE IREPRESENTATION OF THE CALLED FUNCTION ], coordinate = [ x = 79, y = 943, width = 385, height = 126 ], link_type = [  ]

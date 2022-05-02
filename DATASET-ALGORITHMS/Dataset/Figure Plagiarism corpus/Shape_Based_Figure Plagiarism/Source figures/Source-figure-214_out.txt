@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ SOLUTION REQUEST SENTENCE SETACQUISITION MEANS ], coordinate = [ x = 93, y = 64, width = 642, height = 46 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Quadrangle], text = [ IDENTIFICATION INFORMATION SPECIFICATION MEANS ], coordinate = [ x = 93, y = 147, width = 642, height = 45 ], link_type = [  ]

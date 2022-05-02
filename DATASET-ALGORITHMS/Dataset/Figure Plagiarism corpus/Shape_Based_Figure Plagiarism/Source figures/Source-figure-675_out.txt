@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ DEFINE PRIMITIVE DOMAIN ], coordinate = [ x = 40, y = 20, width = 532, height = 93 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ REGISTER USER (USER ID) ], coordinate = [ x = 42, y = 141, width = 528, height = 94 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ , PROVIDE PASSWORD-ELEMENT   ], coordinate = [ x = 42, y = 264, width = 527, height = 94 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [  RECEIVE USER SELECTION ], coordinate = [ x = 41, y = 390, width = 527, height = 93 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ GENERATE PASSWORD INDICATOR ], coordinate = [ x = 42, y = 515, width = 525, height = 91 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ ASSOCIATE PASSWORD/PASSWORD INDICATOR WITH USER  ], coordinate = [ x = 41, y = 636, width = 527, height = 94 ], link_type = [  ]

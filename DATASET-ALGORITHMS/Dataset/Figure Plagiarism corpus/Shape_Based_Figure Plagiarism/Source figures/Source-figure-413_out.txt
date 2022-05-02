@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ BEHAVIOR A TTRlBUTE CONTROLLER ], coordinate = [ x = 57, y = 60, width = 175, height = 141 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ DETECTING CIRCUIT ], coordinate = [ x = 457, y = 60, width = 176, height = 140 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ ATFRIBUTE ADJUSTMENT CONTROLLER ], coordinate = [ x = 57, y = 222, width = 175, height = 141 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ STORAGE ], coordinate = [ x = 457, y = 222, width = 176, height = 141 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ PHYSICAL ATTRIBUTE CONTROLLER ], coordinate = [ x = 457, y = 379, width = 176, height = 142 ], link_type = [  ]

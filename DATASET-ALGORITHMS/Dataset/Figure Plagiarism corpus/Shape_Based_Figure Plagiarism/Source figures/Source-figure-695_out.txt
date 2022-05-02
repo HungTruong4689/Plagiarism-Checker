@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Negative Sample Images ], coordinate = [ x = 55, y = 56, width = 295, height = 92 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Positive Sample Images ], coordinate = [ x = 55, y = 172, width = 295, height = 92 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Send to Image Processing library to ggenerate library specific file of sampses  ], coordinate = [ x = 56, y = 290, width = 295, height = 167 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [  Send library specfic file to training funcnon in Image Processing Library to receive XML file to store in database for use in detection], coordinate = [ x = 56, y = 505, width = 295, height = 167 ], link_type = [  ]

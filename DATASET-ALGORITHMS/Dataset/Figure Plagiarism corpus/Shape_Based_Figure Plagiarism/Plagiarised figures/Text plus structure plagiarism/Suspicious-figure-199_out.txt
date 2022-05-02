@@ -1,0 +1,5 @@
+Shape0 : type = [Parallelogram], text = [ RECEIVE A FIRST FILE COMPRISING SOFTWARE CODE AND A SECOND FILE IHAVING A DESIGN PATTERN IMPLEMENTEDIN THE SOFTWARE CODE  ], coordinate = [ x = 65, y = 22, width = 480, height = 89 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Parallelogram], text = [ IDENTIFY A FUNCTION CALL TO A FUNCTION IN A CLASS IMPLEMENTING THE DESIGNl PATTERN ], coordinate = [ x = 55, y = 133, width = 456, height = 71 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Parallelogram], text = [ RESOLVE THE IDENTIFIED FUNCTION CALL ], coordinate = [ x = 34, y = 226, width = 457, height = 45 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Parallelogram], text = [ CREATE A REPRESENTATION OF THE CALLED IFUNCTION], coordinate = [ x = 36, y = 293, width = 454, height = 49 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Parallelogram], text = [ REPLACE THE FUNCTION CALL WITH THE IREPRESENTATION OF THE CALLED FUNCTION ], coordinate = [ x = 27, y = 370, width = 439, height = 61 ], link_type = [  ]

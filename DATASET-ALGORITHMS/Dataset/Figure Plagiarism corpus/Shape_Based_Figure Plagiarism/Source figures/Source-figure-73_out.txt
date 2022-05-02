@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Doc:webpage[] ], coordinate = [ x = 218, y = 15, width = 319, height = 62 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ PROJECTION  ], coordinate = [ x = 218, y = 144, width = 318, height = 62 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ PERSON ], coordinate = [ x = 217, y = 272, width = 318, height = 62 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ RC ], coordinate = [ x = 216, y = 400, width = 319, height = 62 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ ERC_DlC ], coordinate = [ x = 216, y = 528, width = 318, height = 62 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ SUCCEEDS ], coordinate = [ x = 215, y = 656, width = 319, height = 62 ], link_type = [Next(1 : shape6)   ]
+Shape6 : type = [Rectangle], text = [ Annotation: person_works_for_vendor[] ], coordinate = [ x = 118, y = 784, width = 512, height = 63 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ SOM input of root node Is presented to layer 1 and the document Is associated with the winner neuron. ], coordinate = [ x = 22, y = 28, width = 499, height = 69 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Is  level SOM input using nods features and position Vectors from layer 2 ], coordinate = [ x = 22, y = 113, width = 502, height = 68 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Present the SOM inputs to layer 2; find the winner neurons and their position vectors. ], coordinate = [ x = 22, y = 198, width = 496, height = 67 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ 2nd level som input thing nodes features and children's position vector from layer 3], coordinate = [ x = 17, y = 280, width = 519, height = 86 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Present the 3rd level nodes into layer 3; find the winner neurons and their posilion vectors. ], coordinate = [ x = 22, y = 381, width = 499, height = 69 ], link_type = [  ]

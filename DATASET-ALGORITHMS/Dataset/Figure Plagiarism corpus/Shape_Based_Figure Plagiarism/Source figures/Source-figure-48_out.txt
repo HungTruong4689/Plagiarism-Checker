@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Perform Preprocessing ], coordinate = [ x = 183, y = 50, width = 196, height = 143 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Generate term frequency count for each data object in collection ], coordinate = [ x = 183, y = 267, width = 196, height = 143 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Find x closest terms to centroid Ivector for each sub-collection ], coordinate = [ x = 578, y = 268, width = 178, height = 143 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Partition collectionin to k sub-collections using clustering algorithm ], coordinate = [ x = 182, y = 483, width = 196, height = 143 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Develop similarity graph network ], coordinate = [ x = 577, y = 484, width = 178, height = 143 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [  Perform Singular value Decompositionon each of k sub-collection ], coordinate = [ x = 181, y = 699, width = 196, height = 142 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Determine vector clusters and centroid vectors ], coordinate = [ x = 179, y = 914, width = 197, height = 143 ], link_type = [  ]

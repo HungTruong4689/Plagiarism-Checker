@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ DISPLAY IDENTIFIERS FORSONGS FOR SELECITON ], coordinate = [ x = 539, y = 115, width = 361, height = 88 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ One song selected  ], coordinate = [ x = 467, y = 233, width = 504, height = 127 ], link_type = [ Decision(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ DISPLAY IDENTIFIERS FOR TOP'R.ANKED IN SONGS IN TERMS OF VOICE TIMBRE SIMILARITY AND MUSICAL TTMBRE SIMILARITY ], coordinate = [ x = 491, y = 402, width = 469, height = 119 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ One song selected?   ], coordinate = [ x = 475, y = 553, width = 505, height = 125 ], link_type = [ Decision(1 : shape4,2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ DISPLAY IDENTIFIERS FOR NEXTRANKEDN SONGS ], coordinate = [ x = 134, y = 576, width = 283, height = 87 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ REPRODUCE SELECTED SONG ], coordinate = [ x = 547, y = 705, width = 360, height = 89 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Diamond], text = [ Finish], coordinate = [ x = 479, y = 818, width = 504, height = 124 ], link_type = [ Decision(1 : shape7) ]
+Shape7 : type = [Diamond], text = [ RETURN TO INITIAL STATE OF Display  ], coordinate = [ x = 480, y = 967, width = 504, height = 128 ], link_type = [  ]

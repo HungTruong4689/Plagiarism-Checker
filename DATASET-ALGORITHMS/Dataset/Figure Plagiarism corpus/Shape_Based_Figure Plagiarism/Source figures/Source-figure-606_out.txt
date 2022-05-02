@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Define the problem to solve. Set up a plan to solve the problem. ], coordinate = [ x = 147, y = 52, width = 431, height = 79 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine what types of computer software or devices to use for this particular problem. ], coordinate = [ x = 147, y = 197, width = 431, height = 98 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Change the codes of the computer software to fit the problem by inserting, deleting or modifying algorithms and functions. ], coordinate = [ x = 147, y = 360, width = 431, height = 115 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Define the inputs, outputs or other data variables used in the computer software. ], coordinate = [ x = 147, y = 541, width = 431, height = 79 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Define what the user wants to output from the computer software, ], coordinate = [ x = 147, y = 685, width = 431, height = 80 ], link_type = [  ]

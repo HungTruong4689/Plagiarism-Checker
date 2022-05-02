@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Step 1: System Characterization ], coordinate = [ x = 15, y = 10, width = 327, height = 41 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ step 2 : Threat Identification], coordinate = [ x = 18, y = 80, width = 328, height = 41 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ step 3: Vulnerability identification ], coordinate = [ x = 20, y = 150, width = 327, height = 40 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Step 4 Control Analysts ], coordinate = [ x = 24, y = 217, width = 327, height = 40 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ step 5: Likelihood Determination ], coordinate = [ x = 26, y = 282, width = 328, height = 40 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Step 5 impact Analysis ], coordinate = [ x = 30, y = 351, width = 327, height = 41 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ step 7 Risk Determination], coordinate = [ x = 36, y = 416, width = 327, height = 41 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ step 8 :Control Recommendation ], coordinate = [ x = 34, y = 485, width = 327, height = 41 ], link_type = [  ]

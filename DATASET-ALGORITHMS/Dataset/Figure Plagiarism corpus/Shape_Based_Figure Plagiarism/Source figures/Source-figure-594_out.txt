@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ SCAN PRINTING DATA ], coordinate = [ x = 53, y = 134, width = 721, height = 93 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DIVIDE PRINTING DATA INTO TEXT INFORMATION AND IMAGE INFORMATION ], coordinate = [ x = 53, y = 280, width = 720, height = 127 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ ADJUST BRIGHTNESS VALUES OF TEXT INFORMATION AND IMAGE INFORMATION ], coordinate = [ x = 52, y = 460, width = 721, height = 125 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ DISPLAY ADJUSTED TEXT INFORMATION AND IMAGE INFORMATION ], coordinate = [ x = 51, y = 638, width = 722, height = 127 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ PRINT ADJUSTED PRINTING DATA ], coordinate = [ x = 52, y = 817, width = 720, height = 93 ], link_type = [  ]

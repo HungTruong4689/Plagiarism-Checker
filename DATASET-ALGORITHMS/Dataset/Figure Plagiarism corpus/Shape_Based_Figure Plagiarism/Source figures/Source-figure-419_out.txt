@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [  FACE RECOGNITION ], coordinate = [ x = 975, y = 277, width = 215, height = 147 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ 2 IMAGE/VIDEO ACQUISITION ], coordinate = [ x = 37, y = 393, width = 184, height = 147 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ RAW DATA ], coordinate = [ x = 272, y = 394, width = 156, height = 146 ], link_type = [ Next_LR(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ FACE DETECTION ], coordinate = [ x = 484, y = 392, width = 184, height = 147 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ 19 FEATURE EXTRACTION ], coordinate = [ x = 725, y = 392, width = 184, height = 147 ], link_type = [ Multi flow(1 : shape0, 2 : shape5) ]
+Shape5 : type = [Rectangle], text = [ EEXPRESS RECOGNITION ], coordinate = [ x = 975, y = 509, width = 215, height = 147 ], link_type = [  ]

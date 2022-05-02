@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Average RGB of JigCut Regions 1900 ], coordinate = [ x = 80, y = 20, width = 682, height = 143 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Extract Hue, Luminance, and Color Confidence 1901 ], coordinate = [ x = 80, y = 243, width = 682, height = 143 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Classify Gray Pixels Based on Luminance 1902 ], coordinate = [ x = 79, y = 468, width = 683, height = 142 ], link_type = [ Next_TB((1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Group Color Pixels Based on Fixed Hue Prototypes  1903 ], coordinate = [ x = 79, y = 691, width = 683, height = 142 ], link_type = [ Next_TB((1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Classify Each Hue Group Based on Color Confidence 1904 ], coordinate = [ x = 79, y = 913, width = 683, height = 142 ], link_type = [ Next_TB((1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ COlOr Palette and Classfication 1905 ], coordinate = [ x = 79, y = 1136, width = 683, height = 142 ], link_type = [  ]

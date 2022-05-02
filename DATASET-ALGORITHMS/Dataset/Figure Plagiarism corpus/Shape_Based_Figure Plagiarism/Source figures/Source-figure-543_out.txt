@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Perform Initial Scan ], coordinate = [ x = 189, y = 38, width = 247, height = 85 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Create Surface Model ], coordinate = [ x = 189, y = 171, width = 248, height = 86 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ Full coverage], coordinate = [ x = 188, y = 308, width = 241, height = 127 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Create Scan Sequences ], coordinate = [ x = 184, y = 488, width = 246, height = 85 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Optimise Sequences For Max Visibilty ], coordinate = [ x = 187, y = 620, width = 247, height = 85 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Scan Using Optimal Scan Sequence ], coordinate = [ x = 185, y = 746, width = 247, height = 84 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Merge Initial And Adaptive Scans ], coordinate = [ x = 187, y = 877, width = 247, height = 85 ], link_type = [  ]

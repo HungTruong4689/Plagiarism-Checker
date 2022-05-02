@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Insert Data into Debt Calculation Model ], coordinate = [ x = 123, y = 48, width = 203, height = 84 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Take Data from Databaase and Insert Into Appropriate Fields ], coordinate = [ x = 91, y = 163, width = 269, height = 88 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Generate ArraY of Action Options that are Preselected for the Debt Calculation Model ], coordinate = [ x = 30, y = 282, width = 392, height = 85 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Compute Pay in Full Option Score ], coordinate = [ x = 108, y = 398, width = 259, height = 74 ], link_type = [  ]

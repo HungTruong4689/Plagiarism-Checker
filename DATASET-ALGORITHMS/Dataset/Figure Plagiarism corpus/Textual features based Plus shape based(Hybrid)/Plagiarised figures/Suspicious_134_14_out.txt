@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Upper Ontology for Power systems ], coordinate = [ x = 196, y = 33, width = 203, height = 38 ], link_type = [Multi Flow(1 : shape1, 2 : shape2 ,3 : shape3 , 4 : shape4 ) ]
+Shape1 : type = [Rectangle], text = [ Ontology for specific Monitoring & Diagnostic Application], coordinate = [ x = 81, y = 81, width = 142, height = 62 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Ontology for specific Protection Application ], coordinate = [ x = 378, y = 81, width = 142, height = 62 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Ontology for specific Distributed control Application ], coordinate = [ x = 153, y = 148, width = 143, height = 61 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Ontology for specific Modeling & Simulation Application ], coordinate = [ x = 305, y = 148, width = 142, height = 61 ], link_type = [  ]

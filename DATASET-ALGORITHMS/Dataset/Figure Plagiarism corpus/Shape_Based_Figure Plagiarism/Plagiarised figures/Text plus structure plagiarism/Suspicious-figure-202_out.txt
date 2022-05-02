@@ -1,0 +1,4 @@
+Shape0 : type = [Parallelogram], text = [ TRANSLATE DOCUMENTS ], coordinate = [ x = 243, y = 42, width = 273, height = 63 ], link_type = [ Multi Line(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Parallelogram], text = [ RECEIVE QUERY  ], coordinate = [ x = 61, y = 163, width = 273, height = 62 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Parallelogram], text = [ SEARCH TRANSLATED DOCUMENTS ], coordinate = [ x = 338, y = 165, width = 273, height = 62 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ RETURN RESULTS ], coordinate = [ x = 128, y = 268, width = 128, height = 54 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Cutting unit ], coordinate = [ x = 60, y = 22, width = 364, height = 69 ], link_type = [  Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Filling unit ], coordinate = [ x = 60, y = 142, width = 363, height = 69 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Normalization unit Resizing unit  Dividing unit ], coordinate = [ x = 59, y = 232, width = 364, height = 235 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Luminosity derivative computing and counting unit ], coordinate = [ x = 59, y = 502, width = 363, height = 68 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Composing unit ], coordinate = [ x = 59, y = 622, width = 363, height = 67 ], link_type = [  ]

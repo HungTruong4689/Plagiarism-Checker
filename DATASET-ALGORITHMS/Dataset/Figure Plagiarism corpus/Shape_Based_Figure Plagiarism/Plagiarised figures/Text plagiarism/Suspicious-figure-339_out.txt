@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ SEND DEMAND FOR IMAGE(S)OFALOCATION ], coordinate = [ x = 87, y = 81, width = 522, height = 41 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Quadrangle], text = [ RECEIVE TEMPORALLY-DIFFERENT lMAGES OF THE LOCATION ], coordinate = [ x = 86, y = 154, width = 525, height = 63 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ PERFORM OBJECT RECOGNITION ANALYSIS ONAT LEAST FIRST AND SECOND IMAGES ], coordinate = [ x = 87, y = 251, width = 523, height = 60 ], link_type = [ Next_TB(1 : shape3)   ]
+Shape3 : type = [Rectangle], text = [ COMPARE PORTl0N(S) OF FIRST IMAGE With PORTlONS(S) OF SECOND IMAGE], coordinate = [ x = 88, y = 342, width = 522, height = 62 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ PROVIDE, NOTIFICATION ], coordinate = [ x = 519, y = 472, width = 169, height = 64 ], link_type = [  ]

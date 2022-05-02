@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ GENETIC PROCESSOR ], coordinate = [ x = 40, y = 38, width = 191, height = 152 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ METADATA PROCESSOR ], coordinate = [ x = 472, y = 38, width = 192, height = 153 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ PHYSICAL CONTROLLER ], coordinate = [ x = 40, y = 212, width = 192, height = 152 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ SENSOR(S) ], coordinate = [ x = 472, y = 212, width = 192, height = 152 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ BEHAVIOR CONTROLLER ], coordinate = [ x = 40, y = 383, width = 192, height = 152 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ PROCESSOR UNIT(S) ], coordinate = [ x = 472, y = 383, width = 192, height = 152 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ MEMORY ], coordinate = [ x = 263, y = 560, width = 191, height = 153 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 262, y = 29, width = 269, height = 98 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ GENERATE IMAGE ], coordinate = [ x = 153, y = 201, width = 475, height = 107 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ EXTRACT TEXT  ], coordinate = [ x = 152, y = 383, width = 476, height = 107 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ STORE DATA ], coordinate = [ x = 152, y = 564, width = 476, height = 108 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ TRANSMIT DATA ], coordinate = [ x = 153, y = 746, width = 475, height = 107 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ END ], coordinate = [ x = 284, y = 928, width = 248, height = 98 ], link_type = [  ]

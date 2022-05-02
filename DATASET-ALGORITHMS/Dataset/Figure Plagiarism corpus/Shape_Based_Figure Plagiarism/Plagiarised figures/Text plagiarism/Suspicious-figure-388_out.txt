@@ -1,0 +1,3 @@
+Shape0 : type = [SQUARE], text = [ Security channel], coordinate = [ x = 39, y = 21, width = 151, height = 161 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ Security Extention], coordinate = [ x = 269, y = 22, width = 151, height = 161 ], link_type = [ Double Arrow(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ Security Module], coordinate = [ x = 514, y = 23, width = 151, height = 161 ], link_type = [  ]

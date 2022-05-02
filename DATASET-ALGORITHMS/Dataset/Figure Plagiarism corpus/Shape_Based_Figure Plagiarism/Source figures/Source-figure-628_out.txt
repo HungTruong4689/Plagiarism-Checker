@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Data Selection ], coordinate = [ x = 135, y = 37, width = 159, height = 406 ], link_type = [ Multi Flow(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Data Analysis' Tools ], coordinate = [ x = 401, y = 32, width = 205, height = 139 ], link_type = [ Multi flow(1 : shape2,2:shape3) ]
+Shape2 : type = [Rectangle], text = [ Decision Tools ], coordinate = [ x = 403, y = 302, width = 204, height = 140 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ User Interface ], coordinate = [ x = 745, y = 23, width = 159, height = 531 ], link_type = [ Next_RL(1:shape2) ]

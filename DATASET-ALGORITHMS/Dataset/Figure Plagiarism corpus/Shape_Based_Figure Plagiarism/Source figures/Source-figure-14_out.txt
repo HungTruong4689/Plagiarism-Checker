@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Requirements analysis  of ontology ], coordinate = [ x = 300, y = 33, width = 251, height = 66 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ ACquisition and preprocessing of corpus], coordinate = [ x = 300, y = 121, width = 251, height = 66 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Acquisition of concepts and relationships], coordinate = [ x = 300, y = 215, width = 251, height = 66 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Construction of computer domain ontology ], coordinate = [ x = 300, y = 306, width = 251, height = 67 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ ontology evaluation. ], coordinate = [ x = 322, y = 406, width = 208, height = 64 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Ontology evaluation and maintenance], coordinate = [ x = 314, y = 514, width = 222, height = 60 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Feature InterpretationAo ], coordinate = [ x = 127, y = 78, width = 108, height = 80 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Feature Based Process Planning A1 ], coordinate = [ x = 293, y = 147, width = 109, height = 81 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Resource Manning A2 ], coordinate = [ x = 461, y = 217, width = 108, height = 81 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Process Simulation ], coordinate = [ x = 628, y = 287, width = 108, height = 80 ], link_type = [ Next_BT(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Matching A4 ], coordinate = [ x = 628, y = 415, width = 109, height = 81 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ On-Machine Measurement  ], coordinate = [ x = 795, y = 459, width = 108, height = 81 ], link_type = [ Next_BT(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Machine Feedback Measurement A6 ], coordinate = [ x = 795, y = 588, width = 108, height = 80 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Knowledge Based Process Analysis A7 ], coordinate = [ x = 962, y = 658, width = 108, height = 80 ], link_type = [  ]

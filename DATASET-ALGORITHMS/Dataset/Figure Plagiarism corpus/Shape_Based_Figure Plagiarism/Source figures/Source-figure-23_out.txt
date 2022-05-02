@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Planning & Collectiont  ], coordinate = [ x = 120, y = 45, width = 245, height = 52 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Extract Text Features ], coordinate = [ x = 120, y = 135, width = 245, height = 54 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Preprocessing ], coordinate = [ x = 122, y = 225, width = 245, height = 52 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Extract Numeric Features ], coordinate = [ x = 120, y = 313, width = 252, height = 52 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Detect Plagiarism ], coordinate = [ x = 119, y = 404, width = 245, height = 52 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ System Evaluation ], coordinate = [ x = 124, y = 494, width = 245, height = 52 ], link_type = [  ]

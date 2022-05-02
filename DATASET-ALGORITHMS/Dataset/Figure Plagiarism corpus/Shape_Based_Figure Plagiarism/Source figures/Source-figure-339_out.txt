@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ select an expression ], coordinate = [ x = 121, y = 19, width = 182, height = 63 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Delelmtie if there is a section of the image that corresponds to the start and end at selected expression], coordinate = [ x = 117, y = 107, width = 186, height = 63 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Scare the section of the image against the selected expression ], coordinate = [ x = 117, y = 193, width = 182, height = 62 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ lt score IS above a threshold that selected expression was found at a location in the image], coordinate = [ x = 119, y = 278, width = 182, height = 63 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ repeat steps for all expressions], coordinate = [ x = 120, y = 363, width = 182, height = 63 ], link_type = [  ]

@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Cutting unit ], coordinate = [ x = 17, y = 34, width = 363, height = 68 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Filling unit ], coordinate = [ x = 17, y = 118, width = 363, height = 68 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Normalization unit Rotation unit Inversion unit Resizing unit Dividing unit  ], coordinate = [ x = 18, y = 205, width = 362, height = 338 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Composing unit ], coordinate = [ x = 18, y = 663, width = 362, height = 69 ], link_type = [  ]

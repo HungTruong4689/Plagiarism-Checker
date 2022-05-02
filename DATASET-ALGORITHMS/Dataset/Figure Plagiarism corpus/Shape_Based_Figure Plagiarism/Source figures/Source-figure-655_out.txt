@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Receive mobile image ], coordinate = [ x = 75, y = 12, width = 239, height = 168 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Identify comers of sub-image in mobile image ], coordinate = [ x = 75, y = 233, width = 239, height = 169 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Calculate skew score3], coordinate = [ x = 75, y = 452, width = 239, height = 169 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Return test result ], coordinate = [ x = 75, y = 673, width = 239, height = 169 ], link_type = [  ]

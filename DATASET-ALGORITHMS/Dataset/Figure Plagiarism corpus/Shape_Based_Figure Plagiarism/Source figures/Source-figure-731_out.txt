@@ -1,0 +1,5 @@
+Shape0 : type = [SQUARE], text = [ Direct The Client To Invoke the Security Plug_In To Generate The Clent Response To the Server], coordinate = [ x = 19, y = 7, width = 151, height = 161 ], link_type = [ Next_TB_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ Save The Security Token As A named Cookie], coordinate = [ x = 44, y = 197, width = 103, height = 113 ], link_type = [ Next_TB_TB(1 : shape2) ]
+Shape2 : type = [SQUARE], text = [ RE-SUBMIT THE ORIGINAL REQUEST URL WITH QUERY STRING TO THE SERVER], coordinate = [ x = 35, y = 341, width = 132, height = 142 ], link_type = [ Next_TB_TB(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ CONFIRM AUTHENTICATION USING THE SECURITY TOKEN CONTAINED IN THE COOKETL], coordinate = [ x = 36, y = 514, width = 141, height = 152 ], link_type = [ Next_TB_TB(1 : shape4) ]
+Shape4 : type = [SQUARE], text = [ ALLOW ACCESS TO THE REQUESTED PAGE], coordinate = [ x = 55, y = 701, width = 113, height = 122 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Begin Alarm Propagation ], coordinate = [ x = 121, y = 34, width = 343, height = 88 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [  Receive Notification of Alarm ], coordinate = [ x = 189, y = 249, width = 210, height = 167 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Extract Managed Objects ], coordinate = [ x = 667, y = 249, width = 211, height = 168 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Log Alarm ], coordinate = [ x = 190, y = 542, width = 210, height = 168 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [  Act on Managed  Object information ], coordinate = [ x = 667, y = 543, width = 211, height = 167 ], link_type = [ Next_TB(1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ Send Notification to Topology Server ], coordinate = [ x = 190, y = 836, width = 210, height = 168 ], link_type = [ Next_TB(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ End ], coordinate = [ x = 710, y = 837, width = 130, height = 88 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ Receive Notification at Topology Server ], coordinate = [ x = 190, y = 1128, width = 210, height = 168 ], link_type = [  ]

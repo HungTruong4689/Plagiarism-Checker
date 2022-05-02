@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ initializing solutions], coordinate = [ x = 138, y = 62, width = 564, height = 73 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Selection of Initial solution and New solution], coordinate = [ x = 136, y = 174, width = 565, height = 74 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ First comparison of fitness score I  ], coordinate = [ x = 135, y = 285, width = 565, height = 74 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Generating Current Solution ], coordinate = [ x = 133, y = 392, width = 565, height = 74 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Generating New Solution ], coordinate = [ x = 132, y = 506, width = 564, height = 73 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Second comparison of fittness score ], coordinate = [ x = 130, y = 617, width = 565, height = 73 ], link_type = [ Line(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Replacing state ], coordinate = [ x = 128, y = 724, width = 565, height = 73 ], link_type = [  ]

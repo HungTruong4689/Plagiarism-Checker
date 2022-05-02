@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ OBTAIN POSITIVE EXAMPLE SOLUTION REQUEST PATTERN IAND NEGATIVE EXAMPLE SOLUTION REQUEST PATTERN   ], coordinate = [ x = 22, y = 68, width = 627, height = 70 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ REPLACE PROBLEM EXPRESSION TO CREATE POSITIVEEXAMPLE SOLUTION REQUEST PATTERN AND NEGATIVEEXAMPLE SOLUTION REQUEST PATTERN ], coordinate = [ x = 21, y = 172, width = 628, height = 96 ], link_type = [  ]

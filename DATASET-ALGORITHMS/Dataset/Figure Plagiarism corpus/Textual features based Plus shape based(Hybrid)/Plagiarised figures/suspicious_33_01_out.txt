@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Web Service ], coordinate = [ x = 134, y = 3, width = 224, height = 52 ], link_type = [ Multi Line(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Technical characteristics ], coordinate = [ x = 35, y = 74, width = 173, height = 43 ], link_type = [ Multi line(1 : shape3, 2 : shape4, 3 : shape5) ]
+Shape2 : type = [Rectangle], text = [ Non-Technical characteristics], coordinate = [ x = 262, y = 74, width = 211, height = 43 ], link_type = [ Multi Flow( 1 : shape6, 2 : shape7) ]
+Shape3 : type = [Rectangle], text = [ Availability], coordinate = [ x = 14, y = 136, width = 69, height = 67 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Response Time], coordinate = [ x = 97, y = 136, width = 69, height = 67 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Fault Recover Time], coordinate = [ x = 177, y = 136, width = 77, height = 67 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Cost], coordinate = [ x = 309, y = 136, width = 69, height = 67 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ Reputation ], coordinate = [ x = 407, y = 136, width = 69, height = 67 ], link_type = [  ]

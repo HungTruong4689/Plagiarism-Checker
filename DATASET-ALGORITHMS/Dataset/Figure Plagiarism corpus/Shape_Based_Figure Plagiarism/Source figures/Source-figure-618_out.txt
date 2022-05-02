@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Fealura DetectionModmeE ], coordinate = [ x = 69, y = 179, width = 137, height = 102 ], link_type = [ Multi flow(1 : shape1,2:shape4) ]
+Shape1 : type = [Rectangle], text = [ Interpolation ModuLE 2.93 ], coordinate = [ x = 294, y = 179, width = 122, height = 102 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Missing Feature Augmentation Module M ], coordinate = [ x = 503, y = 178, width = 135, height = 102 ], link_type = [ Next_LR(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Pose Reconstruchon ModuIe M ], coordinate = [ x = 727, y = 177, width = 125, height = 101 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ IAmbigu:Iy ResolveI ModuleI 219 ], coordinate = [ x = 66, y = 324, width = 143, height = 102 ], link_type = [  ]

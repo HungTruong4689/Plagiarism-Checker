@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 415, y = 29, width = 83, height = 64 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Access Sample Images and Initialize Data Network(s) ], coordinate = [ x = 192, y = 143, width = 529, height = 84 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Select a Sample Image and Identify Objects ], coordinate = [ x = 192, y = 277, width = 529, height = 72 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Model Each object's Appearance in a Scene And Insert into an Object Network ], coordinate = [ x = 192, y = 400, width = 529, height = 72 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Model the Scene and Insert into a Scene Network ], coordinate = [ x = 192, y = 522, width = 529, height = 85 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Diamond], text = [ Next], coordinate = [ x = 329, y = 657, width = 255, height = 114 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ End ], coordinate = [ x = 415, y = 814, width = 85, height = 63 ], link_type = [  ]

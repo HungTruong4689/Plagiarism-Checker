@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Create an empty list,PROB_RGN_LiST, to hold probable text regions ], coordinate = [ x = 216, y = 61, width = 417, height = 132 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ For each text region,RGN, in RGN_LIST ], coordinate = [ x = 295, y = 254, width = 259, height = 117 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ Is the tile, T,touching RGN? ], coordinate = [ x = 300, y = 399, width = 248, height = 199 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ Do T and RGN have similar text Pixel destance?], coordinate = [ x = 277, y = 667, width = 295, height = 252 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Add RGN to the PROB_RGN_LiST & delete RGN from RGN_LST ], coordinate = [ x = 250, y = 943, width = 349, height = 137 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Next text region in list ], coordinate = [ x = 296, y = 1121, width = 256, height = 90 ], link_type = [  ]

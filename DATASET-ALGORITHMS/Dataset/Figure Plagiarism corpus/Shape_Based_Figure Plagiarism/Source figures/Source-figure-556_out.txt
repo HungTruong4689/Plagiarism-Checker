@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ SIZE A BLOOM FILTER FOR A TARGET ERROR RATE FOR THE CORPUS SIZE ], coordinate = [ x = 162, y = 27, width = 530, height = 121 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ GENERATE A SLUG FOR THE TARGET OBJECT ], coordinate = [ x = 162, y = 179, width = 530, height = 121 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ DETERMINE THE BLOOM FILTER BIN CORRESPONDING TO THE SLUGFOR THE TARGET OBJECT ], coordinate = [ x = 163, y = 331, width = 529, height = 121 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ GENERATE A SLUG FOR EACH OBJECT IN THE CORPUS ], coordinate = [ x = 163, y = 483, width = 529, height = 121 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ DETERMINE THE BLOOM FILTER BIN CORRESPONDING TO THE SLUG FOR EACH OBJECT IN THE CORPUS ], coordinate = [ x = 162, y = 637, width = 530, height = 119 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ FOR EACH SLUG FOR AN OBJECT IN THE CORPUS WHOSE BIN IS THE SAME BIN AS THE SLUG FOR THE TARGET OBJECT, ADD THE SLUG FOR THE OBJECT IN THE CORPUS AND ITS CORRESPONDING OBJECT TO A MULTIMAP ], coordinate = [ x = 162, y = 789, width = 530, height = 196 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ OUTPUT THE MULTIMAP VALUES WHOSE KEYSMATCH THE SLUG FOR THE TARGET OBJECT ], coordinate = [ x = 163, y = 1016, width = 529, height = 120 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Image Processor ], coordinate = [ x = 129, y = 261, width = 298, height = 129 ], link_type = [ Multi Line(1 : shape2, 2 : shape3) ]
+Shape1 : type = [Rectangle], text = [ Optical Character Recognition Component ], coordinate = [ x = 548, y = 261, width = 293, height = 129 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Database Updating Component ], coordinate = [ x = 130, y = 467, width = 289, height = 145 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Parking Space Identifying Component 423 ], coordinate = [ x = 545, y = 467, width = 298, height = 160 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Parking Information Display Component ], coordinate = [ x = 130, y = 680, width = 289, height = 138 ], link_type = [  ]

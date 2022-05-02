@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ lNPUT MEANS ], coordinate = [ x = 46, y = 96, width = 300, height = 90 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ POSITIVE EXAMPLE SET IDENTIFICATION MEANS ], coordinate = [ x = 469, y = 94, width = 297, height = 91 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ CHARACTERISTIC QUANTITY CALCULATION MEANS ], coordinate = [ x = 471, y = 250, width = 297, height = 91 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ OUTPUT MEANS  ], coordinate = [ x = 47, y = 408, width = 299, height = 91 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ CHARACTERISTIC EXTJRESSION EXTRACTION MEANS ], coordinate = [ x = 470, y = 407, width = 299, height = 91 ], link_type = [  ]

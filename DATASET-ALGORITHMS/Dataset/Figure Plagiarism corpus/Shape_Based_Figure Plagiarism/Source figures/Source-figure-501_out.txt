@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Vehicle leaves a parking space in the parking lot 1 ], coordinate = [ x = 52, y = 148, width = 569, height = 92 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Camera captures an image of the parking lot that includes the identifier of the vacant parking space ], coordinate = [ x = 49, y = 302, width = 569, height = 121 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ OCR reads the identifier of the vacant parking space from the image  ], coordinate = [ x = 50, y = 485, width = 568, height = 114 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Computer updates the garage infonnation system with information on the available parking space ], coordinate = [ x = 46, y = 660, width = 575, height = 118 ], link_type = [  ]

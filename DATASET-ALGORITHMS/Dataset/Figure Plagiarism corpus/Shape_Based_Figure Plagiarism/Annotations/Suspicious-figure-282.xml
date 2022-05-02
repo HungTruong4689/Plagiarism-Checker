@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><document reference="Suspicious-figure-282.txt" language="en"><feature name="tagged-document" reference="Suspicious-figure-282.xml" language="en" />
+
+<feature name="artificial-plagiarism" plag_type=" stucture Modification:  "Change shape typetype" "obfuscation="Medium"this_component="Shape0"source_reference="Source-figure-736_out.txt" source_component="Shape0" 
+
+<feature name="artificial-plagiarism" plag_type=" stucture Modification:  "Change shape typetype, Change link type type" "obfuscation="Strong"this_component="Shape4"source_reference="Source-figure-736_out.txt" source_component="Shape1" 
+
+<feature name="artificial-plagiarism" plag_type=" stucture Modification:  "Change shape typetype" "obfuscation="Medium"this_component="Shape5"source_reference="Source-figure-736_out.txt" source_component="Shape2" 
+
+</document>

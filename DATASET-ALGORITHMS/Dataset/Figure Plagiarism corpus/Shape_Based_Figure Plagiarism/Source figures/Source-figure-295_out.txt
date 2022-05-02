@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Feature Extraction and Parallel Classification 600 B ], coordinate = [ x = 262, y = 25, width = 520, height = 106 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [  (Optional) Preprocess image 602 ], coordinate = [ x = 278, y = 190, width = 490, height = 127 ], link_type = [ Multi Flow(1 : shape2, 2 : shape3, 3 : shape4) ]
+Shape2 : type = [Rectangle], text = [ extract reflection features  610 ], coordinate = [ x = 666, y = 438, width = 279, height = 132 ], link_type = [ Line(1 : shape5) ]
+Shape3 : type = [Rectangle], text = [ extract invariant features using generalized invariant feature discriptor 504 ], coordinate = [ x = 70, y = 441, width = 345, height = 131 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ extract scale features 606 ], coordinate = [ x = 447, y = 439, width = 153, height = 131 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ parallel classification 612 ], coordinate = [ x = 280, y = 760, width = 490, height = 91 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ (optional)decision ], coordinate = [ x = 281, y = 907, width = 490, height = 96 ], link_type = [  ]

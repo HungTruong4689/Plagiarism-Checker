@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Create Histogram ], coordinate = [ x = 138, y = 24, width = 221, height = 97 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [  Extract noun phrases ], coordinate = [ x = 120, y = 167, width = 302, height = 83 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [  Load database with  concepts ], coordinate = [ x = 120, y = 300, width = 302, height = 84 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [  Normaiize concepts in  database  ], coordinate = [ x = 120, y = 433, width = 302, height = 84 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [  Create frequency table  ], coordinate = [ x = 120, y = 567, width = 302, height = 83 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [  Generate Histogram  ], coordinate = [ x = 120, y = 700, width = 302, height = 83 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [FACT DATA BASEI l ], coordinate = [ x = 147, y = 121, width = 381, height = 145 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DIVIDE DATACONDITION TYPES INEVERRY DATA ROW ], coordinate = [ x = 149, y = 388, width = 382, height = 181 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ compute MUTUAL SIMILARITY orDATA OF EVERY DATA ROW BYPARALLEL FUZZY COMPARISON ], coordinate = [ x = 35, y = 693, width = 617, height = 180 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Classify EVERY DATA ROW BASED ON TOTAL SIMILARITY ], coordinate = [ x = 110, y = 1007, width = 473, height = 182 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ POST-REGION DIVISION FACT DATA BASE ], coordinate = [ x = 131, y = 1299, width = 436, height = 144 ], link_type = [  ]

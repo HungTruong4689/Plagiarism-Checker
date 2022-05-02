@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Receive Right Side Up Bi-tonal Image of Check], coordinate = [ x = 55, y = 15, width = 386, height = 91 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Read MlCR Line on the Bottom ], coordinate = [ x = 54, y = 135, width = 384, height = 88 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Compute Average Width of MICR-Characters ], coordinate = [ x = 54, y = 257, width = 385, height = 91 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Compute Scaling Factor ], coordinate = [ x = 53, y = 381, width = 385, height = 91 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ Scaling Factor >1 + Delta  ], coordinate = [ x = 74, y = 507, width = 344, height = 136 ], link_type = [ Decision(1 : shape5, 2 : shape6) ]
+Shape5 : type = [Rectangle], text = [ Output Bi-tonal image of Check Gray-Scale Image of Check ], coordinate = [ x = 540, y = 533, width = 386, height = 89 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Repeat Geometrical Correction & Binarization Using Recomputed Check Dimensions ], coordinate = [ x = 50, y = 678, width = 386, height = 114 ], link_type = [  ]

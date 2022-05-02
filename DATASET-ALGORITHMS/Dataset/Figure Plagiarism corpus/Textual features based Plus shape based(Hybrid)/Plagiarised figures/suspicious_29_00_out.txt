@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ LATCH ], coordinate = [ x = 78, y = 42, width = 27, height = 199 ], link_type = [ Next_LR(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ REG2], coordinate = [ x = 300, y = 42, width = 46, height = 197 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ REG1], coordinate = [ x = 158, y = 53, width = 44, height = 191 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ Control ], coordinate = [ x = 74, y = 304, width = 65, height = 68 ], link_type = [ ]
+Shape4 : type = [Rectangle], text = [ LOCAL CLOCK GENERATOR ], coordinate = [ x = 175, y = 371, width = 123, height = 68 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Receive input image ], coordinate = [ x = 82, y = 36, width = 302, height = 77 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Rescale input image ], coordinate = [ x = 80, y = 158, width = 302, height = 67 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Extract a sub-patch from the input image ], coordinate = [ x = 79, y = 274, width = 302, height = 119 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ Input said sub-patch into a neural network ], coordinate = [ x = 78, y = 450, width = 302, height = 119 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Receive output from neural network which represents a pattern response ], coordinate = [ x = 78, y = 628, width = 302, height = 144 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Add output to ahistogram ], coordinate = [ x = 78, y = 839, width = 302, height = 93 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Determine whether there are further sub-patches to process ], coordinate = [ x = 79, y = 999, width = 302, height = 120 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Final output ], coordinate = [ x = 78, y = 1188, width = 302, height = 85 ], link_type = [  ]

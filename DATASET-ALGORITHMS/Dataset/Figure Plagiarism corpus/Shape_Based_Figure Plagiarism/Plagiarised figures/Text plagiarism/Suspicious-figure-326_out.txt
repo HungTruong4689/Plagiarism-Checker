@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Set semantic tags of the queries ], coordinate = [ x = 176, y = 43, width = 576, height = 114 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Decide semantic patterns of the qneries ], coordinate = [ x = 176, y = 220, width = 571, height = 113 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Set semantic patterns that achieve a predetermined threshold ], coordinate = [ x = 176, y = 396, width = 572, height = 113 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Define user behaviors of the semantic patterns ], coordinate = [ x = 177, y = 572, width = 571, height = 114 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Define user behaviors of the semantic patterns ], coordinate = [ x = 177, y = 749, width = 571, height = 112 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Define filtering and ranking operations of user attributes ], coordinate = [ x = 177, y = 925, width = 571, height = 112 ], link_type = [  ]

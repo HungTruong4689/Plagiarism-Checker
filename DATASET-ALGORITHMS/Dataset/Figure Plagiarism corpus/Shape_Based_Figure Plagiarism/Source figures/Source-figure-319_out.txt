@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Identify search queriesin the plurality of search queries that meet predeifined query selection criteria for queries that correspond to continuing interests of the user ], coordinate = [ x = 135, y = 55, width = 272, height = 268 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Send Internet usage data for a computer user, wherein the usage data include a plurality of search queries by the user ], coordinate = [ x = 564, y = 93, width = 269, height = 193 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Rerun at least some of the identified search queriesis ], coordinate = [ x = 135, y = 372, width = 272, height = 108 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Evaluate search results from the rerun queries to select search results that meet predefiened search result selection criteria ], coordinate = [ x = 136, y = 527, width = 272, height = 193 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Send links corresponding to at leasts one of the selected search results ], coordinate = [ x = 136, y = 759, width = 272, height = 124 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Receive links ], coordinate = [ x = 564, y = 777, width = 270, height = 79 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Display at least some of the received links ], coordinate = [ x = 565, y = 903, width = 269, height = 108 ], link_type = [  ]

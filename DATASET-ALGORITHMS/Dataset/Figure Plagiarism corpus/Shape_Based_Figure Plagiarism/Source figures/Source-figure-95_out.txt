@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Content analysis engine ], coordinate = [ x = 399, y = 147, width = 194, height = 122 ], link_type = [  Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Classifier construction engine ], coordinate = [ x = 481, y = 351, width = 201, height = 124 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Token pool ], coordinate = [ x = 800, y = 466, width = 145, height = 95 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Classifier ], coordinate = [ x = 509, y = 554, width = 144, height = 94 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Training set ], coordinate = [ x = 800, y = 615, width = 144, height = 94 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Ranking system ], coordinate = [ x = 188, y = 755, width = 201, height = 127 ], link_type = [ Line(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ Filter set ], coordinate = [ x = 503, y = 778, width = 141, height = 78 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ Ranked results list ], coordinate = [ x = 180, y = 984, width = 202, height = 126 ], link_type = [  ]

@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Location = 11 l or 11R ], coordinate = [ x = 75, y = 34, width = 229, height = 58 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determining the neighbourhood 12L or 12R of the location  ], coordinate = [ x = 41, y = 130, width = 291, height = 72 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Computing the description D.11L or D.11R of the location in the neighbourhood ], coordinate = [ x = 41, y = 249, width = 295, height = 85 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ as  Is there another location  11L or 11R whose description is to be computed  ], coordinate = [ x = 41, y = 369, width = 291, height = 90 ], link_type = [  ]

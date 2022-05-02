@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ TRAJNING SET(NORMAL IMAGE ONLy ], coordinate = [ x = 109, y = 52, width = 186, height = 56 ], link_type = [ Multi Line(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ SHAPE TUPLES], coordinate = [ x = 25, y = 189, width = 121, height = 56 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ TEXTURE(SHAPE-FREE) ], coordinate = [ x = 257, y = 189, width = 122, height = 56 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ MODEL OF SHAPE ], coordinate = [ x = 25, y = 327, width = 121, height = 56 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ MODEL OF TEXTURE ], coordinate = [ x = 257, y = 327, width = 122, height = 56 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ TRAiNED MODEL OF NORMAL APPEARANCE ], coordinate = [ x = 109, y = 464, width = 186, height = 56 ], link_type = [  ]

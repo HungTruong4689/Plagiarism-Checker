@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Association = [11L,11R] ], coordinate = [ x = 129, y = 603, width = 870, height = 106 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [Calculating geomertrical distance Z.1 1 L  ], coordinate = [ x = 129, y = 937, width = 871, height = 177 ], link_type = [Next(1 : shape2)   ]
+Shape2 : type = [Rectangle], text = [ Change association ], coordinate = [ x = 1229, y = 1154, width = 595, height = 107 ], link_type = [ ]
+Shape3 : type = [Diamond], text = [   1. Is there another  association f: l11i_,1 1 R] '2  ], coordinate = [ x = 88, y = 1289, width = 948, height = 420 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Quadrangle], text = [ End ], coordinate = [ x = 330, y = 1878, width = 466, height = 107 ], link_type = [  ]

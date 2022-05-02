@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ PlD controller ], coordinate = [ x = 135, y = 5, width = 86, height = 64 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ PWM Generator ], coordinate = [ x = 244, y = 5, width = 87, height = 64 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ System ], coordinate = [ x = 359, y = 5, width = 86, height = 64 ], link_type = []
+Shape3 : type = [Rectangle], text = [ A D ], coordinate = [ x = 166, y = 111, width = 87, height = 64 ], link_type = [ Next_RL(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Sensor ], coordinate = [ x = 297, y = 111, width = 86, height = 64 ], link_type = [  ]

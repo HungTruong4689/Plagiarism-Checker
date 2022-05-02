@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Receive bi-tonal image of remittance coupon ], coordinate = [ x = 231, y = 19, width = 334, height = 232 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Locate data fields ], coordinate = [ x = 231, y = 316, width = 334, height = 232 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Extract data from fields  ], coordinate = [ x = 231, y = 623, width = 334, height = 232 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Analyze extracted data ], coordinate = [ x = 231, y = 930, width = 334, height = 233 ], link_type = [  ]

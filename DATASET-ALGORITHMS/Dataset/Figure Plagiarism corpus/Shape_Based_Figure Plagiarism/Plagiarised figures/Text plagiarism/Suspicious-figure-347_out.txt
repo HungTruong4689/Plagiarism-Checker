@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Fetch Web Pages from a Folder], coordinate = [ x = 165, y = 20, width = 468, height = 78 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Extract Hyperlinks in Each Web Page ], coordinate = [ x = 96, y = 165, width = 597, height = 77 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Normalize URLs of Hyperlinks ], coordinate = [ x = 126, y = 310, width = 537, height = 77 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Check sum of URLs ], coordinate = [ x = 164, y = 454, width = 466, height = 77 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Link Analysis ], coordinate = [ x = 164, y = 604, width = 467, height = 78 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Compute Score GR for Each Page ], coordinate = [ x = 51, y = 756, width = 629, height = 77 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Store GR to the repository ], coordinate = [ x = 146, y = 904, width = 503, height = 77 ], link_type = [  ]

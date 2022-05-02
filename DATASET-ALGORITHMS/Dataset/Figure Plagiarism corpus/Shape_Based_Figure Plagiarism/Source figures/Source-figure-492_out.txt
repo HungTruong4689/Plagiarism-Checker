@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ USER INTERFACE ], coordinate = [ x = 482, y = 130, width = 216, height = 80 ], link_type = [ Multi flow(1:shape1,2:shape3) ]
+Shape1 : type = [Rectangle], text = [ ATTENTION-BASED APPLICATION ], coordinate = [ x = 31, y = 383, width = 216, height = 81 ], link_type = [ Multi Flow(1 : shape2, 2 : shape4) ]
+Shape2 : type = [Rectangle], text = [ DATA REGARDING CONTEXT ], coordinate = [ x = 479, y = 383, width = 216, height = 81 ], link_type = [ Next_TB(1:shape4) ]
+Shape3 : type = [Rectangle], text = [ USERS ], coordinate = [ x = 927, y = 383, width = 216, height = 81 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ ATTENTION SCORE ], coordinate = [ x = 255, y = 638, width = 216, height = 80 ], link_type = [ Next_RL(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ SENSORS ], coordinate = [ x = 703, y = 637, width = 216, height = 80 ], link_type = [  ]

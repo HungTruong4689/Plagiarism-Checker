@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Image acquation ], coordinate = [ x = 22, y = 5, width = 118, height = 50 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Segmantation ], coordinate = [ x = 168, y = 5, width = 112, height = 50 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Normalization], coordinate = [ x = 309, y = 5, width = 112, height = 50 ], link_type = [ Next_TB(1:shape3) ]
+Shape3 : type = [Rectangle], text = [ Feature extraction and code generation ], coordinate = [ x = 22, y = 81, width = 118, height = 50 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Identification ], coordinate = [ x = 168, y = 81, width = 117, height = 50 ], link_type = [  ]

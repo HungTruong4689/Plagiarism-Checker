@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ SEARCH FOR IMAGE EFFECT INFORMATION IINCLUDED IN THE IMAGE INFORMATION ], coordinate = [ x = 59, y = 140, width = 719, height = 108 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ EXTRACT AND DISPLAY THE TYPES OF IMAGE EFFECTS ], coordinate = [ x = 57, y = 292, width = 719, height = 108 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ INSERT AN IMAGE? ], coordinate = [ x = 67, y = 448, width = 693, height = 97 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ DISPLAY TYPES OF IMAGES ], coordinate = [ x = 53, y = 594, width = 721, height = 107 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Quadrangle], text = [ ANY IMAGE Selected ? ], coordinate = [ x = 50, y = 791, width = 722, height = 71 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ DISPLAY THE SELECTED IMAGE WITH THE IMAGE EFFECTS ADDED ], coordinate = [ x = 48, y = 893, width = 721, height = 108 ], link_type = [  ]

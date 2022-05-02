@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Documents ], coordinate = [ x = 253, y = 26, width = 161, height = 50 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Preprocessing ], coordinate = [ x = 262, y = 101, width = 152, height = 45 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ FeatureExtraction ], coordinate = [ x = 262, y = 197, width = 142, height = 67 ], link_type = [ Next_TB(1 : shape5) ]
+Shape3 : type = [Rectangle], text = [ user keywords ], coordinate = [ x = 60, y = 229, width = 152, height = 55 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Keywordsrevising ], coordinate = [ x = 60, y = 325, width = 152, height = 72 ], link_type = [ Next_LR(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ SentenceRankingT ], coordinate = [ x = 262, y = 325, width = 133, height = 72 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ RedundancyReducing ], coordinate = [ x = 262, y = 453, width = 133, height = 82 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ GeneratedSummary ], coordinate = [ x = 262, y = 581, width = 133, height = 82 ], link_type = [  ]

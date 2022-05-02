@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ METADATA COLLECTOR ], coordinate = [ x = 144, y = 56, width = 184, height = 148 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ PROCESSORUNIT(S) ], coordinate = [ x = 562, y = 56, width = 186, height = 148 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ ACTOR COMMUNICATIONS INTERFACE ], coordinate = [ x = 96, y = 226, width = 233, height = 148 ], link_type = [  Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ MEMORY ], coordinate = [ x = 562, y = 226, width = 186, height = 148 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ POPULATION CONTROLLER ], coordinate = [ x = 144, y = 391, width = 185, height = 148 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ PHYSICS ENGINE ], coordinate = [ x = 562, y = 391, width = 186, height = 148 ], link_type = [  ]

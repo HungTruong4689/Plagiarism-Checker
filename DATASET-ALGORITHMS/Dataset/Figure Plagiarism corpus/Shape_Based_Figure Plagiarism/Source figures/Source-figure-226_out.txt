@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 322, y = 30, width = 104, height = 49 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Quadrangle], text = [ DISPLAY QUERY INPUT SCREEN ], coordinate = [ x = 89, y = 119, width = 572, height = 52 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ ACQUIRE PRODUCT SERIAL NUMBER ], coordinate = [ x = 88, y = 209, width = 573, height = 52 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ RETRIEVE CONFIGURATION DATABASE ], coordinate = [ x = 88, y = 300, width = 572, height = 52 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ EXECUTE RETRIEVAL/TRANSMIT RETRIEVAL REQUEST ], coordinate = [ x = 87, y = 391, width = 572, height = 77 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ ACQUIRE RETRIEVAL RESULT ], coordinate = [ x = 86, y = 504, width = 573, height = 52 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ DISPLAY INTEGRATED RETRIEVAL RESULT ], coordinate = [ x = 86, y = 595, width = 572, height = 52 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ END ], coordinate = [ x = 318, y = 688, width = 112, height = 49 ], link_type = [  ]

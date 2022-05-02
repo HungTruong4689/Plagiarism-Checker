@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Embedded Tester Tester Memory Test Controller  ], coordinate = [ x = 25, y = 5, width = 105, height = 266 ], link_type = [ ]
+Shape1 : type = [SQUARE], text = [ Core 1], coordinate = [ x = 185, y = 12, width = 66, height = 75 ], link_type = [  ]
+Shape2 : type = [SQUARE], text = [ Core 3 ], coordinate = [ x = 185, y = 194, width = 66, height = 75 ], link_type = [  ]
+Shape3 : type = [SQUARE], text = [ Core 4  ], coordinate = [ x = 279, y = 194, width = 65, height = 75 ], link_type = [  ]
+Shape4 : type = [SQUARE], text = [ Core   2 ], coordinate = [ x = 334, y = 12, width = 65, height = 75 ], link_type = [  ]
+Shape5 : type = [SQUARE], text = [ Core 5 ], coordinate = [ x = 375, y = 195, width = 65, height = 75 ], link_type = [  ]

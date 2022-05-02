@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Server  ], coordinate = [ x = 125, y = 198, width = 238, height = 87 ], link_type = [ Multi-Double Arrow(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ 1620 ], coordinate = [ x = 447, y = 209, width = 77, height = 76 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Network@ ], coordinate = [ x = 147, y = 355, width = 197, height = 107 ], link_type = [ Multi-Double Arrow(1 : shape3,2 : shape4, 3 : shape5) ]
+Shape3 : type = [Rectangle], text = [ Processor ], coordinate = [ x = 22, y = 552, width = 124, height = 111 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Processor ], coordinate = [ x = 182, y = 552, width = 125, height = 111 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Processor ], coordinate = [ x = 342, y = 552, width = 125, height = 111 ], link_type = [  ]

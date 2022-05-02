@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Web Dbiect Retrieval ], coordinate = [ x = 213, y = 0, width = 148, height = 51 ], link_type = [ ]
+Shape1 : type = [Rectangle], text = [ Information extraction ], coordinate = [ x = 91, y = 178, width = 90, height = 51 ], link_type = [ Next_BT(1 : shape4) ]
+Shape2 : type = [Rectangle], text = [ Information extraction  ], coordinate = [ x = 243, y = 178, width = 88, height = 51 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Information extraction  ], coordinate = [ x = 378, y = 178, width = 87, height = 51 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Web Database ], coordinate = [ x = 78, y = 261, width = 112, height = 99 ], link_type = [  ]

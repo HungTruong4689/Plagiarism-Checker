@@ -1,0 +1,4 @@
+Shape0 : type = [SQUARE], text = [ PERFORM ACCESS CONTROL LIST(ACL) CHECKING TO CONFIRM THAT THE CUSTOMER IS APPROVED TO GET TO THE URL IN THE WAY ASKED], coordinate = [ x = 149, y = 7, width = 142, height = 152 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ DID THE CLIENT PASS AUTHORIZATION ], coordinate = [ x = 149, y = 196, width = 142, height = 151 ], link_type = [ Multi-Double Arrow(1 : shape2, 2 : shape3) ]
+Shape2 : type = [SQUARE], text = [ ALLOW THE REQUEST TO PROCEED], coordinate = [ x = 33, y = 399, width = 142, height = 151 ], link_type = [  ]
+Shape3 : type = [SQUARE], text = [ REJECT THE REQUEST], coordinate = [ x = 239, y = 399, width = 142, height = 152 ], link_type = [  ]

@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ TRAIN A PIXEL LEVEL CLASSIFIER  TO ASSIGN A TREEOR NON-TREE LABEL TO EACH PIXEL IN AN AERIAL MAGE ], coordinate = [ x = 106, y = 65, width = 581, height = 112 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ SEGMENT TREE AND NON-TREE REGIONS OF THE ILABELED PIXELS ], coordinate = [ x = 106, y = 239, width = 581, height = 72 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ LOCATE INDIVIDUAL TREE CROWNS IN THESEGMENTED TREE REGIONS USING ONE OR MORETREE TEMPLATES ], coordinate = [ x = 106, y = 389, width = 581, height = 112 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Select an expression. ], coordinate = [ x = 246, y = 38, width = 464, height = 147 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine if there is a section of the image that corresponds to the start and end of selected expression ], coordinate = [ x = 235, y = 261, width = 476, height = 148 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ . Score the section of the image against the selected expression. ], coordinate = [ x = 237, y = 480, width = 465, height = 146 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ If score is above a threshold,record that selected expression was found at a location in the image. ], coordinate = [ x = 241, y = 696, width = 464, height = 147 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Repeat steps 401 -404 for alle xpressions. ], coordinate = [ x = 243, y = 913, width = 465, height = 147 ], link_type = [  ]

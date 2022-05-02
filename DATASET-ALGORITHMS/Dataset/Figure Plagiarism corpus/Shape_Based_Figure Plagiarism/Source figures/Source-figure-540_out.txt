@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ RECEIVE, AS INPUT, FUNCTIONAL DESCRIPTION OF PROTOCOL FSM  ], coordinate = [ x = 50, y = 11, width = 379, height = 198 ], link_type = [ Next_TB(1:shape1) ]
+Shape1 : type = [Rectangle], text = [ SIMULATE, using FSM,OPERATION or PROTOCOL TO GENERATE ser OF VALID CONVERSATIONS lN lPROTOCOL r ], coordinate = [ x = 50, y = 287, width = 379, height = 179 ], link_type = [ Next_TB(1:shape2)  ]
+Shape2 : type = [Rectangle], text = [ GENERATE FUZZER FROM SET OF VALlD CONVERSATIONS  ], coordinate = [ x = 50, y = 544, width = 379, height = 132 ], link_type = [ Next_TB(1:shape3)  ]
+Shape3 : type = [Rectangle], text = [ SEND MESSAGES TO DEVICE UNDER TEST USING FUZZER  ], coordinate = [ x = 50, y = 725, width = 379, height = 122 ], link_type = [ Next_TB(1:shape4)  ]
+Shape4 : type = [Rectangle], text = [ ANALYZE RESPONSES OF IDEVICE UNDER TEST TO FUZZED MESSAGES  ], coordinate = [ x = 50, y = 887, width = 379, height = 198 ], link_type = [  ]

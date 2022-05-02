@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ sample video stream ], coordinate = [ x = 29, y = 25, width = 301, height = 56 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ select distinct images], coordinate = [ x = 389, y = 25, width = 301, height = 57 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ analyze images and determine slide images ], coordinate = [ x = 394, y = 124, width = 301, height = 77 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ archive slide images ], coordinate = [ x = 399, y = 245, width = 301, height = 67 ], link_type = [  ]

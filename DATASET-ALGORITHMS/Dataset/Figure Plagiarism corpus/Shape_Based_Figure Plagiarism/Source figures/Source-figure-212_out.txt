@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ ACQUIRE TRAINING DATA ], coordinate = [ x = 44, y = 152, width = 728, height = 58 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ LEARN PROBLEM EXPRESSION EXTRACTION RULE USINGMACHINE LEARNING BASED ON TRAINING DATA ], coordinate = [ x = 44, y = 273, width = 728, height = 82 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ EXTRACT PROBLEM EXPRESSION FROM OTHER CORPUSBASED ON EXTRACTION RULE ], coordinate = [ x = 44, y = 415, width = 728, height = 80 ], link_type = [  ]

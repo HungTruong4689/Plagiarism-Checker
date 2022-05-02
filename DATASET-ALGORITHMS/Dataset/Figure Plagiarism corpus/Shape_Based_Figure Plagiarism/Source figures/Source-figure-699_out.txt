@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 343, y = 63, width = 78, height = 58 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ lntialize Query Image and Compare with Sample Images in a Scene Network ], coordinate = [ x = 141, y = 166, width = 480, height = 77 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [  Valid moves ? ], coordinate = [ x = 265, y = 294, width = 231, height = 131 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Identify Object Instance(s) in an Object Network ], coordinate = [ x = 141, y = 475, width = 480, height = 87 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Execute Valid Moves and Produce Synthesized Image ], coordinate = [ x = 141, y = 613, width = 480, height = 67 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Diamond], text = [   Objective maximized ? ], coordinate = [ x = 265, y = 727, width = 232, height = 143 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Evaluate a Scene Representation ], coordinate = [ x = 141, y = 935, width = 481, height = 66 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ End ], coordinate = [ x = 340, y = 1065, width = 82, height = 58 ], link_type = [  ]

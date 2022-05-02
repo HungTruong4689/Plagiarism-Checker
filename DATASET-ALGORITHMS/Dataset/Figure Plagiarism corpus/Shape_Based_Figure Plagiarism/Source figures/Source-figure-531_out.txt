@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Split training data into two parts ], coordinate = [ x = 182, y = 45, width = 240, height = 91 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Train text classifier on first part of training data ], coordinate = [ x = 30, y = 182, width = 241, height = 91 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Train Image classifier on first part of training data ], coordinate = [ x = 334, y = 183, width = 240, height = 91 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Use text classifier to infer a distribution over categories on second onion of training data ], coordinate = [ x = 30, y = 320, width = 241, height = 93 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Use Image classifer toinfer a distribution over categories on second ortion of lraining data ], coordinate = [ x = 334, y = 322, width = 240, height = 93 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ SConcatenate the text and image probability distributions in a MDFS ], coordinate = [ x = 182, y = 460, width = 240, height = 91 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [  Learn new classifier on the MDFS for predicting labels on both text and IMBQQ features ], coordinate = [ x = 485, y = 460, width = 240, height = 91 ], link_type = [  ]

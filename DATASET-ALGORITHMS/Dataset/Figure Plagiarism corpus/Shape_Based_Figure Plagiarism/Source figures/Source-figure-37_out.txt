@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ QUERY STRING ], coordinate = [ x = 120, y = 15, width = 163, height = 77 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ LEXICAL ANALYSIS ], coordinate = [ x = 120, y = 118, width = 162, height = 59 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Parallelogram], text = [ TOKEN], coordinate = [ x = 113, y = 211, width = 175, height = 38 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ PARSER ], coordinate = [ x = 120, y = 284, width = 162, height = 38 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Parallelogram], text = [ ABSTRACT SYNTAX TREE ], coordinate = [ x = 113, y = 356, width = 175, height = 59 ], link_type = [  ]

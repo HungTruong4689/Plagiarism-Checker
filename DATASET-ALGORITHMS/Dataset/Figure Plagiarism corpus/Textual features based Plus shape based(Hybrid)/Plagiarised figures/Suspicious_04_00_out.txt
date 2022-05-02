@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Color smoothing color space grouping edge map], coordinate = [ x = 455, y = 40, width = 179, height = 170 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [Blob Analysis  HandPasture ], coordinate = [ x = 668, y = 40, width = 131, height = 170 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Execute Action], coordinate = [ x = 173, y = 304, width = 196, height = 39 ], link_type = [ Next_RL(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Kalman filtering Hiden markov model graph matching], coordinate = [ x = 520, y = 243, width = 230, height = 160 ], link_type = [  ]

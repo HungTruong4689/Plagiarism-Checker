@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ CAMERA ], coordinate = [ x = 117, y = 189, width = 317, height = 197 ], link_type = [ Multi Flow(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ CALIBRATION ], coordinate = [ x = 542, y = 198, width = 262, height = 187 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ IMAGE SEQUENCE ], coordinate = [ x = 120, y = 550, width = 317, height = 197 ], link_type = [  ]

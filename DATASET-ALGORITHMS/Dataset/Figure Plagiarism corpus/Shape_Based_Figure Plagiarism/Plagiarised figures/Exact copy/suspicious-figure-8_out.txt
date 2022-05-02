@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ VCR CONFIGURE ], coordinate = [ x = 46, y = 12, width = 223, height = 77 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ PREDICT RESULT ], coordinate = [ x = 46, y = 116, width = 223, height = 77 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ USER BEHAVIOUR KNOWLEDGE BASE ], coordinate = [ x = 46, y = 221, width = 222, height = 77 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ AUTO-VCR(Un_A5,A1) ], coordinate = [ x = 46, y = 326, width = 223, height = 77 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ REMOTE CONTROL I / O DEVICE ], coordinate = [ x = 46, y = 430, width = 223, height = 77 ], link_type = [  ]

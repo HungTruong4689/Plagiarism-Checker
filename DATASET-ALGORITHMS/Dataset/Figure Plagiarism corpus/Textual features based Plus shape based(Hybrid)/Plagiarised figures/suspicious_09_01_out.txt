@@ -1,0 +1,5 @@
+Shape0 : type = [Diamond], text = [BW TH HYS  ], coordinate = [ x = 126, y = 15, width = 168, height = 62 ], link_type = [ Decision(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Diamond], text = [ BW BW HYS ], coordinate = [ x = 242, y = 71, width = 146, height = 67 ], link_type = [ Decision(1 : shape3, 2 : shape4)  ]
+Shape2 : type = [Rectangle], text = [ Handoff to the best WLAN ], coordinate = [ x = 50, y = 154, width = 98, height = 52 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Handaff to the best WMAN ], coordinate = [ x = 169, y = 154, width = 96, height = 52 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ No handoff ], coordinate = [ x = 273, y = 154, width = 98, height = 52 ], link_type = [  ]

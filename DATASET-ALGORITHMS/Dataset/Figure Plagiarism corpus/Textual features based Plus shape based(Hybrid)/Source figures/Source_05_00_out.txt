@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Gas ], coordinate = [ x = 202, y = 12, width = 88, height = 40 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Renewable energy sources ], coordinate = [ x = 21, y = 89, width = 114, height = 87 ], link_type = [ ]
+Shape2 : type = [Rectangle], text = [ Local generation ], coordinate = [ x = 364, y = 96, width = 114, height = 63 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ Coal ], coordinate = [ x = 131, y = 232, width = 88, height = 40 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Nuclear ], coordinate = [ x = 286, y = 232, width = 89, height = 40 ], link_type = [  ]

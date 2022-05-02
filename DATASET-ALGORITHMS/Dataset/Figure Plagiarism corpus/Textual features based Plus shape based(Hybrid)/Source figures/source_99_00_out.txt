@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Abstract model], coordinate = [ x = 37, y = 155, width = 163, height = 40 ], link_type = [ Multi Flow(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Abstract scenario ], coordinate = [ x = 426, y = 156, width = 164, height = 41 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Refine model], coordinate = [ x = 37, y = 258, width = 164, height = 41 ], link_type = [ Multi Flow(1 : shape3, 2 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Refine scenario ], coordinate = [ x = 425, y = 258, width = 164, height = 41 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ sufficientiy refined model], coordinate = [ x = 37, y = 406, width = 163, height = 59 ], link_type = [ Multi Flow(1 : shape5, 2 : shape6) ]
+Shape5 : type = [Rectangle], text = [ sufficientiy refined scenario ], coordinate = [ x = 425, y = 409, width = 164, height = 58 ], link_type = [ Next_TB(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ System Under Tes(SUT) ], coordinate = [ x = 44, y = 545, width = 145, height = 65 ], link_type = [ Double Arrow(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Test cases], coordinate = [ x = 434, y = 546, width = 145, height = 65 ], link_type = [  ]

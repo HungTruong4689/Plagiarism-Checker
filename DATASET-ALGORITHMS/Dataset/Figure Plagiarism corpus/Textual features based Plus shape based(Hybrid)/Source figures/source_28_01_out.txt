@@ -1,0 +1,5 @@
+Shape0 : type = [SQUARE], text = [   ], coordinate = [ x = 207, y = 15, width = 37, height = 46 ], link_type = [ Double Arrow(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ Power Supply], coordinate = [ x = 311, y = 38, width = 83, height = 44 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ RF Receiver (434 MHZ)], coordinate = [ x = 64, y = 105, width = 74, height = 55 ], link_type = [ Next_LR(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ MAX 232 ], coordinate = [ x = 183, y = 111, width = 75, height = 42 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ RF-Tranmitterv315 MHZ], coordinate = [ x = 303, y = 111, width = 91, height = 55 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Receive Raw Data Associated with a User ], coordinate = [ x = 92, y = 48, width = 277, height = 63 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Short Form ], coordinate = [ x = 161, y = 134, width = 139, height = 42 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ Receive Input to Switch to Full Form ], coordinate = [ x = 100, y = 200, width = 260, height = 162 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Full Form ], coordinate = [ x = 168, y = 386, width = 125, height = 39 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ Receive Input to Switch to short form?  ], coordinate = [ x = 100, y = 449, width = 261, height = 162 ], link_type = [  ]

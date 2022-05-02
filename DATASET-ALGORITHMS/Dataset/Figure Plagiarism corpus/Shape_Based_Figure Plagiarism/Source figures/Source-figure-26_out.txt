@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Preprocessing ], coordinate = [ x = 179, y = 20, width = 182, height = 77 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Feature Extraction ], coordinate = [ x = 410, y = 20, width = 158, height = 100 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Fuzzy Interface System ], coordinate = [ x = 133, y = 162, width = 389, height = 118 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Sentence Scoring ], coordinate = [ x = 133, y = 350, width = 136, height = 99 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Ranking  ], coordinate = [ x = 340, y = 350, width = 182, height = 76 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Summary ], coordinate = [ x = 133, y = 490, width = 389, height = 76 ], link_type = [  ]

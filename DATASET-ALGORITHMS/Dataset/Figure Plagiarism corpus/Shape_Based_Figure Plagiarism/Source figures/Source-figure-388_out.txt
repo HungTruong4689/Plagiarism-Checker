@@ -1,0 +1,8 @@
+Shape0 : type = [Quadrangle], text = [ Start], coordinate = [ x = 155, y = 14, width = 72, height = 28 ], link_type = [ Next_TB(1 : shape1 ]
+Shape1 : type = [Rectangle], text = [ Recieve a result page a web search engine and in integer number for the results on the result page], coordinate = [ x = 75, y = 54, width = 228, height = 48 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Generate one ore more simlified variations of the result page], coordinate = [ x = 75, y = 122, width = 228, height = 42 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Parse the variation to determine one or more repeating patterns], coordinate = [ x = 75, y = 183, width = 228, height = 42 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ select the one or more repeating patterning that are repeated the integer value of times as result pATTERNS], coordinate = [ x = 75, y = 244, width = 228, height = 49 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ select one of the one ore more results pattering as a highst rated result pattern acoordinag rating creteria], coordinate = [ x = 75, y = 312, width = 228, height = 55 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ generate aregular experesion from the highest result pattern as an output], coordinate = [ x = 75, y = 387, width = 228, height = 48 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ End ], coordinate = [ x = 153, y = 448, width = 76, height = 28 ], link_type = [  ]

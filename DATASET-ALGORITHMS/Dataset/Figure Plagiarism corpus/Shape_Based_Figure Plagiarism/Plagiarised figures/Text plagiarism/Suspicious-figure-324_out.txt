@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ TFIAIN A PIXEL LEVEL CLASSIFIER TO ASSIGN A TREE OR NON~TREE LABEL TO EACH PIXEL IN AN AERIAL IMAGE ], coordinate = [ x = 106, y = 60, width = 581, height = 122 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DIVIDE TREE AND NON-TREE REGIONS OF THE LABELED PIXELS ], coordinate = [ x = 106, y = 234, width = 581, height = 82 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ LOCATE INDIVIDUAL TREE CFIOWNS IN THE SEGMENTED TREE REGIONS USING ONE OR MORE TREE TEMPLATES ], coordinate = [ x = 106, y = 384, width = 581, height = 122 ], link_type = [  ]

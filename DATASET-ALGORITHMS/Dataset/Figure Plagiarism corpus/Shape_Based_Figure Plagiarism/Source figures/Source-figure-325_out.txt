@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ SENDING MAIL SERVER ], coordinate = [ x = 63, y = 101, width = 166, height = 70 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ MESSAGE HANDLING PROCESS ], coordinate = [ x = 305, y = 101, width = 250, height = 70 ], link_type = [ Multi Flow(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ RECEIVING MAIL SERVER ], coordinate = [ x = 631, y = 101, width = 166, height = 69 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ TRAFFIC MONITOR ], coordinate = [ x = 305, y = 237, width = 250, height = 50 ], link_type = [  ]

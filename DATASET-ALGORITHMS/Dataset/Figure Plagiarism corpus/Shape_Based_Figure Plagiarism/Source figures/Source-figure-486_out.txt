@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 282, y = 8, width = 144, height = 65 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Receiving component information from a GIS database for one or more components in a pipeline ], coordinate = [ x = 52, y = 134, width = 592, height = 122 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Determining a modified maximum allowable operating pressure (MAOPm) for the one or more components ], coordinate = [ x = 52, y = 347, width = 592, height = 122 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determining an uprating pressure(MAOPm*) that the one or morecomponents can withstand ], coordinate = [ x = 52, y = 547, width = 592, height = 145 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Outputting at least one of an upgrade recommendation or an uprate recommendation based at least in part on the MAOPm and the MAOPm* ], coordinate = [ x = 52, y = 745, width = 592, height = 160 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ END ], coordinate = [ x = 277, y = 974, width = 160, height = 65 ], link_type = [  ]

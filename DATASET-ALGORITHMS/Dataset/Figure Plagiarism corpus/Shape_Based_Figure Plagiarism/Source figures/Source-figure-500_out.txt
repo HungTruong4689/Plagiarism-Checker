@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Vehicle enters the parking lot ], coordinate = [ x = 90, y = 148, width = 562, height = 83 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Driver sees available parking spaces on adisplay in the parking lot ], coordinate = [ x = 90, y = 284, width = 561, height = 82 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Driver selects an available parking space ], coordinate = [ x = 89, y = 426, width = 562, height = 82 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Driver parks in the selected parking space  ], coordinate = [ x = 86, y = 566, width = 568, height = 82 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ A mirror reflects an image of the license plate ofthe parked vehicle to a camera ], coordinate = [ x = 86, y = 708, width = 568, height = 83 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ OCR system reads the parking space identifierfrom the image ], coordinate = [ x = 83, y = 851, width = 568, height = 89 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Computer updates the parking information system with information on the occupied parking space ], coordinate = [ x = 84, y = 1001, width = 568, height = 83 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Parking information system provides parking lot information to drivers and remote customers ], coordinate = [ x = 84, y = 1144, width = 568, height = 82 ], link_type = [  ]

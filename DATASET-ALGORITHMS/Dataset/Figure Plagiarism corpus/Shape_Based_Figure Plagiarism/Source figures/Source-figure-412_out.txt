@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ RECENE CONTROL SEQUENCE(S) ], coordinate = [ x = 78, y = 43, width = 333, height = 80 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ IDENTIFY CONTRIBUTING PORTlON(S) OF THE CONTROL SEQUENCE(s) ], coordinate = [ x = 78, y = 181, width = 333, height = 110 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ GENERATE NEW CONTROL SEQUENCE BASED ON CONTRIBUTING PORTIONS ], coordinate = [ x = 78, y = 347, width = 333, height = 109 ], link_type = [  ]

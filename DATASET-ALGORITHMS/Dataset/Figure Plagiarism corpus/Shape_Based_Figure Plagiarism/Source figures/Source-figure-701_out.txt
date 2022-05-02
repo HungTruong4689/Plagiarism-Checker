@@ -1,0 +1,7 @@
+Shape0 : type = [Diamond], text = [ MAIN:STATIC REF ], coordinate = [ x = 56, y = 152, width = 280, height = 214 ], link_type = [ Decision( 1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ MAIN:  invoks DYNAMICI FIELD REF ], coordinate = [ x = 462, y = 195, width = 296, height = 140 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [  MAIN:  invoks DYNAMICI FIELD REF   ], coordinate = [ x = 45, y = 410, width = 297, height = 97 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ DFR: REWRITE SYMBOLIC REF IN OBJECT ], coordinate = [ x = 458, y = 420, width = 297, height = 141 ], link_type = [ ]
+Shape4 : type = [Rectangle], text = [ SFR: OBTAIN DATA ], coordinate = [ x = 44, y = 548, width = 297, height = 98 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ SFR: CURRENTDISTR = NEXT INSTR ], coordinate = [ x = 41, y = 687, width = 298, height = 95 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ SFR/DFR:RETURN TO MAIN ], coordinate = [ x = 53, y = 864, width = 264, height = 102 ], link_type = [  ]

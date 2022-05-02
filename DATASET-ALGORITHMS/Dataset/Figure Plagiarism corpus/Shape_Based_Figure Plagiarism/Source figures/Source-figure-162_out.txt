@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ CHANNEL SELECT ], coordinate = [ x = 197, y = 63, width = 168, height = 65 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ USER BEHAVIOUR KNOWLEDG EBASE ], coordinate = [ x = 197, y = 168, width = 167, height = 112 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ AUTO VIEW MONITOR  ], coordinate = [ x = 198, y = 321, width = 166, height = 65 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [  REMOTE CONTROLI l /O DEVICE ], coordinate = [ x = 198, y = 425, width = 166, height = 89 ], link_type = [  ]

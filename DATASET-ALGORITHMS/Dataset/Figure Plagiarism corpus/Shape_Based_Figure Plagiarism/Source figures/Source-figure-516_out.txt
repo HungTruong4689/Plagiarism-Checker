@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Descriptor Generator ], coordinate = [ x = 375, y = 104, width = 143, height = 109 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Object Tracker ], coordinate = [ x = 543, y = 104, width = 142, height = 109 ], link_type = [ Double Arrow(1 : shape4) ]
+Shape2 : type = [Rectangle], text = [ Object Recognizer ], coordinate = [ x = 701, y = 104, width = 144, height = 109 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ User Interface ], coordinate = [ x = 325, y = 316, width = 153, height = 109 ], link_type = [ Double Arrow(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Processor ], coordinate = [ x = 557, y = 302, width = 114, height = 131 ], link_type = [ Multi-Double Arrow(1 : shape5, 2 : shape7) ]
+Shape5 : type = [Rectangle], text = [ Communication Interface ], coordinate = [ x = 756, y = 314, width = 153, height = 108 ], link_type = [ Double Arrow(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Network ], coordinate = [ x = 994, y = 315, width = 140, height = 94 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ Memory Device ], coordinate = [ x = 518, y = 488, width = 197, height = 103 ], link_type = [  ]

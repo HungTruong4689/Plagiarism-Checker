@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ House Debt: 1;House Value = 1 ], coordinate = [ x = 85, y = 189, width = 245, height = 107 ], link_type = [  ]
+Shape1 : type = [Diamond], text = [ Home is rented?], coordinate = [ x = 439, y = 193, width = 284, height = 99 ], link_type = [ Decision(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ LTV =((house debt +unsecured debt)I house value) ], coordinate = [ x = 480, y = 419, width = 203, height = 136 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [  LTV>35], coordinate = [ x = 437, y = 634, width = 289, height = 154 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ LTV = 35 ], coordinate = [ x = 143, y = 661, width = 165, height = 100 ], link_type = [  ]
+Shape5 : type = [Diamond], text = [ LTV < 0? ], coordinate = [ x = 455, y = 859, width = 252, height = 154 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ LTV=O ], coordinate = [ x = 161, y = 886, width = 166, height = 101 ], link_type = [  ]

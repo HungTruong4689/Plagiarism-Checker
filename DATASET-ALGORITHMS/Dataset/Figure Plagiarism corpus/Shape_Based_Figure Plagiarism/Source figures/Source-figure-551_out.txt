@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Shorten preliminary lines to create line segments ], coordinate = [ x = 240, y = 112, width = 483, height = 62 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Obtain data for first line segment ], coordinate = [ x = 240, y = 202, width = 483, height = 62 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Extend line segment by one pixel ], coordinate = [ x = 240, y = 292, width = 484, height = 62 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ Nextpixel satisfies angle of gradient constraints? ], coordinate = [ x = 376, y = 384, width = 211, height = 203 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ More line segements? ], coordinate = [ x = 376, y = 619, width = 211, height = 212 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Obtain data for next line segment ], coordinate = [ x = 87, y = 676, width = 232, height = 97 ], link_type = [  ]

@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ TRANSMIT FIFO  ], coordinate = [ x = 147, y = 25, width = 101, height = 121 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Transmitter ], coordinate = [ x = 385, y = 24, width = 99, height = 122 ], link_type = [ Double Arrow(1 : shape4)  ]
+Shape2 : type = [Rectangle], text = [ State Machine ], coordinate = [ x = 172, y = 205, width = 49, height = 53 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ Receiver ], coordinate = [ x = 269, y = 148, width = 100, height = 184 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ RECEIVE FIFO  ], coordinate = [ x = 388, y = 335, width = 100, height = 121 ], link_type = [  ]

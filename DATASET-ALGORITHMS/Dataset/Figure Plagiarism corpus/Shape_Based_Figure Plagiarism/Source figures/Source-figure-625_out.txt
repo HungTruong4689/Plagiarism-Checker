@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ STORE VIRTUAL DEALER BEHAVIORS], coordinate = [ x = 77, y = 84, width = 698, height = 145 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [  STORE INFORMATION ON RELATION SHIPS BETWEEN GAME /PLAYER CIRCUMSTANCES AND VIRTUAL DEALER BEHAVIORS  ], coordinate = [ x = 77, y = 287, width = 697, height = 160 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ RECEIVE A GAME / PLAYER CIRCUMSTANCEE ], coordinate = [ x = 77, y = 506, width = 697, height = 159 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ PASS GAME I PLAYER CIRCUMSTANCE To AN ARTIFICIAL INTELLIGENCE ENGINE 708 ], coordinate = [ x = 77, y = 724, width = 697, height = 158 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ DETERMINE A VIRTUAL DEALER BEHAVIOR], coordinate = [ x = 77, y = 942, width = 697, height = 159 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ EXECUTE THE VIRTUAL DEALER BEHAVIOR  ], coordinate = [ x = 77, y = 1160, width = 697, height = 159 ], link_type = [  ]

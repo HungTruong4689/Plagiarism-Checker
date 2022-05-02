@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Input anay is received ], coordinate = [ x = 52, y = 19, width = 156, height = 88 ], link_type = [ Next_TB(1 : shape1)  ]
+Shape1 : type = [Rectangle], text = [ Input army is broken into tokens and each token is assigned an integer ], coordinate = [ x = 52, y = 133, width = 157, height = 185 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Detennine root tokens for each token in input array ], coordinate = [ x = 52, y = 338, width = 156, height = 125 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ Input array is expanded intomulti-dimensional array based on root tokens ], coordinate = [ x = 52, y = 483, width = 156, height = 168 ], link_type = [  ]

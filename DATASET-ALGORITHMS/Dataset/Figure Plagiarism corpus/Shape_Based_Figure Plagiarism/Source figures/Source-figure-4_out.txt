@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ SEND REQUEST FOR lMAGE(S) OF A LOCATION ], coordinate = [ x = 40, y = 87, width = 526, height = 46 ], link_type = [ Next_TB(1 : shape1)  ]
+Shape1 : type = [Rectangle], text = [ RECEIVE lMAGE(S) OF THE LOCATION ], coordinate = [ x = 39, y = 163, width = 529, height = 47 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ PERFORM OBJECT RECOGNITION ANALYSIS ON IMAGE ], coordinate = [ x = 44, y = 259, width = 523, height = 62 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ COMPARE FIRST PORTlON(S) OF IMAGE WITH SECOND PORTlON(S) OF IMAGE ], coordinate = [ x = 40, y = 350, width = 529, height = 67 ], link_type = []
+Shape4 : type = [Rectangle], text = [ PROVIDE NOTIFICATION ], coordinate = [ x = 477, y = 483, width = 169, height = 65 ], link_type = [  ]

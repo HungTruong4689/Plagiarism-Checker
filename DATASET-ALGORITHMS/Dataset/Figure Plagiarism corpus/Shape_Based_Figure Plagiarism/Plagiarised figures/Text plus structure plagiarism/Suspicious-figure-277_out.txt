@@ -1,0 +1,6 @@
+Shape0 : type = [Diamond], text = [ CLENT IS A WEB BROWSER?], coordinate = [ x = 141, y = 5, width = 225, height = 154 ], link_type = [ Decision(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ TOKEN PRESENT?], coordinate = [ x = 171, y = 193, width = 162, height = 121 ], link_type = [ Decision(1 : shape2, 2 : shape3) ]
+Shape2 : type = [SQUARE], text = [ RE-DIRECT TO SECURITY EXTENSION], coordinate = [ x = 20, y = 271, width = 148, height = 155 ], link_type = [ ]
+Shape3 : type = [SQUARE], text = [ RETURN AN AUTHENTICATION FAILURE STATUS ], coordinate = [ x = 355, y = 270, width = 157, height = 164 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [SQUARE], text = [ ALLOW THE CLIENT TO RESPOND], coordinate = [ x = 362, y = 473, width = 101, height = 109 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [SQUARE], text = [ ALLOW THE CLIENT TO INSERT ITS SESSION CERTIFICATE IN THE HTTP_LDMS CERT HEADER LAND RE_SUBMIT THE REQUEST], coordinate = [ x = 244, y = 615, width = 158, height = 165 ], link_type = [  ]

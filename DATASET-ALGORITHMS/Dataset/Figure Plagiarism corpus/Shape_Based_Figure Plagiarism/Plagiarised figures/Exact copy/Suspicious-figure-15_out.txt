@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 214, y = 64, width = 66, height = 38 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RECEIVE EMAIL ADDRESSED TO NON-EXISTENT ADDRESS ], coordinate = [ x = 95, y = 125, width = 305, height = 68 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [  DELIVERY ADDRESS MATCHES ANSD PATTERN ?.], coordinate = [ x = 118, y = 218, width = 258, height = 150 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ SD PATTERN MATCHES AN ACTUAL ADDRESS ], coordinate = [ x = 128, y = 392, width = 238, height = 150 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ DELEVERY ADDRESS SUFFICIENTLY OBSCURE?  ], coordinate = [ x = 118, y = 577, width = 258, height = 149 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ TREAT E-MAIL AS SPAM AND FLAG SOURCE IP ADDRESSAS SPAM SOURCE ], coordinate = [ x = 95, y = 750, width = 304, height = 90 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ END ], coordinate = [ x = 217, y = 874, width = 62, height = 38 ], link_type = [  ]

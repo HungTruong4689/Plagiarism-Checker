@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Display, in a separate window, metadata associated witha user selection in a 3D window ], coordinate = [ x = 40, y = 11, width = 739, height = 120 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Receive a message including a user modification of the metadata ], coordinate = [ x = 40, y = 193, width = 739, height = 121 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Update 2.5D GIS data in the GIS database as neededto reflect the modified metadata ], coordinate = [ x = 40, y = 391, width = 739, height = 121 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Optionally update 3D data in the 3D database as needed to reflect the modified metadata ], coordinate = [ x = 40, y = 581, width = 739, height = 121 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Pass modified GIS and/or 3D information to the engine interfacefor updating the 3D rendering ], coordinate = [ x = 40, y = 774, width = 739, height = 121 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Cause the 3D window display to be updated ], coordinate = [ x = 106, y = 962, width = 606, height = 121 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ End ], coordinate = [ x = 359, y = 1155, width = 135, height = 121 ], link_type = [  ]

@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ 400 Identify Related Phrases by High Information Gain ], coordinate = [ x = 91, y = 27, width = 468, height = 231 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ 402 Identify Clusters of Related Phrases using Information Gain ], coordinate = [ x = 92, y = 433, width = 467, height = 229 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ 404 Store Cluster Bit Vector and Cluster Number ], coordinate = [ x = 93, y = 809, width = 467, height = 228 ], link_type = [  ]

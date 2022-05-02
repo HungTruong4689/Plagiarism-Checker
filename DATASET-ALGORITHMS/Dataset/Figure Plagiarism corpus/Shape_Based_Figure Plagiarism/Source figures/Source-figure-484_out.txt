@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 299, y = 10, width = 97, height = 63 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Projection of the 3-D reference image points into the original recording device closest to the virtual recording device ], coordinate = [ x = 137, y = 157, width = 424, height = 96 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Projection of the 3-D reference image points into the virtual recording device ], coordinate = [ x = 138, y = 335, width = 425, height = 95 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determination of the projective transformation(Homography) ], coordinate = [ x = 137, y = 513, width = 424, height = 95 ], link_type = [ Line(1 : shape4)  ]
+Shape4 : type = [Rectangle], text = [ Projection of all the image points of the original image into the virtual image ], coordinate = [ x = 137, y = 689, width = 426, height = 96 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Filling unfilled image content of the virtual Image ], coordinate = [ x = 137, y = 867, width = 426, height = 97 ], link_type = [ Line(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Increasing the resolution of a virtual Image ], coordinate = [ x = 138, y = 1048, width = 425, height = 97 ], link_type = [ Line(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [END  ], coordinate = [ x = 299, y = 1227, width = 102, height = 68 ], link_type = [  ]

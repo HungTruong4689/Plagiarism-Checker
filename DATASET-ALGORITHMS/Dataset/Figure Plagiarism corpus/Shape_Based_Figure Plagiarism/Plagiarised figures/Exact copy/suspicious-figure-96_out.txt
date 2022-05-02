@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ GEOCODING MANAGER(ENGINE) ], coordinate = [ x = 380, y = 90, width = 194, height = 114 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RANKING COMPONENT ], coordinate = [ x = 380, y = 341, width = 194, height = 114 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ SCORING COMPONENT ], coordinate = [ x = 380, y = 591, width = 194, height = 114 ], link_type = [ Next_TB((1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ WEIGHTING COMPONENT ], coordinate = [ x = 380, y = 842, width = 194, height = 113 ], link_type = [ Next_TB((1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ SCORING RULES COMPONENT ], coordinate = [ x = 380, y = 1092, width = 194, height = 114 ], link_type = [  ]

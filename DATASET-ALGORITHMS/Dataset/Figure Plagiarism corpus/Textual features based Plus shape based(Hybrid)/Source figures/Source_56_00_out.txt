@@ -1,0 +1,8 @@
+Shape0 : type = [Parallelogram], text = [ input image ], coordinate = [ x = 116, y = 56, width = 128, height = 41 ], link_type = [ Next_TB(1: shape1)  ]
+Shape1 : type = [Rectangle], text = [ calculate USAN area and USAN area histogram ], coordinate = [ x = 62, y = 107, width = 235, height = 52 ], link_type = [ Next_TB(1: shape2)   ]
+Shape2 : type = [Rectangle], text = [ fuzzy USAN area with membership function], coordinate = [ x = 64, y = 168, width = 231, height = 52 ], link_type = [ Next_TB(1: shape3)    ]
+Shape3 : type = [Rectangle], text = [Apply FINT to further modify fuzzy memebership function values ], coordinate = [ x = 64, y = 228, width = 231, height = 52 ], link_type = [Next_TB(1: shape4) ]
+Shape4 : type = [Rectangle], text = [ Optimize parameters of membership function  using BFA ], coordinate = [ x = 17, y = 285, width = 325, height = 56 ], link_type = [ Next_TB(1: shape5) ]
+Shape5 : type = [Rectangle], text = [ Fuzzy USAN area using modified membership functions with optimize parameters to obtain fuzzy edge map ], coordinate = [ x = 19, y = 349, width = 321, height = 82 ], link_type = [ Next_TB(1: shape6)  ]
+Shape6 : type = [Rectangle], text = [ De-Fuzzy edge map using adaptive thresholding], coordinate = [ x = 80, y = 437, width = 199, height = 64 ], link_type = [Next_TB(1: shape7)   ]
+Shape7 : type = [Rectangle], text = [ Final edge map ], coordinate = [ x = 80, y = 506, width = 199, height = 52 ], link_type = [  ]

@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ DETERMINE WHETHER CHARACTER IS ON NAVIGATIONAL GRAPH ], coordinate = [ x = 94, y = 106, width = 237, height = 108 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DETERMINE ANCHOR POINTS ], coordinate = [ x = 94, y = 285, width = 237, height = 78 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ CACHE ANCHOR POINTS ], coordinate = [ x = 94, y = 434, width = 237, height = 79 ], link_type = [  ]

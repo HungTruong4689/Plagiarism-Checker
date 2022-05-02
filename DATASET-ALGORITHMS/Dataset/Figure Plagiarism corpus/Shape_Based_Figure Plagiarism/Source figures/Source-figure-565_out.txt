@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Acquire Video ], coordinate = [ x = 116, y = 19, width = 227, height = 105 ], link_type = [ Next_TB(1 : shape1)  ]
+Shape1 : type = [Rectangle], text = [ Match Template ], coordinate = [ x = 114, y = 206, width = 226, height = 102 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Detect Motion ], coordinate = [ x = 111, y = 389, width = 227, height = 103 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Difference with Background ], coordinate = [ x = 109, y = 573, width = 226, height = 103 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Analyze Color ], coordinate = [ x = 106, y = 757, width = 227, height = 103 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Combine Results ], coordinate = [ x = 104, y = 941, width = 226, height = 102 ], link_type = [  ]

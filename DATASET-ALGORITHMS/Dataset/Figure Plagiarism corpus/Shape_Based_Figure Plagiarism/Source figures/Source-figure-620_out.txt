@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Feature Detection Module  ], coordinate = [ x = 118, y = 280, width = 210, height = 150 ], link_type = [ Multi Flow(1 : shape1,2 : shape4) ]
+Shape1 : type = [Rectangle], text = [ Interpolation Module& ], coordinate = [ x = 438, y = 279, width = 210, height = 151 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Missing Feature Augmentation Module  ], coordinate = [ x = 758, y = 279, width = 210, height = 150 ], link_type = [ Next_LR(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Pose Reconstruction Module  ], coordinate = [ x = 1078, y = 278, width = 210, height = 151 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Ambiguity Resolve Module ], coordinate = [ x = 117, y = 495, width = 211, height = 150 ], link_type = [  ]

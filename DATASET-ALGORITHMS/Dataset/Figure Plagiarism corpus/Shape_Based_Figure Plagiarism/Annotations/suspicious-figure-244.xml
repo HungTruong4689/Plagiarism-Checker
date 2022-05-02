@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/figure-plagiarism/document.xsd" reference="suspicious-figure-244.jpg" language="en">
+  <feature name="tagged-document" reference="suspicious-document-244_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type="Exact copt" obfuscation="none"this_component="Shape0"source_reference="Source-figure-271_out.txt" source_component="Shape1" 
+<feature name="tagged-document" reference="suspicious-document-244_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type="Exact copt" obfuscation="none"this_component="Shape1"source_reference="Source-figure-271_out.txt" source_component="Shape2" 
+<feature name="tagged-document" reference="suspicious-document-244_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape2"source_reference="Source-figure-271_out.txt" source_component="Shape3" 
+<feature name="tagged-document" reference="suspicious-document-244_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type="Replace one word with synonymy’s,, remove 2 words " obfuscation="Medium"this_component="Shape3"source_reference="Source-figure-271_out.txt" source_component="Shape4" 
+<feature name="tagged-document" reference="suspicious-document-244_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type="Replace 2 word with synonymy’s,, change word orders" obfuscation="Medium"this_component="Shape4"source_reference="Source-figure-271_out.txt" source_component="Shape5" 
+<feature name="artificial-plagiarism" plag_type="Remove 2 words" obfuscation="Medium"this_component="Shape5"source_reference="Source-figure-271_out.txt" source_component="Shape6" 
+<feature name="artificial-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape6"source_reference="Source-figure-271_out.txt" source_component="Shape7" 
+<feature name="artificial-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape7"source_reference="Source-figure-271_out.txt" source_component="Shape8" 
+<feature name="artificial-plagiarism" plag_type="Exact copy" obfuscation="none"this_component="Shape8"source_reference="Source-figure-271_out.txt" source_component="Shape9" 
+
+
+  </document>

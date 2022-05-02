@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Processor ], coordinate = [ x = 802, y = 122, width = 149, height = 122 ], link_type = [ Line(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ Mode Selection Module ], coordinate = [ x = 131, y = 182, width = 148, height = 123 ], link_type = [ Line(1 : shape4) ]
+Shape2 : type = [Rectangle], text = [ FunctionControl Module ], coordinate = [ x = 433, y = 289, width = 149, height = 123 ], link_type = [ Line(1 : shape6) ]
+Shape3 : type = [Rectangle], text = [ Communication Module ], coordinate = [ x = 802, y = 289, width = 149, height = 123 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Power Determination Module ], coordinate = [ x = 131, y = 395, width = 148, height = 122 ], link_type = [ %s\%s_out.txt(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Battery ], coordinate = [ x = 130, y = 676, width = 149, height = 122 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [  Display ], coordinate = [ x = 433, y = 676, width = 149, height = 122 ], link_type = [  ]

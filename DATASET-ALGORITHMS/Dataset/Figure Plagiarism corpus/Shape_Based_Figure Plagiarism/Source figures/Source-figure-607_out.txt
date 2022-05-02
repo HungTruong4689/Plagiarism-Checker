@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Tmuma ActiVation Alerts ], coordinate = [ x = 307, y = 58, width = 172, height = 94 ], link_type = [ Line(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ Display ], coordinate = [ x = 54, y = 209, width = 173, height = 93 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Multi-Way Communications ], coordinate = [ x = 565, y = 207, width = 171, height = 93 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Usefs Console ], coordinate = [ x = 297, y = 212, width = 175, height = 94 ], link_type = [Multi-Line(1 : shape2,2 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Data Converter ], coordinate = [ x = 296, y = 371, width = 172, height = 92 ], link_type = [ Multi Flow(1 : shape5, 2 : shape6) ]
+Shape5 : type = [Rectangle], text = [ GPS Transclever ], coordinate = [ x = 483, y = 508, width = 172, height = 94 ], link_type = [ Line(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ GIS Transceiver? ], coordinate = [ x = 87, y = 513, width = 173, height = 93 ], link_type = [ Line(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Emergency Service)Vehleles ], coordinate = [ x = 288, y = 666, width = 173, height = 90 ], link_type = [  ]

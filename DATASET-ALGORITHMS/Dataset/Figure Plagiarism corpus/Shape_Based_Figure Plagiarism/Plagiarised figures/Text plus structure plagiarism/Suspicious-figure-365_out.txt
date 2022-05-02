@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Inspection planning ], coordinate = [ x = 84, y = 1, width = 147, height = 62 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Plannling to covera year assessment ], coordinate = [ x = 253, y = 55, width = 148, height = 62 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Frame work setup for assessment planning ], coordinate = [ x = 81, y = 100, width = 147, height = 108 ], link_type = [ Line(1 : shape5) ]
+Shape3 : type = [Rectangle], text = [ Recommended features of the planning system ], coordinate = [ x = 252, y = 174, width = 141, height = 95 ], link_type = [ ]
+Shape4 : type = [Rectangle], text = [ Finalizing the proposed framework ], coordinate = [ x = 254, y = 273, width = 147, height = 74 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Request for recommnended features ocpmtning frame Wort ], coordinate = [ x = 78, y = 319, width = 164, height = 89 ], link_type = [  ]

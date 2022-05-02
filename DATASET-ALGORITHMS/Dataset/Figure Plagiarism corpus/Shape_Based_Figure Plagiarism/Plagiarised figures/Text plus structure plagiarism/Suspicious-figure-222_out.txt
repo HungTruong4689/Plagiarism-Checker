@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ DETERMINE WALK OR RUN STEPS ], coordinate = [ x = 562, y = 166, width = 235, height = 72 ], link_type = [ Multi Flow(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Parallelogram], text = [ WALKING STEPS  ], coordinate = [ x = 306, y = 318, width = 234, height = 41 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Parallelogram], text = [ RUNNING STEPS  ], coordinate = [ x = 820, y = 318, width = 234, height = 41 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ ESTIMATE DISTANCE WALKED ], coordinate = [ x = 305, y = 395, width = 236, height = 73 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ ESTIMATE DISTANCE RUN ], coordinate = [ x = 819, y = 395, width = 236, height = 73 ], link_type = [ Next_TB(1 : shape6)]
+Shape5 : type = [Parallelogram], text = [ DISTANCE WALKED I ], coordinate = [ x = 306, y = 504, width = 234, height = 41 ], link_type = [ Next_TB(1 : shape7) ]
+Shape6 : type = [Parallelogram], text = [ DISTANCE RUN ], coordinate = [ x = 820, y = 504, width = 234, height = 41 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ DETERMINE TOTAL DISTANCE ], coordinate = [ x = 558, y = 625, width = 236, height = 72 ], link_type = [  ]

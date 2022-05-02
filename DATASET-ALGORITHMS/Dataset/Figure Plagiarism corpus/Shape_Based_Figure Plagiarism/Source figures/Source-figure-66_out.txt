@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ INFORMATION COLLECTOR ], coordinate = [ x = 308, y = 249, width = 266, height = 63 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [  KEYWORD-CANDIDATE EXTRACTING UNIT ], coordinate = [ x = 308, y = 423, width = 266, height = 60 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ RETRIEVAL INSTRUCTING UNIT ], coordinate = [ x = 309, y = 674, width = 266, height = 60 ], link_type = [  ]

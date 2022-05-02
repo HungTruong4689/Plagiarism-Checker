@@ -1,0 +1,8 @@
+Shape0 : type = [Parallelogram], text = [ Mask 602 ], coordinate = [ x = 453, y = 234, width = 201, height = 149 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Parallelogram], text = [ Image 600 ], coordinate = [ x = 54, y = 469, width = 223, height = 170 ], link_type = [ Multi Flow(1 : shape2, 2 : shape6) ]
+Shape2 : type = [Rectangle], text = [ Extract four oolor measurements from the image given the mask 604 ], coordinate = [ x = 373, y = 469, width = 317, height = 171 ], link_type = [ Multi Flow(1 : shape3, 2 : shape7) ]
+Shape3 : type = [Rectangle], text = [ For each of the fourmask orientations, test the X-junction constraints 606 ], coordinate = [ x = 819, y = 469, width = 273, height = 171 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Mark center pixel as X-junction 610 ], coordinate = [ x = 785, y = 671, width = 260, height = 114 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Diamond], text = [ Orientation Pass? ], coordinate = [ x = 1106, y = 654, width = 215, height = 147 ], link_type = [ ]
+Shape6 : type = [Rectangle], text = [ Optionally, sub sample the image and repeat the process on the lower resolution image 614 ], coordinate = [ x = 19, y = 740, width = 294, height = 162 ], link_type = [ Line(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Continue to next possible mask location until all mask locations have been tested 612 ], coordinate = [ x = 372, y = 742, width = 318, height = 160 ], link_type = [  ]

@@ -1,0 +1,4 @@
+Shape0 : type = [Parallelogram], text = [ Given: Token List Token Graph Maximum distance DW2 808 ], coordinate = [ x = 343, y = 5, width = 505, height = 138 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ For each token Ti, find all unique sets of N tokens that include T; within Dmx of Ti 810 ], coordinate = [ x = 310, y = 244, width = 571, height = 102 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Add each set of N tokens into an Nth-order token set,avoiding duplicate entries 812 ], coordinate = [ x = 294, y = 448, width = 605, height = 110 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Output set of Nth order tokens for the image area 814 ], coordinate = [ x = 302, y = 662, width = 568, height = 104 ], link_type = [  ]

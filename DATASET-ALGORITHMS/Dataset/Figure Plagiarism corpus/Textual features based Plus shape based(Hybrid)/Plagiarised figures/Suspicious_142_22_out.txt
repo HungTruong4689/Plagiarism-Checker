@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ « web service: Monitor], coordinate = [ x = 30, y = 11, width = 112, height = 59 ], link_type = [ Next_RL(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ << web service »Analyzer ], coordinate = [ x = 326, y = 11, width = 111, height = 58 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ « DK Plug-in Decision maker Â»Decism Maker ], coordinate = [ x = 387, y = 111, width = 112, height = 59 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ Decision King ], coordinate = [ x = 357, y = 153, width = 111, height = 58 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ « DK Plug-in» Adaptor ], coordinate = [ x = 329, y = 195, width = 115, height = 58 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Component Measure instrument for web services ], coordinate = [ x = 30, y = 211, width = 111, height = 59 ], link_type = [  ]

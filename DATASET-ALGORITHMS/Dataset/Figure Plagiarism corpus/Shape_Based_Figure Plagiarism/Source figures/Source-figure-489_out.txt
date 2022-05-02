@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 373, y = 14, width = 116, height = 57 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Collecting Data. ], coordinate = [ x = 120, y = 113, width = 627, height = 59 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Analyzing the Data. ], coordinate = [ x = 119, y = 213, width = 626, height = 59 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Generating a New Discrete Program and/or Scriptfrom the Analyzed Data. ], coordinate = [ x = 118, y = 313, width = 627, height = 106 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Transferring the New Discrete Program and/or Script. ], coordinate = [ x = 117, y = 460, width = 626, height = 98 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Utilizing the New Discrete Program and/or Script. ], coordinate = [ x = 116, y = 599, width = 626, height = 59 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ End ], coordinate = [ x = 355, y = 702, width = 147, height = 71 ], link_type = [  ]

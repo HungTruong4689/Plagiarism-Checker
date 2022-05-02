@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Perform Request To Identify Deformable Objects Visible To AI Character ], coordinate = [ x = 252, y = 157, width = 444, height = 122 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Request Speculative Physics Simulation of Speculative Actions On Deformable Objects ], coordinate = [ x = 251, y = 345, width = 444, height = 123 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [  Receive Simulation Results ], coordinate = [ x = 251, y = 534, width = 443, height = 83 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ incorporate Results Into Graph Of Potential Actions ], coordinate = [ x = 250, y = 684, width = 443, height = 83 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Select Action Having Lowest Cost ], coordinate = [ x = 250, y = 834, width = 443, height = 84 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Perform Selected Action ], coordinate = [ x = 250, y = 983, width = 443, height = 66 ], link_type = [  ]

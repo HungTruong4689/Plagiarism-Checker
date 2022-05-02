@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ WEB PAGEI P0 ], coordinate = [ x = 649, y = 115, width = 161, height = 121 ], link_type = [ Line(1 : shape4)  ]
+Shape1 : type = [Rectangle], text = [ WEB PAGE Pl], coordinate = [ x = 368, y = 347, width = 161, height = 120 ], link_type = [ Multi Line(1 : shape2, 2 : shape3, 3 : shape4) ]
+Shape2 : type = [Rectangle], text = [ WEB PAGE P2 ], coordinate = [ x = 100, y = 546, width = 159, height = 119 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ WEB PAGE P3 ], coordinate = [ x = 368, y = 544, width = 161, height = 120 ], link_type = [ Multi Line(1 : shape5, 2 : shape6) ]
+Shape4 : type = [Rectangle], text = [ WEB PAGE P4  ], coordinate = [ x = 646, y = 543, width = 160, height = 119 ], link_type = [ Line(1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ WEB PAGE P5 ], coordinate = [ x = 367, y = 737, width = 162, height = 120 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ WEB PAGE P6 ], coordinate = [ x = 646, y = 735, width = 161, height = 120 ], link_type = [  ]

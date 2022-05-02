@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ é POST-REG|ON-1D|VISION DATA 1BASE 1 ], coordinate = [ x = 102, y = 117, width = 264, height = 138 ], link_type = [ Next_RL(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ NORMARIZE DATA, OF POST-REG|ON-1DlVlSlON DATA BASE ], coordinate = [ x = 459, y = 115, width = 335, height = 147 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ SELECT REGION ], coordinate = [ x = 494, y = 334, width = 267, height = 101 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [  SELECT OBJECT1 POINT IN THEREGION ], coordinate = [ x = 496, y = 501, width = 266, height = 135 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ WIRING FUNCTION I3 DATA BASE ], coordinate = [ x = 106, y = 707, width = 297, height = 137 ], link_type = [ Next_RL(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ CALCULATE WIRING‘FUNCTIONS (FIG.4)j._.__I ], coordinate = [ x = 463, y = 708, width = 334, height = 138 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Diamond], text = [ 37S COMPUTATION ONALL POINTS IN THEEG|ON7ENDED ], coordinate = [ x = 383, y = 925, width = 490, height = 200 ], link_type = [ Decision(1 : shape7) ]
+Shape7 : type = [Diamond], text = [ 38IS COMPUTATIONON ALL REGIONSENDED ? ], coordinate = [ x = 420, y = 1195, width = 423, height = 199 ], link_type = [  ]

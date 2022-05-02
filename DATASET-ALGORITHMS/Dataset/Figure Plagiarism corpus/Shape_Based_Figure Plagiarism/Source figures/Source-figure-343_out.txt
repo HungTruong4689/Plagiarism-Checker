@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ FOR EACH ENCLOSED SEGMENT IN THESHAPE CALCULATE AVERAGE CURVATUREAND FIRST AND SECOND MOMENTS FROMSHAPE CURVATURE HISTOGRAM ], coordinate = [ x = 202, y = 57, width = 378, height = 105 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ COMPARE EACH ENCLOSED CONTOURSEGMENT OF THE MODEL IMAGE AGAINSTTHE TRAINED IMAGE USING AVERAGECURVATURE, FIRST AND SECONDMOMENTS, SEGMENT PIXEL COUNT ANDSIGN OF TOTAL SEGMENT CURVATURE ], coordinate = [ x = 202, y = 198, width = 378, height = 145 ], link_type = [ Next_TB(1 : shape2 ) ]
+Shape2 : type = [Diamond], text = [ MATCH SUCCESSFUL WITH FOUND DISPLACEMENT ? ], coordinate = [ x = 265, y = 380, width = 252, height = 171 ], link_type = [ Decision(1 : shape3, 2 : shape4) ]
+Shape3 : type = [Rectangle], text = [ MARK DISPLACEMENT AS INVALID ], coordinate = [ x = 629, y = 428, width = 145, height = 86 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ DOUBLE CHECKUSING VISION TOOLS ], coordinate = [ x = 286, y = 592, width = 205, height = 68 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Diamond], text = [ BETTER FIT ], coordinate = [ x = 308, y = 706, width = 167, height = 129 ], link_type = [ Decision(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ DETERMINE FINAL DISFLACEMENTS AND REMOVE SINGULAR VALUES WITH FILTER ], coordinate = [ x = 28, y = 711, width = 164, height = 163 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Source Doc ], coordinate = [ x = 57, y = 25, width = 230, height = 58 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Retrieval], coordinate = [ x = 57, y = 121, width = 229, height = 56 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Conversion ], coordinate = [ x = 57, y = 212, width = 230, height = 60 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Cached source Doc ], coordinate = [ x = 57, y = 317, width = 229, height = 58 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Filtering ], coordinate = [ x = 57, y = 414, width = 229, height = 58 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Converted source Doc], coordinate = [ x = 58, y = 510, width = 229, height = 58 ], link_type = [  ]

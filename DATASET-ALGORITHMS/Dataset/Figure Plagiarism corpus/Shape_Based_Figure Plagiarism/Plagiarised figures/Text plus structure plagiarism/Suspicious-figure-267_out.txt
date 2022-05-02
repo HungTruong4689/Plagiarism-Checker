@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Monitor 20 ], coordinate = [ x = 105, y = 131, width = 181, height = 116 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ CPU 12  ], coordinate = [ x = 384, y = 130, width = 350, height = 206 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Camera ], coordinate = [ x = 828, y = 128, width = 180, height = 116 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Printer22 ], coordinate = [ x = 830, y = 373, width = 181, height = 116 ], link_type = [  ]

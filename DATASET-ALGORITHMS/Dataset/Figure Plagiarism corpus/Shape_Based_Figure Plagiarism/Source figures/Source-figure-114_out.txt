@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ SourceDocuments ], coordinate = [ x = 75, y = 28, width = 136, height = 66 ], link_type = [ Next_TB(1 : shape4) ]
+Shape1 : type = [Rectangle], text = [ information Extraction ], coordinate = [ x = 450, y = 136, width = 138, height = 73 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Curation ], coordinate = [ x = 626, y = 135, width = 120, height = 74 ], link_type = [ Next_LR(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Export ], coordinate = [ x = 792, y = 135, width = 119, height = 74 ], link_type = [ Line(1 : shape6) ]
+Shape4 : type = [Rectangle], text = [ Retrieve ], coordinate = [ x = 76, y = 139, width = 136, height = 73 ], link_type = [ Next_LR(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Classification Filter ], coordinate = [ x = 258, y = 139, width = 154, height = 71 ], link_type = [ Next_LR(1 : shape1)  ]
+Shape6 : type = [Rectangle], text = [ Target DB ], coordinate = [ x = 804, y = 247, width = 97, height = 78 ], link_type = [  ]

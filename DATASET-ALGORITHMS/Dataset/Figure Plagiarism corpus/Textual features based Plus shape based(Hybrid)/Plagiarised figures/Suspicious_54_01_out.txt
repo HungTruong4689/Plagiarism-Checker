@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Context of use], coordinate = [ x = 100, y = 0, width = 349, height = 29 ], link_type = [ ]
+Shape1 : type = [Rectangle], text = [ Fundamental services and persistent Data Structures], coordinate = [ x = 100, y = 67, width = 349, height = 31 ], link_type =[ ]
+Shape2 : type = [Rectangle], text = [ O,S ], coordinate = [ x = 115, y = 124, width = 56, height = 31 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Platforms ], coordinate = [ x = 188, y = 124, width = 85, height = 31 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [  Libaries], coordinate = [ x = 291, y = 124, width = 56, height = 31 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Network ], coordinate = [ x = 364, y = 124, width = 71, height = 31 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Hardware | ], coordinate = [ x = 115, y = 159, width = 320, height = 30 ], link_type = [  ]

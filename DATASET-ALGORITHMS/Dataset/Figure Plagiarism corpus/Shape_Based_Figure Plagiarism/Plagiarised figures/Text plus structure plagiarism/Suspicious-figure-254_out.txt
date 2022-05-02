@@ -1,0 +1,5 @@
+Shape0 : type = [Parallelogram], text = [ Begin Constraint Process  ], coordinate = [ x = 77, y = 23, width = 288, height = 45 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Parallelogram], text = [ Input Constraint ], coordinate = [ x = 89, y = 104, width = 254, height = 48 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Parallelogram], text = [ Check Syntax of Constraint ], coordinate = [ x = 62, y = 182, width = 314, height = 48 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Parallelogram], text = [ Translate Constraint ], coordinate = [ x = 79, y = 267, width = 275, height = 47 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Parallelogram], text = [ Store Constraint ], coordinate = [ x = 100, y = 349, width = 233, height = 48 ], link_type = [  ]

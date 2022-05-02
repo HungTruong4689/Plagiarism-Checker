@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ EXTRACT INPUT PIATE IMAGE BITMAP DATA ], coordinate = [ x = 35, y = 101, width = 396, height = 115 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ SEGMENT INPUT ITMAP INTO TEXT REGION BITMAP DATA AND OUTERREGION BITMAP DATA ], coordinate = [ x = 35, y = 265, width = 396, height = 115 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ MATCH INPUT TEXT REGION AGAINST TEMPIATE TEXT REGION ], coordinate = [ x = 35, y = 429, width = 396, height = 115 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ MATCH INPUT OUTER REGION AGAINST TEMPLATE OUTER REGION ], coordinate = [ x = 35, y = 593, width = 396, height = 116 ], link_type = [  ]

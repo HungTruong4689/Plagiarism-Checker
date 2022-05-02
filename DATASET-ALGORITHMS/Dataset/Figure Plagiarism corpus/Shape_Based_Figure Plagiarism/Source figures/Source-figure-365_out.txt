@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ INPUT IMAGE ], coordinate = [ x = 28, y = 183, width = 645, height = 69 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Quadrangle], text = [ SELECT IMAGE DIVISION METHOD ], coordinate = [ x = 28, y = 310, width = 646, height = 74 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ DIVIDE IMAGE INTO REGIONS ACCORDING TO IMAGE DIVISION METHOD ], coordinate = [ x = 30, y = 442, width = 644, height = 96 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ APPLY IMAGE PROCESSING TO RESPECTIVE SMALL REGION IMAGE TO EXTRACT FEATURE ], coordinate = [ x = 30, y = 595, width = 644, height = 125 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Quadrangle], text = [THERE IS ANY IMAGE DIVIDING METHOD THAT HAS NOT BEENSELECTED? ], coordinate = [ x = 41, y = 753, width = 621, height = 236 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ APPLY FEATURE INTEGRATION PROCESSING ], coordinate = [ x = 30, y = 1024, width = 642, height = 97 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ OUTPUT RESULT ], coordinate = [ x = 30, y = 1178, width = 642, height = 82 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ END ], coordinate = [ x = 295, y = 1296, width = 132, height = 69 ], link_type = [  ]

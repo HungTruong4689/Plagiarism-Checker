@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><document reference="suspicious-figure-23.txt" language="en">
+
+
+<feature name="tagged-document" reference="suspicious-figure-23.xml" language="en" />
+
+<feature name="artificial-plagiarism" plag_type="Structure plagiarism : Change link type type"obfuscation="Simple"this_component="Shape0"source_reference="Source-figure-616_out.txt" source_component="Shape0" 
+
+<feature name="artificial-plagiarism" plag_type="Structure plagiarism : Change link type type"obfuscation="Simple"this_component="Shape2"source_reference="Source-figure-616_out.txt" source_component="Shape2" 
+
+<feature name="artificial-plagiarism" plag_type="Structure plagiarism : Change link type type"obfuscation="Simple"this_component="Shape3"source_reference="Source-figure-616_out.txt" source_component="Shape3" 
+<feature name="artificial-plagiarism" plag_type="Structure plagiarism : Change link type type"obfuscation="Simple"this_component="Shape4"source_reference="Source-figure-616_out.txt" source_component="Shape4" 
+
+<feature name="artificial-plagiarism" plag_type="Structure plagiarism : Change link type type"obfuscation="Simple"this_component="Shape5"source_reference="Source-figure-616_out.txt" source_component="Shape5" 
+</document>

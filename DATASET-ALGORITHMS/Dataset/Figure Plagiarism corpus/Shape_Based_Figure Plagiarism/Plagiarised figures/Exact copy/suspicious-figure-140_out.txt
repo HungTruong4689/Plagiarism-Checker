@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ What-Where filter ], coordinate = [ x = 178, y = 101, width = 99, height = 83 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Log Gahor Filters ], coordinate = [ x = 375, y = 100, width = 106, height = 83 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Spatial pyramid Matching], coordinate = [ x = 562, y = 100, width = 106, height = 83 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ support vector Machine ], coordinate = [ x = 275, y = 325, width = 106, height = 83 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ k-Nearst Neighbor ], coordinate = [ x = 494, y = 325, width = 96, height = 82 ], link_type = [  ]

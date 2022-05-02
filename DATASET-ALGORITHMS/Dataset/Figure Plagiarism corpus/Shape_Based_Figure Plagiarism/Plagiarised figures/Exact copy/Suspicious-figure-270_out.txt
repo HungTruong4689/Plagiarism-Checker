@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ SECURITY FILTER  ], coordinate = [ x = 120, y = 116, width = 105, height = 62 ], link_type = [ Double Arrow(1:shape1) ]
+Shape1 : type = [Rectangle], text = [ SECURITY EXTENSION ], coordinate = [ x = 274, y = 115, width = 119, height = 62 ], link_type = [Double Arrow(1:shape2)   ]
+Shape2 : type = [Rectangle], text = [ SECURITY PLUG_IN], coordinate = [ x = 441, y = 114, width = 105, height = 62 ], link_type = [  ]

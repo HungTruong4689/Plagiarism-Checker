@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Identify Event(s) (killed, mission failed, mission completed, etc.) ], coordinate = [ x = 151, y = 151, width = 1013, height = 80 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Conduct Real time Analysis of Game Activity ], coordinate = [ x = 151, y = 295, width = 1012, height = 80 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Engage Player (display, dialogue, analytics, etc.) ], coordinate = [ x = 151, y = 441, width = 1013, height = 80 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Present Game Analysis to Player  ], coordinate = [ x = 151, y = 586, width = 1013, height = 79 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Make Offers, Suggestions, Recommendations, etc. ], coordinate = [ x = 151, y = 730, width = 1013, height = 80 ], link_type = [  ]

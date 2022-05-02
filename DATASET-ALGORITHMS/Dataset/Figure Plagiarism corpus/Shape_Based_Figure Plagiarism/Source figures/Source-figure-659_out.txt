@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Receive mobile image and height and width parameters ], coordinate = [ x = 130, y = 22, width = 233, height = 165 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Identify corners of sub-image ], coordinate = [ x = 130, y = 240, width = 233, height = 164 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Compute sub-image average width], coordinate = [ x = 130, y = 453, width = 233, height = 165 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Compute sub~image average height  ], coordinate = [ x = 130, y = 668, width = 233, height = 165 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Normalize the average width and average height values], coordinate = [ x = 530, y = 668, width = 234, height = 165 ], link_type = [  ]
+Shape5 : type = [Parallelogram], text = [ Determine minimum average Value], coordinate = [ x = 130, y = 890, width = 233, height = 165 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Return test results], coordinate = [ x = 130, y = 1137, width = 233, height = 165 ], link_type = [  ]

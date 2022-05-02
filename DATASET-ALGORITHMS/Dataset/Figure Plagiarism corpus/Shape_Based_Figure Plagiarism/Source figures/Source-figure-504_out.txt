@@ -1,0 +1,3 @@
+Shape0 : type = [Parallelogram], text = [ Triggering a data acquisition unit to acquire medical datafrom a medical information system 405 ], coordinate = [ x = 69, y = 23, width = 383, height = 204 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Acquiring the medical data from the medical information system 410 ], coordinate = [ x = 68, y = 305, width = 383, height = 167 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Displaying the medical data in a video display unit in a selected format 4l5 ], coordinate = [ x = 67, y = 571, width = 383, height = 160 ], link_type = [  ]

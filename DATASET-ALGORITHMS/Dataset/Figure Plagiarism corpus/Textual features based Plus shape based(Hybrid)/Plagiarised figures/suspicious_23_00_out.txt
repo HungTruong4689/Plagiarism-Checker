@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ Locally linear controller ], coordinate = [ x = 121, y = 26, width = 84, height = 63 ], link_type = [ Multi flow(1 : shape1, 2 : shpe2) ]
+Shape1 : type = [Rectangle], text = [ Process ], coordinate = [ x = 284, y = 29, width = 59, height = 57 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Locally linear model ], coordinate = [ x = 241, y = 101, width = 85, height = 61 ], link_type = [  ]

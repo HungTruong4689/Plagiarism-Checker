@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ LABEL EXTRACTION MODEL UPDATE METHOD ], coordinate = [ x = 159, y = 34, width = 527, height = 130 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RETRIEVE A RECEIPT FROM THE BPO QUEUE ], coordinate = [ x = 181, y = 244, width = 483, height = 129 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ UPDATE THE ITEMIZE DATABASE WITH THE RETRIEVED RECEIPT'S DETAILS ], coordinate = [ x = 64, y = 453, width = 717, height = 130 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ UPDATE THE RECEIPT EXTRACTION MODEL USING THE TRAINING DATA ], coordinate = [ x = 106, y = 662, width = 634, height = 131 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ END ], coordinate = [ x = 331, y = 871, width = 184, height = 73 ], link_type = [  ]

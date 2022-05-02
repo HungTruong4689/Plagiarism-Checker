@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/figure-plagiarism/document.xsd" reference="suspicious-figure-197.jpg" language="en">
+  <feature name="tagged-document" reference="suspicious-document-197_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type="exact copy " obfuscation="Simple"this_component="Shape0"source_reference="Source-figure-37_out.txt" source_component="Shape1" 
+
+  <feature name="tagged-document" reference="suspicious-document-197_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type="Exact copy" obfuscation="None"this_component="Shape1"source_reference="Source-figure-37_out.txt" source_component="Shape3" 
+
+  <feature name="tagged-document" reference="suspicious-document-197_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type="exact copy ,Change link type type" obfuscation="Medium"this_component="Shape2"source_reference="Source-figure-37_out.txt" source_component="Shape0" 
+
+<feature name="tagged-document" reference="suspicious-document-197_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type="change shape" obfuscation="Medium"this_component="Shape3"source_reference="Source-figure-37_out.txt" source_component="Shape2" 
+
+<feature name="tagged-document" reference="suspicious-document-197_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" Change shape type" obfuscation="Medium"this_component="Shape4"source_reference="Source-figure-37_out.txt" source_component="Shape4" 
+
+      </document>

@@ -1,0 +1,6 @@
+Shape0 : type = [SQUARE], text = [ Image Database10 ], coordinate = [ x = 103, y = 79, width = 171, height = 170 ], link_type = [ Next_LR(1 : shape1)]
+Shape1 : type = [Rectangle], text = [ Similarity engine 12 ], coordinate = [ x = 434, y = 84, width = 253, height = 171 ], link_type = [ Multi Line(1 : shape2, 2 : shape3) ]
+Shape2 : type = [SQUARE], text = [ Colouranaly sismodule 14 ], coordinate = [ x = 386, y = 329, width = 159, height = 170 ], link_type = [  ]
+Shape3 : type = [SQUARE], text = [ Neural network 16 ], coordinate = [ x = 581, y = 329, width = 159, height = 169 ], link_type = [  ]
+Shape4 : type = [SQUARE], text = [ Patch extractor 18 ], coordinate = [ x = 471, y = 562, width = 161, height = 170 ], link_type = [ Line(1:shape5) ]
+Shape5 : type = [SQUARE], text = [ Interface 20 ], coordinate = [ x = 136, y = 573, width = 159, height = 169 ], link_type = [  ]

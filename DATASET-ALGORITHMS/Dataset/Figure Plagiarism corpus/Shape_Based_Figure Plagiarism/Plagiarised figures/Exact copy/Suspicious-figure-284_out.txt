@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [  Client Device], coordinate = [ x = 46, y = 18, width = 79, height = 132 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Net work Device ], coordinate = [ x = 265, y = 138, width = 83, height = 128 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Client Device], coordinate = [ x = 46, y = 177, width = 78, height = 131 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Central Aumenhcalion Server], coordinate = [ x = 452, y = 255, width = 112, height = 130 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Client Device ], coordinate = [ x = 46, y = 326, width = 79, height = 126 ], link_type = [ ]
+Shape5 : type = [Rectangle], text = [ Network Device  ], coordinate = [ x = 265, y = 366, width = 84, height = 121 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Client Device}:25 ], coordinate = [ x = 48, y = 469, width = 78, height = 130 ], link_type = [  ]

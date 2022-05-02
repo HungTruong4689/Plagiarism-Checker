@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ SET maxmum KEY-PHASE LENGTH N ], coordinate = [ x = 105, y = 138, width = 465, height = 94 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ SET LATENT CLASS PROBABILITIES FOR REGIONS P(Z|r) ], coordinate = [ x = 105, y = 292, width = 465, height = 94 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ SET PRDBABILITIES P(ki|r) BASEDON PROBABILITY OF KEY-PHRASE OVERLATENT CLASS AND PROBABILITY OF LATENTCLASS OVER REGION WHERE Ki CONSISTS IOF UP TO N WORDS ], coordinate = [ x = 106, y = 446, width = 464, height = 194 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ NORMALIZE PROBABIUTIES BASED ON; KEY-PHRASE LENGTH ], coordinate = [ x = 106, y = 700, width = 465, height = 95 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ RANK KEY-PHRASE k BASED oN ASTATISTICAL MEASURE or CHARACTERIZATION/DIFFERENTIATION  ], coordinate = [ x = 106, y = 854, width = 465, height = 127 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ SET DISCRETE KEY-PHRASE BASEDSUMMARY BASED ON KEY-PHRASE RANKING ], coordinate = [ x = 107, y = 1041, width = 465, height = 95 ], link_type = [  ]

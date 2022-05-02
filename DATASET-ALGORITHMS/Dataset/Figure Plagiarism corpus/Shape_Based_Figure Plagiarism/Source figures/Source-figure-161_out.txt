@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ Receiver], coordinate = [ x = 212, y = 67, width = 150, height = 139 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ TV/VCRA: J10ENGINEREMOTE 5oCONTROL .21/0 DEVICE ], coordinate = [ x = 504, y = 68, width = 268, height = 283 ], link_type = [  ]

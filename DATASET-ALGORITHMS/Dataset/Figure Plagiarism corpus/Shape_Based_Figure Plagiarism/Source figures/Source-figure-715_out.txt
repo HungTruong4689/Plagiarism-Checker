@@ -1,0 +1,8 @@
+Shape0 : type = [Diamond], text = [IS THEAUTHENTICATION TOKEN OF THE CLIENT RESPONSE VALID ], coordinate = [ x = 236, y = 124, width = 309, height = 113 ], link_type = [ Decision(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ REJECT THE CLIENT ], coordinate = [ x = 605, y = 148, width = 146, height = 67 ], link_type = [  ]
+Shape2 : type = [Diamond], text = [  TOKEN EXPIRED? ], coordinate = [ x = 236, y = 269, width = 309, height = 113 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ CLIENT Is A WEB BROWSER], coordinate = [ x = 237, y = 414, width = 309, height = 113 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ READIRECT THE CLIENT TO SECURITY EXTENSION ILET} ], coordinate = [ x = 43, y = 545, width = 294, height = 75 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ RESPOND TO CLIENT WITH FAILURE STATUS ], coordinate = [ x = 392, y = 546, width = 266, height = 74 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [  ALLOW THE CLIENT TO INSERT A SESSION CERTIFICATE AS IHTTP,LDMSCevt VARIABLE ], coordinate = [ x = 392, y = 638, width = 266, height = 101 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ RESUBMIT THE REQUESTTO THE MANAGED NODE ], coordinate = [ x = 393, y = 757, width = 266, height = 75 ], link_type = [  ]

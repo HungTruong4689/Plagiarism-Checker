@@ -1,0 +1,1 @@
+Shape0 : type = [Rectangle], text = [ Query mapping component ], coordinate = [ x = 282, y = 7, width = 79, height = 79 ], link_type = [  ]

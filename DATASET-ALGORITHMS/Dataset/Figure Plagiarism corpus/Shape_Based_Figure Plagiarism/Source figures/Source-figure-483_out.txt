@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Input of Ihe distance is ], coordinate = [ x = 160, y = 147, width = 388, height = 94 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Normalisation of the positions of the original recording device ], coordinate = [ x = 161, y = 319, width = 387, height = 90 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Calculation of the positions of the original recording device ], coordinate = [ x = 162, y = 488, width = 386, height = 90 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Calculation of the distances of the virtual recording device from the positions at the original recording device ], coordinate = [ x = 163, y = 657, width = 387, height = 120 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Inversion of the normalisation of the position for the virtual recording device ], coordinate = [ x = 161, y = 825, width = 389, height = 92 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Determination of the projection matrioesoi the original recording device and of the virtual recording device ], coordinate = [ x = 161, y = 995, width = 388, height = 92 ], link_type = [ Line(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ END ], coordinate = [ x = 316, y = 1167, width = 74, height = 62 ], link_type = [  ]

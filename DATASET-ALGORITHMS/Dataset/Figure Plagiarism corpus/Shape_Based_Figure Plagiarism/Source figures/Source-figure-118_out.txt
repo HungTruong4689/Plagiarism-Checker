@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ TRIAGE COMPONENT ], coordinate = [ x = 332, y = 49, width = 211, height = 114 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ GEOCODING COMPONENT ], coordinate = [ x = 332, y = 263, width = 211, height = 115 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ GEOCODERS1...N ], coordinate = [ x = 636, y = 264, width = 211, height = 113 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ RESULTS COMPONENT ], coordinate = [ x = 332, y = 478, width = 211, height = 114 ], link_type = [  ]

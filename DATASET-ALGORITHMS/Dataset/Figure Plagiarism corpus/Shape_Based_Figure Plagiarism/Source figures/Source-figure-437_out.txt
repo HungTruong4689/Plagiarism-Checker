@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Message That You Are Living Beyond Your Means ], coordinate = [ x = 404, y = 152, width = 221, height = 94 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Allordable Monthly Payments = 0 ], coordinate = [ x = 403, y = 300, width = 224, height = 87 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Diamond], text = [ change your information? ], coordinate = [ x = 302, y = 429, width = 424, height = 85 ], link_type = [ Decision(1:shape3) ]
+Shape3 : type = [Rectangle], text = [ Change Income or Monthly Expenses to Desired Setting ], coordinate = [ x = 63, y = 524, width = 294, height = 88 ], link_type = [  ]

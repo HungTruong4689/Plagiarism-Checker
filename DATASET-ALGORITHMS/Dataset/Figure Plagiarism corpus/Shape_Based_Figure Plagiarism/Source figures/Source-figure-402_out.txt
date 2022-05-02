@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ I EXTRACT TEXT REGIONS IN IMAGE TO BE DISPLAYED ], coordinate = [ x = 37, y = 25, width = 377, height = 68 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ CALCULATE TEXT OCCUPANCY AMOUNT IN THE IMAG ], coordinate = [ x = 38, y = 155, width = 376, height = 65 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ COMPARE THE CALCULATED AMOUNT WITH PREDETERMINED THRESHOLD ], coordinate = [ x = 38, y = 280, width = 376, height = 71 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ IF THE AMOUNT EXCEIdS THE PREDETERMINED THRESHOLD, THE IMAGE DISPLAVED IN ITS REAL SIZE ], coordinate = [ x = 38, y = 413, width = 376, height = 89 ], link_type = [  ]

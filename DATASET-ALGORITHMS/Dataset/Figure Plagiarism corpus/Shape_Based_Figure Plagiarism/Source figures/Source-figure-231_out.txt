@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 325, y = 104, width = 105, height = 46 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Quadrangle], text = [  DISPLAY QUERY INPUT SCREEN ], coordinate = [ x = 59, y = 186, width = 631, height = 49 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ GENERATE DATA OF RETRIEVAL REQUEST ], coordinate = [ x = 59, y = 270, width = 631, height = 48 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ EXECUTE RETRIEVAL/TRANSMIT RETRIEVAL REQUEST ], coordinate = [ x = 59, y = 354, width = 631, height = 48 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ ACQUIRE RETRIEVAL RESULT ], coordinate = [ x = 59, y = 438, width = 630, height = 47 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ DISPLAY INTEGRATED RETRIEVAL RESULT ], coordinate = [ x = 59, y = 521, width = 630, height = 49 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ END ], coordinate = [ x = 324, y = 605, width = 102, height = 45 ], link_type = [  ]

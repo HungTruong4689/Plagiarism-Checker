@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [RECIEVE DIGITAL CONTENT ], coordinate = [ x = 213, y = 110, width = 194, height = 53 ], link_type = [ Next_TB(1:shape1) ]
+Shape1 : type = [Rectangle], text = [ STORE DVGITAL CONTENT ], coordinate = [ x = 214, y = 176, width = 193, height = 52 ], link_type = [Next(1:shape2)   ]
+Shape2 : type = [Diamond], text = [ CLASSIFY CONTENT], coordinate = [ x = 238, y = 243, width = 145, height = 95 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ RECEWVE A TRUSTED VOCHER], coordinate = [ x = 94, y = 374, width = 194, height = 52 ], link_type = [ Next_TB(1:shape4)    ]
+Shape4 : type = [Rectangle], text = [ STORE THE TRUSTED VOCUCHER ], coordinate = [ x = 94, y = 440, width = 194, height = 52 ], link_type = [  Next(1:shape5)     ]
+Shape5 : type = [Rectangle], text = [ RESTRICT USAGE BASED ON THE TRUSTED VOUCHER], coordinate = [ x = 94, y = 506, width = 194, height = 52 ], link_type = [  ]

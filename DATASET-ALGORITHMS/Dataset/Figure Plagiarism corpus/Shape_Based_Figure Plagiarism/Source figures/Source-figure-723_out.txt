@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ I/O POR: ], coordinate = [ x = 475, y = 109, width = 103, height = 39 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ DATA PROCESSING MEANS], coordinate = [ x = 78, y = 248, width = 158, height = 127 ], link_type = [Double Arrow(1:shape2)  ]
+Shape2 : type = [Rectangle], text = [ MEMORY MEANS DEVICE TRACKING MEANS   ], coordinate = [ x = 277, y = 185, width = 278, height = 263 ], link_type = [  ]

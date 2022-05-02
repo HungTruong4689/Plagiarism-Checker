@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ INPUT DEVICE], coordinate = [ x = 19, y = 208, width = 247, height = 128 ], link_type = [ Line(1 : shape4)  ]
+Shape1 : type = [Rectangle], text = [ CPU  ], coordinate = [ x = 332, y = 358, width = 247, height = 128 ], link_type = [ Line(1 : shape5) ]
+Shape2 : type = [Rectangle], text = [ SOURCE FIGURE DATA  ], coordinate = [ x = 709, y = 388, width = 311, height = 67 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ TARGET FIGURE DATA ], coordinate = [ x = 709, y = 478, width = 312, height = 67 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ OUTPUT DEVICE ], coordinate = [ x = 19, y = 510, width = 248, height = 127 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ MAIN STORAGE ], coordinate = [ x = 333, y = 600, width = 247, height = 127 ], link_type = [  ]

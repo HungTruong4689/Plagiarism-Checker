@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Video Source ], coordinate = [ x = 340, y = 27, width = 226, height = 120 ], link_type = [  Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Video Capture Board ], coordinate = [ x = 340, y = 234, width = 226, height = 119 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Peripheral Device 216 ], coordinate = [ x = 73, y = 347, width = 226, height = 119 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Peripheral Device  ], coordinate = [ x = 606, y = 573, width = 228, height = 120 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Processor ], coordinate = [ x = 74, y = 722, width = 226, height = 121 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Bus Bridge ], coordinate = [ x = 378, y = 722, width = 226, height = 121 ], link_type = [ Line(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ System Memory ], coordinate = [ x = 380, y = 876, width = 222, height = 117 ], link_type = [  ]

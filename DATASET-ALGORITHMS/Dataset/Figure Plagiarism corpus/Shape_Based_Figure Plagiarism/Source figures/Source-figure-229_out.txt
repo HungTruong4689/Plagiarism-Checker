@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ CPU ], coordinate = [ x = 286, y = 131, width = 174, height = 67 ], link_type = [ Multi-Line(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ INPUT UNIT ], coordinate = [ x = 138, y = 249, width = 175, height = 96 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [  HDD], coordinate = [ x = 431, y = 250, width = 176, height = 96 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ RAM ], coordinate = [ x = 138, y = 368, width = 174, height = 96 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ OPTICAL DISC DRIVE ], coordinate = [ x = 431, y = 369, width = 175, height = 96 ], link_type = [ Line(1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ DISPLAY UNIT ], coordinate = [ x = 137, y = 488, width = 175, height = 95 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [  COMMUNICATION UNIT ], coordinate = [ x = 430, y = 489, width = 175, height = 95 ], link_type = [  ]

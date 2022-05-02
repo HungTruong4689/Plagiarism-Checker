@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Positive/Negative User Profile], coordinate = [ x = 126, y = -1, width = 143, height = 72 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Learning Agent ], coordinate = [ x = 10, y = 80, width = 146, height = 41 ], link_type = [ Next_BT(1 : shape0) ]
+Shape2 : type = [Rectangle], text = [ Query String Generator with GA ], coordinate = [ x = 224, y = 90, width = 177, height = 65 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ User Input Feedback ], coordinate = [ x = 10, y = 146, width = 195, height = 42 ], link_type = [ Next_BT(1 : shape1)  ]
+Shape4 : type = [Rectangle], text = [ Webpage Process& Selection ], coordinate = [ x = 158, y = 195, width = 147, height = 74 ], link_type = [ Next_BT(1 : shape3)  ]
+Shape5 : type = [Rectangle], text = [ Google ], coordinate = [ x = 308, y = 275, width = 85, height = 43 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ www ; ], coordinate = [ x = 109, y = 285, width = 82, height = 42 ], link_type = [  ]

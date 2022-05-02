@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [  DEFINITION OF HIERARCHICAL REPRESENTATIONS ; ], coordinate = [ x = 49, y = 44, width = 747, height = 96 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DEFINITION OF A QUERY LANGUAGE USING LOGIC   ], coordinate = [ x = 48, y = 191, width = 746, height = 95 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ ASSOCIATE QUERIES TO HIERARCHICAL REPRESENTATION ,,_j____, ___= ; ], coordinate = [ x = 46, y = 339, width = 746, height = 96 ], link_type = [  ]

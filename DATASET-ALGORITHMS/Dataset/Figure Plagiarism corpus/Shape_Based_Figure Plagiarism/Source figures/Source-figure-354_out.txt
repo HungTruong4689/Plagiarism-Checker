@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ PARTITION ARTIFICIAL INTELLIGENCE (Al) FOR GAMING INTO A SERvER SIDE Al AND ASTATELESS AND DETERMINISTIC CLIENT-SIDE AI 902‚ ], coordinate = [ x = 75, y = 111, width = 814, height = 240 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ REPLICATE CLIENT-SIDE AI ON MULTIPLE CLIENTs 904 ], coordinate = [ x = 75, y = 453, width = 814, height = 240 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ COMPARE INPUT FROM THE MULTIPLE CLIENT-SIDEAis To OVERCOME A CLIENT FAILUREOR A CLIENT TAMPERING EVENT 906 ], coordinate = [ x = 75, y = 795, width = 814, height = 239 ], link_type = [  ]

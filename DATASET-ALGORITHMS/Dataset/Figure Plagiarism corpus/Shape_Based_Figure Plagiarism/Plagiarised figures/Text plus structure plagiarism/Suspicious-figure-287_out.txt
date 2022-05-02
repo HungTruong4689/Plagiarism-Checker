@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ DATA STORAGE DEVICE CLIENT AGENT], coordinate = [ x = 58, y = 17, width = 103, height = 103 ], link_type = [ Double Arrow(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ GEOLOCATION DATA SERVER], coordinate = [ x = 205, y = 39, width = 100, height = 56 ], link_type = [ Double Arrow(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Host Device Network INTERFAVE MEANS  ], coordinate = [ x = 58, y = 140, width = 105, height = 128 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ SERVER DEVICE DEVICE TRAKING MEANS], coordinate = [ x = 204, y = 140, width = 103, height = 128 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ REGESTERED OWNER APPARTUS], coordinate = [ x = 349, y = 139, width = 126, height = 55 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Input User Query ], coordinate = [ x = 142, y = 50, width = 213, height = 142 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Generate query vector ], coordinate = [ x = 140, y = 265, width = 214, height = 142 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Determine (user or aulomaticially)which sub-colleclions to query ], coordinate = [ x = 501, y = 266, width = 212, height = 141 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Identify sub-collections in which all query terms exist ], coordinate = [ x = 137, y = 479, width = 214, height = 139 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Search selected sub- collections using cosine based vector space similarity ], coordinate = [ x = 497, y = 479, width = 211, height = 140 ], link_type = [ Next_TB(1 : shape6) ]
+Shape5 : type = [Rectangle], text = [  Rank sub-collections ], coordinate = [ x = 134, y = 689, width = 214, height = 139 ], link_type = [ Next_TB(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ Present retrieved documents to user ], coordinate = [ x = 493, y = 690, width = 213, height = 139 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ Present ranked list of sub-collections and "identilying concept"terms ], coordinate = [ x = 131, y = 899, width = 214, height = 141 ], link_type = [  ]

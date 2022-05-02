@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ SEND REQUEST FOR IMAGE(S) ], coordinate = [ x = 76, y = 79, width = 523, height = 48 ], link_type = [ Next_TB(1:shape1) ]
+Shape1 : type = [Rectangle], text = [ RECEIVE IMAGE(S) OF RETAIL ENVIRONMENT ], coordinate = [ x = 78, y = 156, width = 523, height = 47 ], link_type = [Next(1:shape2)   ]
+Shape2 : type = [Rectangle], text = [ DETECT STOCKOUT FEATURE(S) ], coordinate = [ x = 78, y = 231, width = 524, height = 47 ], link_type = [ Next_TB(1:shape3)  ]
+Shape3 : type = [Rectangle], text = [ PROVIDE INDICATION OF DEPLETED STOCK CONDITION ], coordinate = [ x = 79, y = 307, width = 522, height = 64 ], link_type = [  ]

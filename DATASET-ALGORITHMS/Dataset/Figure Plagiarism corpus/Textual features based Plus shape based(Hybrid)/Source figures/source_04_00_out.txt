@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Color Image Sequence ], coordinate = [ x = 148, y = 82, width = 81, height = 58 ], link_type = [ ]
+Shape1 : type = [SQUARE], text = [ Color Smoothing color space Transformation grouping Edge maps ], coordinate = [ x = 272, y = 33, width = 151, height = 166 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Blab Analysis Hand Posture Detection ], coordinate = [ x = 457, y = 32, width = 113, height = 165 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Execute Action ], coordinate = [ x = 130, y = 319, width = 117, height = 41 ], link_type = [ Next_RL(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Resize Hand Posture VMS Compare Hand Posture with VMS resize hand VMS to hand Posture Classify Hand posture], coordinate = [ x = 305, y = 244, width = 236, height = 191 ], link_type = [  ]

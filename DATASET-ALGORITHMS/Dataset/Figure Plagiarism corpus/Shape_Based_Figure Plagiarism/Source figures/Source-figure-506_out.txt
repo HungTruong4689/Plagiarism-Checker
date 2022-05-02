@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ RETREIVING MODULE ], coordinate = [ x = 98, y = 120, width = 253, height = 128 ], link_type = [ Line(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ IMAGE DOWNSAMPLING MODULE ], coordinate = [ x = 623, y = 126, width = 254, height = 127 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ IMAGE ENCODING MODULE ], coordinate = [ x = 625, y = 296, width = 255, height = 127 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ FILTERING MODULE ], coordinate = [ x = 92, y = 299, width = 254, height = 128 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ TRANSMISSION MODULE ], coordinate = [ x = 625, y = 465, width = 255, height = 128 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ TEXT ENCODING MODULE ], coordinate = [ x = 95, y = 469, width = 253, height = 128 ], link_type = [  ]

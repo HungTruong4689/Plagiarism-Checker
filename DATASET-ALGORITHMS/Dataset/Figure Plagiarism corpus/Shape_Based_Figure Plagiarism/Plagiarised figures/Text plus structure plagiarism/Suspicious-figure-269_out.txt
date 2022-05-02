@@ -1,0 +1,6 @@
+Shape0 : type = [SQUARE], text = [ Information Stockpxling Gadget 1 Customer Operators ], coordinate = [ x = 21, y = 18, width = 151, height = 161 ], link_type = [ Double Arrow(1 : shape3) ]
+Shape1 : type = [SQUARE], text = [ GEOLOCATION Infonmtion SERVER ], coordinate = [ x = 251, y = 19, width = 151, height = 161 ], link_type = [ Double Arrow(1 : shape4) ]
+Shape2 : type = [SQUARE], text = [ REGISTERED OWNER APPARATUS], coordinate = [ x = 457, y = 33, width = 151, height = 161 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ HOST Gadget; 30 System INTERFACE implies ], coordinate = [ x = 27, y = 245, width = 151, height = 161 ], link_type = [ ]
+Shape4 : type = [SQUARE], text = [ SERVER Gadget,Following MEANSW 63], coordinate = [ x = 466, y = 248, width = 151, height = 161 ], link_type = [  ]
+Shape5 : type = [SQUARE], text = [ LAW ENFORCEMENT SECURITY APPARATUSB], coordinate = [ x = 253, y = 271, width = 150, height = 161 ], link_type = [  ]

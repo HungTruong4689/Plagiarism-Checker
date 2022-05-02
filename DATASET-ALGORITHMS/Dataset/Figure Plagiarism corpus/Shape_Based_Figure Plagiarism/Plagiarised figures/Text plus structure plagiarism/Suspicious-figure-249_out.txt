@@ -1,0 +1,4 @@
+Shape0 : type = [Parallelogram], text = [ START ], coordinate = [ x = 46, y = 48, width = 185, height = 57 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Parallelogram], text = [ ARE THE READDITIONAL INPUTS  ], coordinate = [ x = 280, y = 50, width = 418, height = 58 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Parallelogram], text = [   INITIALIZATIONT TPEFIFORM ], coordinate = [ x = 225, y = 150, width = 379, height = 58 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Parallelogram], text = [ PROCESS INPUT  ], coordinate = [ x = 337, y = 247, width = 248, height = 58 ], link_type = [  ]

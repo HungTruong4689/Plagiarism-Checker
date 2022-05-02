@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Measurement], coordinate = [ x = 318, y = 41, width = 130, height = 53 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Average], coordinate = [ x = 318, y = 121, width = 130, height = 56 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Diamond], text = [Start Handoff   ], coordinate = [ x = 311, y = 234, width = 141, height = 99 ], link_type = [ Decision(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Compare Bandwidth W : Best WALAN M : Best Macrocell ], coordinate = [ x = 318, y = 386, width = 134, height = 64 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Fuzzy logic system], coordinate = [ x = 156, y = 503, width = 90, height = 64 ], link_type = [ Next_RL(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Handoff Decision Mechanism], coordinate = [ x = 319, y = 504, width = 131, height = 64 ], link_type = [  ]

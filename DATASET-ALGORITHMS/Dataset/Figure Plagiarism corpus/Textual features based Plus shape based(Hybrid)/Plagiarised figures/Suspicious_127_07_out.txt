@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ RGB-YCC Cobr Convert ], coordinate = [ x = 12, y = 70, width = 43, height = 34 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Header Table ], coordinate = [ x = 239, y = 142, width = 37, height = 41 ], link_type = [  ]
+Shape2 : type = [SQUARE], text = [ DCR One block], coordinate = [ x = 58, y = 145, width = 30, height = 41 ], link_type = [  ]
+Shape3 : type = [SQUARE], text = [ Encoder One block ], coordinate = [ x = 187, y = 148, width = 33, height = 42 ], link_type = [  ]

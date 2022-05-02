@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 443, y = 236, width = 182, height = 96 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ INPUT INSTRUCTTON INFORMATION ], coordinate = [ x = 313, y = 413, width = 422, height = 97 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ CREATE EXTRACTION ùRULES ], coordinate = [ x = 314, y = 590, width = 422, height = 97 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [  APPLY ExTRacTIoN RULES ], coordinate = [ x = 314, y = 768, width = 423, height = 96 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ CREATE RULE RELATIONS ], coordinate = [ x = 315, y = 933, width = 423, height = 97 ], link_type = [  ]

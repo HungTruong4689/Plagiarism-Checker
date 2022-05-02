@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ QUERY COMPONENT ], coordinate = [ x = 341, y = 212, width = 202, height = 110 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ PARSER ], coordinate = [ x = 350, y = 434, width = 184, height = 59 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ CLASSIFIER ], coordinate = [ x = 349, y = 537, width = 185, height = 57 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ GEOCODERS1...N ], coordinate = [ x = 636, y = 707, width = 202, height = 110 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ PARALL ELEXECUTION COMPONENT ], coordinate = [ x = 342, y = 741, width = 201, height = 110 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ RESULTS COMPONENT ], coordinate = [ x = 315, y = 912, width = 202, height = 109 ], link_type = [ Line(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ RANKED LIST OFRESULTS ], coordinate = [ x = 402, y = 1169, width = 132, height = 109 ], link_type = [  ]

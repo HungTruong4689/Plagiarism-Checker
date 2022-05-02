@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Find all rules in the design knowledge base that satisfy the current contentsof the data store. ], coordinate = [ x = 242, y = 179, width = 618, height = 59 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Select the rules to be applied on the rule matchings. ], coordinate = [ x = 241, y = 291, width = 619, height = 46 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Execute the selected rules with instantiation data as parameters. ], coordinate = [ x = 241, y = 389, width = 619, height = 60 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ Has the data store arrived at a quiescent state? ], coordinate = [ x = 454, y = 503, width = 186, height = 200 ], link_type = [  ]

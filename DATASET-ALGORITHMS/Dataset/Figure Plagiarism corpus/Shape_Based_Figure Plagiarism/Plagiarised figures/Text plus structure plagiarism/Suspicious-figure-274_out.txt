@@ -1,0 +1,5 @@
+Shape0 : type = [Diamond], text = [ WHO IS THE CLIENT? ], coordinate = [ x = 182, y = 140, width = 347, height = 125 ], link_type = [ Decision(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ GENERATE A SVMMETRIC KEY, AND ENCRYPT3 IT WITH THE CLIENT'S PUBLIC KEY], coordinate = [ x = 117, y = 315, width = 476, height = 85 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ SEND THE ENCRYPTED SYMMETRIC KEY TO ITHE CLIENT VIA AN HTTP HEADER OR COOKIE ], coordinate = [ x = 117, y = 419, width = 476, height = 85 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ USE SYMMETRIC KEY TO ENCRYPT COMMUNICATION ], coordinate = [ x = 117, y = 522, width = 476, height = 85 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ USE SSL 1.0 TO PROVIDE COMMUNICATION II PRIVACY  ], coordinate = [ x = 116, y = 714, width = 476, height = 85 ], link_type = [  ]

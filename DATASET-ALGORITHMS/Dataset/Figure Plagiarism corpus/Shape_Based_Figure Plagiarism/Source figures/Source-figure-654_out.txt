@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Receive mobile image ], coordinate = [ x = 88, y = 22, width = 224, height = 159 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Process mobile image to generate grayscale snippet ], coordinate = [ x = 88, y = 231, width = 224, height = 158 ], link_type = [Next(1 : shape2)   ]
+Shape2 : type = [Rectangle], text = [ Build histogram using snippet  ], coordinate = [ x = 88, y = 436, width = 224, height = 158 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determine median black value   ], coordinate = [ x = 88, y = 643, width = 224, height = 159 ], link_type = [ Next_TB(1 : shape4)  ]
+Shape4 : type = [Rectangle], text = [ Normalize difference ], coordinate = [ x = 453, y = 851, width = 225, height = 159 ], link_type = [ Next_TB(1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ Determine median white value ], coordinate = [ x = 88, y = 856, width = 224, height = 158 ], link_type = [ Next_TB(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ Return test result ], coordinate = [ x = 453, y = 1088, width = 225, height = 159 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ Calculate diference between median black 1& median white  ], coordinate = [ x = 88, y = 1092, width = 224, height = 159 ], link_type = [  ]

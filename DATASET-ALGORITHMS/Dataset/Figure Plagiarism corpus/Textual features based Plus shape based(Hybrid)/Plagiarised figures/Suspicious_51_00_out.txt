@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ SADC Energy Ministers ], coordinate = [ x = 126, y = 45, width = 200, height = 34 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Execuliva Commttiee ], coordinate = [ x = 127, y = 96, width = 200, height = 32 ], link_type = [ Line(1 : shape2) ]
+Shape3 : type = [Rectangle], text = [ Management Committee ], coordinate = [ x = 84, y = 145, width = 274, height = 32 ], link_type = [ Multi Line(1 : shape4, 2 : shape5, 3 : shape6) ]
+Shape4 : type = [Rectangle], text = [ Operating Sub-oommmeitte ], coordinate = [ x = 37, y = 198, width = 110, height = 48 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Planning Sub-commillee ], coordinate = [ x = 167, y = 198, width = 124, height = 48 ], link_type = [ Line(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ Environmental Sub-committee ], coordinate = [ x = 309, y = 198, width = 114, height = 49 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ Co ordmation Centre ], coordinate = [ x = 169, y = 257, width = 120, height = 52 ], link_type = [  ]

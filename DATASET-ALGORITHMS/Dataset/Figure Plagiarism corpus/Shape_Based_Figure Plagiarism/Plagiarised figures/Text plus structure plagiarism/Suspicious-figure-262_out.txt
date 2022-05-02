@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Find all perimeter pixels of all tokenregions.202 ], coordinate = [ x = 560, y = 98, width = 375, height = 100 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Let A be the next token region in the list 204 ], coordinate = [ x = 52, y = 317, width = 509, height = 75 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ For each perimeter pixel in token A find the closest perimeter pixel in every other token that is within the maximum distance D, 206 ], coordinate = [ x = 91, y = 436, width = 432, height = 156 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ For token A build a list of its neighborsby compiling all the unique token IDs found in the perimeter pixel matching step.208 ], coordinate = [ x = 91, y = 667, width = 431, height = 157 ], link_type = [  ]

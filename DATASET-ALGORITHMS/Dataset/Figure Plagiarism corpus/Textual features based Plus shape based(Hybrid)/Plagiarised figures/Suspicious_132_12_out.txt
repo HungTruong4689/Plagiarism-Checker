@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Fact: COMMAS ], coordinate = [ x = 328, y = 9, width = 123, height = 35 ], link_type = [ Multi Line(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Fact: TransformerDaLa Attributes:- TransformerName  substation- Time ], coordinate = [ x = 182, y = 83, width = 184, height = 126 ], link_type = [ Multi Line(1 : shape3, 2 : shape4) ]
+Shape2 : type = [Rectangle], text = [ Fact: Substation Attributes:SubstationName SubstationID ], coordinate = [ x = 428, y = 83, width = 136, height = 107 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ Fact:TxUHFFealureVector Attributes:- FeatureVector FeatureVectorID], coordinate = [ x = 49, y = 247, width = 198, height = 108 ], link_type = [  ]
+Shape4 : type = [SQUARE], text = [ Fact: TxFauIt Attributes:- Descnption- Probability ], coordinate = [ x = 315, y = 247, width = 106, height = 108 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ fact: TxFauItSummary Attributes- Xlocation- Ylocation~ Zlocation ], coordinate = [ x = 283, y = 389, width = 170, height = 125 ], link_type = [  ]

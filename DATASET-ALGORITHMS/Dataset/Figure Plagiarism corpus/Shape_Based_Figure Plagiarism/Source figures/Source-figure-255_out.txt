@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 321, y = 14, width = 100, height = 62 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ COMPUTE VORONOI DIAGRAMOF SAMPLE POINTSS={S1.S2,...,Sn} ], coordinate = [ x = 136, y = 122, width = 463, height = 141 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Parallelogram], text = [ COMPUTE THE POLESP OF S ], coordinate = [ x = 137, y = 307, width = 463, height = 140 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ COMPUTE THE DELAUNAY TRIANGULATION OF ,SAMPLE POINTS AND POLES ], coordinate = [ x = 138, y = 491, width = 462, height = 140 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ DELETE TRIANGLES IN WHICH ONE OR MORE VERTICES ARE POLES ], coordinate = [ x = 139, y = 676, width = 463, height = 140 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ DELETE TRIANGLES WITH NORMAL ANGLES DEVIATING FROM VECTORS TO POLES ], coordinate = [ x = 141, y = 861, width = 462, height = 141 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ EXTRACT A TWO-DIMENSIONAL MANIFOLD ], coordinate = [ x = 141, y = 1046, width = 463, height = 141 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ END ], coordinate = [ x = 320, y = 1231, width = 107, height = 62 ], link_type = [  ]

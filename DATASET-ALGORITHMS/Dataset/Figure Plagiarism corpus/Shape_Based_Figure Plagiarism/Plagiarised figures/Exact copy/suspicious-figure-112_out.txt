@@ -1,0 +1,8 @@
+Shape0 : type = [Diamond], text = [ CONDITION FORMULA RELATED TO AN ADJUSTMENT VARIABLE a(i) I_(i):9(i. 1).  a(i):9(i.n) (9(1.J) ISA CONSTANT ) 7 ], coordinate = [ x = 125, y = 160, width = 806, height = 220 ], link_type = [ Decision(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DELETE a(1):g(1, I). - --.a(1):g(1. n) FROM THE CONDITION FORMULA SET   ], coordinate = [ x = 144, y = 428, width = 766, height = 90 ], link_type = [Next(1 : shape2)   ]
+Shape2 : type = [Rectangle], text = [ SUBSTITUTE a(i)=max{g(i.j)} FOR EACH FORMULA INTHE SOLUTION SET, AND EACH counmou FORMULA ], coordinate = [ x = 144, y = 535, width = 765, height = 90 ], link_type = [ ]
+Shape3 : type = [Diamond], text = [ Condition FORMULA RELATED TO AN ADJUSTMENT VARIABLE b(i) IS b(i):h(i. 1). b(i) :h(i. n) (h(i. 1) IS A CONSTANT) ? ], coordinate = [ x = 127, y = 726, width = 800, height = 219 ], link_type = [ Decision(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ DELETE b(i):h(i. I), - --.b(i):h(i. :1) FROM THE CONDITION FORMULA SET ], coordinate = [ x = 145, y = 991, width = 764, height = 90 ], link_type = [ Next_TB((1 : shape5)  ]
+Shape5 : type = [Rectangle], text = [ SUBSTITUTE b(i)=max{h(i.j)) FOR EACH FORMULA IN THE SOLUTION SET, AND EACH CONDITION FORMULA ], coordinate = [ x = 145, y = 1099, width = 763, height = 88 ], link_type = [ Next_TB((1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ LTx(j)=x(j). Y(j)=Y(j)—M (1 § j § J) T ], coordinate = [ x = 146, y = 1339, width = 762, height = 61 ], link_type = [  ]
+Shape7 : type = [Rectangle], text = [ END ], coordinate = [ x = 488, y = 1420, width = 80, height = 57 ], link_type = [  ]

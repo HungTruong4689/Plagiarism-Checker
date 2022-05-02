@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ RECEIVING MODULE ], coordinate = [ x = 108, y = 105, width = 252, height = 126 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ VIDEO DECODING MODULE ], coordinate = [ x = 613, y = 114, width = 251, height = 125 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ TEXT DECODING MODULE ], coordinate = [ x = 109, y = 291, width = 251, height = 126 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ IMAGE RESIZING MODULE ], coordinate = [ x = 613, y = 292, width = 251, height = 125 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ TEXT RESIZING MODULE ], coordinate = [ x = 108, y = 477, width = 252, height = 126 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ DISPLAY MODULE ], coordinate = [ x = 613, y = 477, width = 251, height = 126 ], link_type = [  ]

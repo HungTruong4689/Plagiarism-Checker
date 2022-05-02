@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Provide Markable answer sheets for a test ], coordinate = [ x = 517, y = 84, width = 704, height = 94 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Provide a set of spaces for answers having a character that is recognizable by optical character recognition software ], coordinate = [ x = 517, y = 201, width = 704, height = 92 ], link_type = [ Next_TB(1 : shape2)  ]
+Shape2 : type = [Rectangle], text = [ Accept marked answer sheets from at least one user ], coordinate = [ x = 517, y = 309, width = 704, height = 92 ], link_type = [Next(1 : shape3)   ]
+Shape3 : type = [Rectangle], text = [ Scan accepted marked answer sheets with software for optical mark recognition and count marked answers ], coordinate = [ x = 519, y = 419, width = 703, height = 99 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Compare to expected number of answers on marked answer sheet ], coordinate = [ x = 519, y = 541, width = 703, height = 92 ], link_type = [Next(1 : shape5)   ]
+Shape5 : type = [Rectangle], text = [ If there IS a discrepancy, review marked answer sheets with ophcal character recognition software ], coordinate = [ x = 519, y = 650, width = 703, height = 91 ], link_type = [  Next(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Compare a count of marked answer again and correct the discrepancy in answers counted visa vis the expected count ], coordinate = [ x = 519, y = 755, width = 703, height = 107 ], link_type = [  ]

@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ SELECT DESIRED PROGRAM LINE ], coordinate = [ x = 289, y = 188, width = 169, height = 147 ], link_type = [ Next_TB((1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ EXAMPLE COMPILIER  GENERATES  MATCH INSTRUCTIONS ], coordinate = [ x = 684, y = 194, width = 190, height = 160 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ SELECT DESIRED PART OF PROGRAM LINE ], coordinate = [ x = 287, y = 443, width = 167, height = 161 ], link_type = [ Next_TB((1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ INPUT 1NAME OF SELECTED PART ], coordinate = [ x = 281, y = 709, width = 175, height = 140 ], link_type = [ ]
+Shape4 : type = [Rectangle], text = [ SPECIFY NODE RELATIONS ], coordinate = [ x = 680, y = 798, width = 193, height = 121 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ POSSIBLE REDUNDANCY WARNING ], coordinate = [ x = 682, y = 1010, width = 185, height = 139 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ EXAMPLE COMPILER OUTPUTS FIRST VERSION OF PATTERN PREDICATE ], coordinate = [ x = 234, y = 1041, width = 270, height = 136 ], link_type = [  ]

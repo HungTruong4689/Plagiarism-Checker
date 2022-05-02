@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Determine outdoor location or position ], coordinate = [ x = 26, y = 130, width = 648, height = 61 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Receive or retrieve building information ], coordinate = [ x = 26, y = 227, width = 647, height = 84 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Transmit signals to determine at least width or length of room ], coordinate = [ x = 26, y = 348, width = 647, height = 81 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Compare at least determined width or length against received or retrieved room layout information to determine location or position in building ], coordinate = [ x = 26, y = 466, width = 647, height = 135 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Track location or position over time in the room and/or between rooms ], coordinate = [ x = 26, y = 638, width = 648, height = 85 ], link_type = [  ]

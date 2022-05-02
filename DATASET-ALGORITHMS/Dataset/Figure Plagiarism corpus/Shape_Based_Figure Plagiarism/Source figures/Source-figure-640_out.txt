@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Create two empty lists to hold text regions:working list,  and finalised list F ], coordinate = [ x = 201, y = 64, width = 295, height = 129 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Create an initial text region and populate the list, W with this text region ], coordinate = [ x = 147, y = 226, width = 402, height = 116 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ For each region, REG, in list W ], coordinate = [ x = 195, y = 381, width = 306, height = 88 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Calculate average pixel densities along rows and columns of tiles in the text region. ], coordinate = [ x = 127, y = 517, width = 443, height = 149 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Remove region REG from list W and move REG to list F ], coordinate = [ x = 587, y = 697, width = 251, height = 145 ], link_type = [  ]
+Shape5 : type = [Diamond], text = [ Text regon should be split ], coordinate = [ x = 225, y = 714, width = 247, height = 167 ], link_type = [ Decision(1 : shape4,2 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Split REG into REG1 and REG2.Delete REG from list W and add REG1 and REG2 to end of list W ], coordinate = [ x = 130, y = 927, width = 436, height = 126 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Next Region in list W ], coordinate = [ x = 248, y = 1092, width = 200, height = 88 ], link_type = [  ]

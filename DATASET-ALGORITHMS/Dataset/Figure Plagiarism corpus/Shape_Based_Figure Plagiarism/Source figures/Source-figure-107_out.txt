@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ DEVELOPED ], coordinate = [ x = 460, y = 502, width = 393, height = 103 ], link_type = [ Multi Line(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ AN], coordinate = [ x = 235, y = 655, width = 395, height = 105 ], link_type = [ Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ HAS ], coordinate = [ x = 706, y = 654, width = 396, height = 102 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ ACCOURDING SYSTEM ], coordinate = [ x = 238, y = 808, width = 394, height = 104 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ NEC ], coordinate = [ x = 709, y = 807, width = 395, height = 101 ], link_type = [  ]

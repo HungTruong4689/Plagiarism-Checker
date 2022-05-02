@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Select a collection of source templates based on the target platform. ], coordinate = [ x = 33, y = 158, width = 667, height = 47 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Associate each wireframe component from the collection of wireframe components to its corresponding source template. ], coordinate = [ x = 32, y = 262, width = 668, height = 64 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Produce source code using a template engine to process each source template associated with a wireframe component. ], coordinate = [ x = 30, y = 384, width = 669, height = 63 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Compress the produced source code into a single archive file. ], coordinate = [ x = 30, y = 506, width = 669, height = 49 ], link_type = [  ]

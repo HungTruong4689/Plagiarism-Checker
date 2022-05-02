@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Vibration/Defiection/Acceleration Sensor Module ], coordinate = [ x = 9, y = 145, width = 422, height = 100 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Parallelogram], text = [ Fall Module ], coordinate = [ x = 506, y = 330, width = 146, height = 100 ], link_type = [ Line(1 : shape4) ]
+Shape2 : type = [Rectangle], text = [ Step Module ], coordinate = [ x = 748, y = 330, width = 146, height = 100 ], link_type = [ Line(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Rate of Travel Detector ], coordinate = [ x = 119, y = 534, width = 182, height = 101 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Processor Module ], coordinate = [ x = 599, y = 535, width = 220, height = 101 ], link_type = [ Line(1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ Output Module ], coordinate = [ x = 1044, y = 535, width = 146, height = 101 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Archival Storage ], coordinate = [ x = 691, y = 741, width = 145, height = 120 ], link_type = [  ]

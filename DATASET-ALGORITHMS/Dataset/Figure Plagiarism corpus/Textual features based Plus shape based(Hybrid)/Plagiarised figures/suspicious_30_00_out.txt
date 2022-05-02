@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Source/Sink(Test Vector/Expected Response) ], coordinate = [ x = 126, y = 4, width = 228, height = 84 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ User Difiend Test Access Mechamsm (TAM)MUX Based Direct Access ], coordinate = [ x = 49, y = 138, width = 363, height = 66 ], link_type = [ Multi-Double Arrow(1 : shape2,  2 : shape3, 3 : shape4, ) ]
+Shape2 : type = [Rectangle], text = [ Wrapper ], coordinate = [ x = 11, y = 254, width = 132, height = 103 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ wrapper ], coordinate = [ x = 164, y = 254, width = 132, height = 103 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Wrapper ], coordinate = [ x = 318, y = 254, width = 132, height = 103 ], link_type = [  ]

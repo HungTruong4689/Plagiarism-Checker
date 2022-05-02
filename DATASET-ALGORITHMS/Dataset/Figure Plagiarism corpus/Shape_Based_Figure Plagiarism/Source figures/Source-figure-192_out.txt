@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ SELECT ONE OF INPUT AXES X OTHER THANINPUT AXIS X OF WIRING OBJECT PLANE ], coordinate = [ x = 93, y = 91, width = 721, height = 109 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ SELECT POINT OTHER THAN OBFECTI POINT(SELECTED POINT) ], coordinate = [ x = 149, y = 270, width = 612, height = 111 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ OBTAIN NEIGHBORING POINT WHICH IS OPPOSITE TOTHE SELECTED POINT LELATIVE TO THE OBJECTi PLANE AND WHICH IS THE CLOSEST POINT IN TERMSOF SPATIAL DISTANCE ], coordinate = [ x = 24, y = 432, width = 866, height = 182 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ OBTAIN THE INTERSECTION AT WHICH THE VECTORCONNECTING THE NEIGHBORING POINT AND THESELECTED POINT CROSSES THE OBJECT PLANE ], coordinate = [ x = 25, y = 684, width = 866, height = 145 ], link_type = [  ]
+Shape4 : type = [Diamond], text = [ ARE ALL THE POINTS SELECTED? ], coordinate = [ x = 197, y = 871, width = 517, height = 161 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ SUBSTITUTE THE INTERSECTION POINT FORTHE SELECTED POINT GROUP ], coordinate = [ x = 82, y = 1076, width = 757, height = 110 ], link_type = [ Next_TB(1 : shape6)  ]
+Shape6 : type = [Diamond], text = [  ARE ALL THE AXES SELECTED? ], coordinate = [ x = 200, y = 1228, width = 517, height = 161 ], link_type = [  ]

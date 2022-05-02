@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Consider training example (i, j) ], coordinate = [ x = 90, y = 24, width = 550, height = 96 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ If the pair is not already known as Similair then generate a phrase to add to the phrase pool ], coordinate = [ x = 88, y = 180, width = 552, height = 99 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Generate phrase by adding stumps iteratively for L iterations ], coordinate = [ x = 90, y = 334, width = 550, height = 92 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ For each ward a candidate stump is chosen on the basis of a response ratio ], coordinate = [ x = 90, y = 480, width = 550, height = 95 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ The candidate stump which yields the largest recall when added to the phrase being generated is selected ], coordinate = [ x = 90, y = 638, width = 550, height = 96 ], link_type = [  ]

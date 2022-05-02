@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ VIDEO CAMERA CAPTURESIMAGES OF THE VICINITY OF A VENDING MACHINE ], coordinate = [ x = 165, y = 36, width = 315, height = 118 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ PROCESSOR IN VENDING MACHINE ANALYZESTHESE IMAGES TO IDENTIFY OBJECTS OREVENTS THAT SUGGEST THAT ATTENTIONIS BEING PAID TO THE VENDING MACHINE ], coordinate = [ x = 77, y = 268, width = 491, height = 149 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ PROCESSOR CALCULATES MEASURE OF ATTENTION ], coordinate = [ x = 165, y = 530, width = 315, height = 87 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ AUDIO-VISUAL OUTPUT OF VENDING MACHINE IS ALTERED, BASED ON THIS CALCULATED MEASURE OF ATTENTION ], coordinate = [ x = 117, y = 730, width = 412, height = 117 ], link_type = [  ]

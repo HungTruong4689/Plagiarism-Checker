@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ PERFORMANCE REPORTS SYSTEM ], coordinate = [ x = 176, y = 21, width = 597, height = 76 ], link_type = [ Multi-Line(1 : shape1, 2 : shape2) ]
+Shape1 : type = [Rectangle], text = [ MAIL VOLUME TRACKING  ], coordinate = [ x = 86, y = 169, width = 218, height = 163 ], link_type = [  ]
+Shape2 : type = [Parallelogram], text = [ TIMEKEEPING ], coordinate = [ x = 633, y = 171, width = 219, height = 162 ], link_type = [ ]
+Shape3 : type = [Rectangle], text = [ VOLUME TRACKING  ], coordinate = [ x = 363, y = 398, width = 176, height = 88 ], link_type = [ Multi Line(1 : shape4, 2 : shape5, 3 : shape6) ]
+Shape4 : type = [Rectangle], text = [ INDIVIDUAL CARRiER/ROUTE PERFORMANCE REPORT ], coordinate = [ x = 21, y = 578, width = 219, height = 162 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ GROUPT CARRIER PERFORMANCE  REPORT ], coordinate = [ x = 367, y = 578, width = 219, height = 162 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ DELIVERY UNIT PERFORMANCE REPORT ], coordinate = [ x = 714, y = 578, width = 220, height = 163 ], link_type = [  ]

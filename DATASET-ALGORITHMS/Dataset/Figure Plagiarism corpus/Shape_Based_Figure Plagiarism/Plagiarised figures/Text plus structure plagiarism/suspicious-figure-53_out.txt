@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ MEMORY ], coordinate = [ x = 683, y = 47, width = 201, height = 75 ], link_type = [ Double Arrow(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ CPU ], coordinate = [ x = 381, y = 197, width = 200, height = 75 ], link_type = [ Multi-Double Arrow(1 : shape2, 2 : shape4) ]
+Shape2 : type = [Rectangle], text = [ MEMORV CONTROLLER ], coordinate = [ x = 683, y = 197, width = 201, height = 75 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ NETWORK INTERFACE ], coordinate = [ x = 73, y = 348, width = 202, height = 75 ], link_type = [ Double Arrow(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ IIO INTERFACE ], coordinate = [ x = 382, y = 348, width = 200, height = 75 ], link_type = [ Double Arrow(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [  ], coordinate = [ x = 435, y = 502, width = 99, height = 65 ], link_type = [  ]

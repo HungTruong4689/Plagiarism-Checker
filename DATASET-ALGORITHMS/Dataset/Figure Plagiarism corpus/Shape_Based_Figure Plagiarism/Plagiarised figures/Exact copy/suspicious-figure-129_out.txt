@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ ROOT ], coordinate = [ x = 47, y = 75, width = 65, height = 48 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [1 ], coordinate = [ x = 196, y = 74, width = 66, height = 48 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ 2 ], coordinate = [ x = 347, y = 73, width = 66, height = 49 ], link_type = [ Multi Flow(1 : shape3, 2 : shape5) ]
+Shape3 : type = [Rectangle], text = [ 3 ], coordinate = [ x = 497, y = 73, width = 67, height = 48 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ 4m ], coordinate = [ x = 650, y = 73, width = 65, height = 49 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ 5 ], coordinate = [ x = 347, y = 150, width = 66, height = 49 ], link_type = [ Next_LR(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ 6m} ], coordinate = [ x = 498, y = 150, width = 66, height = 48 ], link_type = [  ]

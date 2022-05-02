@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 204, y = 18, width = 192, height = 82 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ EXTRACT IMAGE ], coordinate = [ x = 25, y = 173, width = 544, height = 138 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [  EXTRACT LOGI INFORMATION ], coordinate = [ x = 27, y = 381, width = 545, height = 140 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ STORE DATA ANDTRANSFER DATA TOIMAGE PROCESSINGSERVER ], coordinate = [ x = 28, y = 594, width = 546, height = 218 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ END ], coordinate = [ x = 231, y = 885, width = 167, height = 80 ], link_type = [  ]

@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ ACCESS DATA ABOUT PLUFIALITY OF GROUPS OF CHARACTERISTICS ], coordinate = [ x = 81, y = 23, width = 322, height = 238 ], link_type = [ Next_TB(1 : shape1)]
+Shape1 : type = [Rectangle], text = [ PROCESS DATA TO GENERATE BINARY ENCODED DATA ], coordinate = [ x = 81, y = 346, width = 322, height = 238 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ PROCESS DATA TO GENERATE PROFILES ], coordinate = [ x = 81, y = 669, width = 322, height = 237 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ ASSIGN PLURALITY OF GROUPS/DATA TO GENERATE PROFILE DATA SET ], coordinate = [ x = 82, y = 992, width = 321, height = 237 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Send Information to Parties Who Provide the Top Options ], coordinate = [ x = 151, y = 40, width = 343, height = 64 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Diamond], text = [  Option = primary option ?,  ], coordinate = [ x = 195, y = 130, width = 256, height = 122 ], link_type = [ Decision(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Generate and Transmit a Message to Parties Who Provide the Option ], coordinate = [ x = 490, y = 148, width = 278, height = 86 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ Transmit Confirmation to User Regarding the Message ], coordinate = [ x = 485, y = 259, width = 287, height = 85 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Update Database with Transacton History Data Regarding Messages and Confirmations Transmitted ], coordinate = [ x = 184, y = 327, width = 278, height = 126 ], link_type = [ Next_TB(1 : shape5)  ]
+Shape5 : type = [Rectangle], text = [ Check for User Update ], coordinate = [ x = 244, y = 478, width = 158, height = 63 ], link_type = [  ]

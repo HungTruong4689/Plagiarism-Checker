@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Feature Extraction and Parallel Classification 600 B  ], coordinate = [ x = 262, y = 25, width = 520, height = 106 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Parallelogram], text = [ (Opti onal) Preprocess image 602 ], coordinate = [ x = 278, y = 190, width = 490, height = 126 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ extract invariant features using generalized invariant feature discriptor 504 ], coordinate = [ x = 70, y = 441, width = 345, height = 131 ], link_type = [  ]
+Shape3 : type = [Parallelogram], text = [ extract scale features 606 ], coordinate = [ x = 447, y = 439, width = 153, height = 131 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ extract reflection features  610 ], coordinate = [ x = 666, y = 438, width = 279, height = 132 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ parallel classification 612 ], coordinate = [ x = 280, y = 760, width = 490, height = 91 ], link_type = [  ]

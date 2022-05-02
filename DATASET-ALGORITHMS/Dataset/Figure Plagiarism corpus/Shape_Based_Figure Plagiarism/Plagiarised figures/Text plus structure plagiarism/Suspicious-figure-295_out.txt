@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Start ], coordinate = [ x = 106, y = 74, width = 125, height = 101 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ is the payload 8 byte], coordinate = [ x = 343, y = 64, width = 118, height = 123 ], link_type = [ Decision(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [  Papulata buffer (with payload) ], coordinate = [ x = 105, y = 219, width = 127, height = 102 ], link_type = [ Multi Flow(1 : shape3, 2 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Pad payload ], coordinate = [ x = 339, y = 221, width = 125, height = 101 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ XOR verification Information buffer], coordinate = [ x = 105, y = 366, width = 126, height = 101 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ XOR shared key with buffer ], coordinate = [ x = 105, y = 512, width = 126, height = 101 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Replace verification inforrnation with bufler ], coordinate = [ x = 105, y = 657, width = 126, height = 102 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Transmit message ], coordinate = [ x = 338, y = 658, width = 126, height = 102 ], link_type = [  ]

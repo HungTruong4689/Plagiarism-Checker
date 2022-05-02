@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ IDENTIFY FOUR CORNERS OF INPUT IMAGE TEXT REGION ], coordinate = [ x = 46, y = 35, width = 427, height = 95 ], link_type = [ Next_TB(1 : shape1)  ]
+Shape1 : type = [Rectangle], text = [ IDENTIFY PLATE LAYOUT  ], coordinate = [ x = 46, y = 149, width = 427, height = 73 ], link_type = [ Next_TB(1 : shape2)  ]
+Shape2 : type = [Rectangle], text = [ DETERMINE PARTICULAR LICENSE TEMPLATE IMAGE ASSOCIATED WITH INPUT IMAGE ], coordinate = [ x = 46, y = 243, width = 427, height = 95 ], link_type = [ Next_TB(1 : shape3)  ]
+Shape3 : type = [Rectangle], text = [ CALCLILATE MAPPING BETWEEN SET OF FOUR CORNERS OE INPUT IMAGE TEXT REGION AND SET OF FOUR CORNERS OF INNER REGION OF TEMPLATE  ], coordinate = [ x = 46, y = 358, width = 427, height = 115 ], link_type = [ Next_TB(1 : shape4)  ]
+Shape4 : type = [Rectangle], text = [ EXTRACT BITIIIAP DATA OF AN OUTER REGION IOF INPUT IMAGE CORRESPONDING TOOUTER REGION OF TEMPLATE ‘ ], coordinate = [ x = 46, y = 494, width = 427, height = 115 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [  EXTRACT INPUT IMAGE BITMAP DATA CORRESPONDING TO TEXT REGION ], coordinate = [ x = 45, y = 631, width = 428, height = 94 ], link_type = [Next(1 : shape5)   ]
+Shape6 : type = [Rectangle], text = [  FILTER INPUT IMAGE TEXT REGION EITMAP ], coordinate = [ x = 45, y = 746, width = 428, height = 95 ], link_type = [ Next_TB(1 : shape7)  ]
+Shape7 : type = [Rectangle], text = [  FILTER INPIII IMAGE OUTER REGION BITMAP ], coordinate = [ x = 45, y = 861, width = 428, height = 95 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Abstract model ], coordinate = [ x = 49, y = 159, width = 163, height = 40 ], link_type = [ Next_TB(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ Abstract scenario ], coordinate = [ x = 438, y = 160, width = 164, height = 41 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Refined madel ], coordinate = [ x = 49, y = 262, width = 164, height = 41 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Refined scenario ], coordinate = [ x = 437, y = 262, width = 164, height = 41 ], link_type = [ Next_TB(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Sufficiently refined model], coordinate = [ x = 49, y = 410, width = 163, height = 59 ], link_type = [ Next_TB(1 : shape6) ]
+Shape5 : type = [Rectangle], text = [ Sufficiently refined scenario], coordinate = [ x = 437, y = 413, width = 164, height = 58 ], link_type = [ Next_TB(1 : shape7) ]
+Shape6 : type = [Rectangle], text = [ System Under Tes(SUT) ], coordinate = [ x = 56, y = 549, width = 145, height = 65 ], link_type = [ Double Arrow(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Test cases], coordinate = [ x = 446, y = 550, width = 145, height = 65 ], link_type = [  ]

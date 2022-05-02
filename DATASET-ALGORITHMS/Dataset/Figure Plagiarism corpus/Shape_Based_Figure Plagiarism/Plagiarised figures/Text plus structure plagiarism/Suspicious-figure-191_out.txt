@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Shape ], coordinate = [ x = 332, y = 4, width = 117, height = 47 ], link_type = [Multi line(1: shape1,2: shape2)  ]
+Shape1 : type = [Rectangle], text = [ Counter based ], coordinate = [ x = 126, y = 87, width = 145, height = 40 ], link_type = [ Line(1 : shape4) ]
+Shape2 : type = [Rectangle], text = [ Region based], coordinate = [ x = 523, y = 86, width = 133, height = 40 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Global ], coordinate = [ x = 521, y = 150, width = 141, height = 50 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Structural ], coordinate = [ x = 123, y = 156, width = 145, height = 54 ], link_type = [  ]

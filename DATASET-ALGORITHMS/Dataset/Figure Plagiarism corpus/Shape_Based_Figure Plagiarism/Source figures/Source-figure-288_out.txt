@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ USER SEARCH ], coordinate = [ x = 67, y = 63, width = 140, height = 100 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Decision], text = [ COMPONENT PART NUMBER ], coordinate = [ x = 255, y = 63, width = 145, height = 101 ], link_type = [ Next_LR(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ lCl\CRS GRAPH ICIDENTIFICATION PROCESS ], coordinate = [ x = 454, y = 62, width = 183, height = 104 ], link_type = [ Multi Flow(1 : shape3, 2 : shape4) ]
+Shape3 : type = [Decision], text = [ COMPONENTG RAPHIC ], coordinate = [ x = 691, y = 66, width = 145, height = 100 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ AVNS COMPONENTSEARCH PROOESS ], coordinate = [ x = 453, y = 215, width = 182, height = 101 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Receive a product image front an image capture source 302], coordinate = [ x = 78, y = 179, width = 392, height = 78 ], link_type = [ Next_TB_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Extract a text segment associated with the product image 105 ], coordinate = [ x = 78, y = 315, width = 391, height = 101 ], link_type = [ Next_TB_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Extract one or more labels from the product image 303 ], coordinate = [ x = 509, y = 319, width = 279, height = 99 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Assign an extraction confidence score to the text segment 306], coordinate = [ x = 79, y = 467, width = 391, height = 104 ], link_type = [ Next_TB_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Parse the text segment to identify one or more information components 308 ], coordinate = [ x = 79, y = 629, width = 392, height = 92 ], link_type = [ Next_TB_TB(1 : shape6)]
+Shape5 : type = [Rectangle], text = [ Add the one or more labels to the product profile and /or attribute data store 313 ], coordinate = [ x = 545, y = 757, width = 211, height = 174 ], link_type = [  ]
+Shape6 : type = [Rectangle], text = [ Assign an information confidence score to each of the information components ], coordinate = [ x = 78, y = 764, width = 393, height = 97 ], link_type = [ Next_TB_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Add the information component to product profile and/or an attribute datastore if the infonnation confidence score is greater than or equal to a threshold 312 ], coordinate = [ x = 80, y = 911, width = 391, height = 174 ], link_type = [  ]

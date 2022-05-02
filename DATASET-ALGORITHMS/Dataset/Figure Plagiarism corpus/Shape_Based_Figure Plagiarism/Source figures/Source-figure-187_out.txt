@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ FACT DATA BASE ], coordinate = [ x = 59, y = 15, width = 231, height = 94 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ TREGION DIVIDING SECTION ], coordinate = [ x = 60, y = 166, width = 230, height = 92 ], link_type = [ Next_TB(1 : shape2)  ]
+Shape2 : type = [Rectangle], text = [ IN-REGION SPACEWIRING FUNCTION GENERATING SECTION ], coordinate = [ x = 59, y = 317, width = 230, height = 94 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Wiring FUNCTION DATA BASE  ], coordinate = [ x = 58, y = 467, width = 230, height = 93 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ INFERENCE SECTION ], coordinate = [ x = 63, y = 629, width = 219, height = 93 ], link_type = [  ]

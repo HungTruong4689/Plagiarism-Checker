@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Preprocessing], coordinate = [ x = 238, y = 25, width = 130, height = 57 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Feature Extraction ], coordinate = [ x = 238, y = 110, width = 129, height = 69 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ CST Relation Identification ], coordinate = [ x = 229, y = 208, width = 145, height = 70 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Sentence Scoring ], coordinate = [ x = 237, y = 308, width = 130, height = 69 ], link_type = [  ]

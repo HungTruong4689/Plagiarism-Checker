@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ DO AN ISOMORPHIC COMPARISON OF SOIRCE MODEL WITH THE GENERATED MIODEL ], coordinate = [ x = 676, y = 176, width = 360, height = 107 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ IF THE COMPARISON SUCCEEDS ], coordinate = [ x = 707, y = 337, width = 298, height = 144 ], link_type = [ Decision(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ THE GENERATED MODEL IS VALID ], coordinate = [ x = 462, y = 575, width = 319, height = 40 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ THE GENERATED MODEL IS INVALID ], coordinate = [ x = 837, y = 575, width = 319, height = 40 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Receive Image ], coordinate = [ x = 170, y = 141, width = 696, height = 87 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ Preprocessing Needed ? ], coordinate = [ x = 178, y = 311, width = 678, height = 185 ], link_type = [ Decision(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Preprocess Image ], coordinate = [ x = 169, y = 578, width = 695, height = 88 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Detect Candidate Text Boxes ], coordinate = [ x = 168, y = 746, width = 696, height = 88 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Enhance Candidate Text Boxes ], coordinate = [ x = 167, y = 914, width = 696, height = 88 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Perform Character Recognition on Enhanced Candidate Text Boxes ], coordinate = [ x = 167, y = 1082, width = 696, height = 126 ], link_type = [  ]

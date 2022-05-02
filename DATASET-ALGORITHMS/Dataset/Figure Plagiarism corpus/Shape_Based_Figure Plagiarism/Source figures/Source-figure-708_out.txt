@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ Feature Storing ], coordinate = [ x = 45, y = 28, width = 104, height = 91 ], link_type = [ Next_RL(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Feature Exlramorr ], coordinate = [ x = 220, y = 32, width = 104, height = 92 ], link_type = [ Next_RL(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Image pre processing ], coordinate = [ x = 392, y = 34, width = 105, height = 92 ], link_type = [  ]

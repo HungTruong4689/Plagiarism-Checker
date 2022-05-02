@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ ADD DISPLACEMENT VECTORS ACQUIREDUSING ALL FLEXIBLE PROCEDURES ], coordinate = [ x = 128, y = 107, width = 422, height = 75 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DIVIDE IMAGE INTO BINS USING FLEX BINSCALING PARAMETERS ], coordinate = [ x = 128, y = 220, width = 423, height = 71 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ AVERAGE DISPLACEMENT VECTORSACQUIRED WITHIN EACH BIN ], coordinate = [ x = 128, y = 349, width = 422, height = 75 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ AVERAGE OUT DISPLACEMENT VECTORSOF NEIGHBORING BINS HAVING DATAWITH BINS LACKING DATA ], coordinate = [ x = 114, y = 465, width = 452, height = 92 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ AVERAGING ITERATIONS COMPLETE? ], coordinate = [ x = 221, y = 596, width = 238, height = 152 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ COMPLETE DISPLACEMENT ARRAYS ], coordinate = [ x = 128, y = 793, width = 422, height = 57 ], link_type = [ Next_TB(1 : shape6)  ]
+Shape6 : type = [Rectangle], text = [ ADJUST LOCATION OF TRANSFORMED AND WARPED MODEL PIXELS USING ARRAYS ], coordinate = [ x = 128, y = 881, width = 422, height = 71 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ INSERT OBJECT ], coordinate = [ x = 243, y = 987, width = 193, height = 56 ], link_type = [  ]

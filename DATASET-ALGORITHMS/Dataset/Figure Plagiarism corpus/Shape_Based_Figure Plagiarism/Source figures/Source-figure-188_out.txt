@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ TFACT DATA BASE ], coordinate = [ x = 64, y = 125, width = 393, height = 153 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ REGION DIVIDING SECTION ], coordinate = [ x = 64, y = 383, width = 392, height = 151 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ I IN-REGION SPACE WIRING FUNCTION GENERATING SECTION ], coordinate = [ x = 63, y = 640, width = 393, height = 155 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ WIRING FUNCTION DATA BASE ], coordinate = [ x = 61, y = 897, width = 393, height = 153 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [  INFERENCE SECTION ], coordinate = [ x = 70, y = 1174, width = 374, height = 152 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ test image ], coordinate = [ x = 707, y = 133, width = 164, height = 101 ], link_type = [ Next_TB(1 : shape3) ]
+Shape1 : type = [Rectangle], text = [ training images ], coordinate = [ x = 80, y = 160, width = 213, height = 101 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Train classifier ], coordinate = [ x = 62, y = 373, width = 246, height = 150 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Detect human ], coordinate = [ x = 666, y = 373, width = 245, height = 150 ], link_type = [ Next_RL(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ human ], coordinate = [ x = 962, y = 404, width = 132, height = 87 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ classifier ], coordinate = [ x = 346, y = 649, width = 238, height = 87 ], link_type = [  ]

@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ 4D ], coordinate = [ x = 110, y = 30, width = 76, height = 46 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Arrange favorite images in window openings in accordance with recipe such that the template score is maximized. ], coordinate = [ x = 17, y = 103, width = 275, height = 158 ], link_type = [  ]

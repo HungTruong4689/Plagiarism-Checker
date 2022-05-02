@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Agent A ], coordinate = [ x = 81, y = 5, width = 118, height = 34 ], link_type = [ Line(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Agent B ], coordinate = [ x = 320, y = 4, width = 126, height = 35 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Agent negotimiml protocol layer (NL) ], coordinate = [ x = 50, y = 56, width = 429, height = 38 ], link_type = [ Multi Line(1 : shape3, 2 : shape4) ]
+Shape3 : type = [Rectangle], text = [ C0 ], coordinate = [ x = 62, y = 113, width = 61, height = 34 ], link_type = [ Line(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ C1 ], coordinate = [ x = 402, y = 112, width = 63, height = 34 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ information transmission layer <TCP/UDP,HTTP,IIOP> ], coordinate = [ x = 19, y = 166, width = 494, height = 42 ], link_type = [  ]

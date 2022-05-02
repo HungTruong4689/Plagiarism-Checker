@@ -1,0 +1,2 @@
+Shape0 : type = [Rectangle], text = [ sumu(‘wwvl ], coordinate = [ x = 102, y = 151, width = 76, height = 52 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ smmnnsOvwu ], coordinate = [ x = 195, y = 150, width = 77, height = 55 ], link_type = [  ]

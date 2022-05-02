@@ -1,0 +1,3 @@
+Shape0 : type = [Rectangle], text = [ Markov Process ], coordinate = [ x = 74, y = 19, width = 177, height = 52 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Memoxyless Channel ], coordinate = [ x = 290, y = 19, width = 186, height = 53 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Viterbi Algorithm ], coordinate = [ x = 290, y = 153, width = 186, height = 52 ], link_type = [  ]

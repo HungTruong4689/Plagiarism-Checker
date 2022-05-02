@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ SEND REQUEST FOR iMAGE(S) ], coordinate = [ x = 53, y = 137, width = 686, height = 57 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ RECEIVE iMAGE(S) OF RETAIL ENVIRONMENT ], coordinate = [ x = 54, y = 236, width = 686, height = 57 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ IDENTIFY CANDIDATE PRODUCT iNSTANCE(S) ], coordinate = [ x = 54, y = 333, width = 686, height = 58 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ PERFORM OBJECT RECOGNITION ANALYSIS TO PROVIDE OBJECT RECOGNITION DATA ], coordinate = [ x = 54, y = 434, width = 685, height = 82 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ EXTRACT PLANOGRAM ], coordinate = [ x = 54, y = 556, width = 686, height = 55 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ COMPARE EXTRACTED PLANOGRAM TO TARGET PLANOGRAM ], coordinate = [ x = 54, y = 650, width = 685, height = 85 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ DETERMINE COST OF DIFFERENCES BETWEEN PLANOGRAMS ], coordinate = [ x = 55, y = 777, width = 684, height = 83 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ PERFORM ACTION(S) ], coordinate = [ x = 55, y = 901, width = 685, height = 57 ], link_type = [  ]

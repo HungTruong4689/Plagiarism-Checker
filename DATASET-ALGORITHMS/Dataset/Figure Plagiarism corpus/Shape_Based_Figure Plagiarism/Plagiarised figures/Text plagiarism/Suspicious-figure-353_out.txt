@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Form first interpolation normal line Nj-1and second interpolation normal line Nj ], coordinate = [ x = 159, y = 106, width = 458, height = 85 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine center Oj of arc Lj ], coordinate = [ x = 159, y = 240, width = 458, height = 53 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [  Form are L]as ], coordinate = [ x = 159, y = 342, width = 458, height = 54 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Parallel translate interpolation uncompleted‘ portion 85 to compensate position ], coordinate = [ x = 159, y = 444, width = 459, height = 81 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Diamond], text = [ S12ls curve interpolation completed wit respectto all |i)nks Tj ], coordinate = [ x = 188, y = 575, width = 401, height = 147 ], link_type = [  ]

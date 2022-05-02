@@ -1,0 +1,4 @@
+Shape0 : type = [SQUARE], text = [ Ready Motor], coordinate = [ x = 186, y = 27, width = 103, height = 113 ], link_type = [  ]
+Shape1 : type = [SQUARE], text = [ Reports motor], coordinate = [ x = 353, y = 26, width = 103, height = 112 ], link_type = [  ]
+Shape2 : type = [SQUARE], text = [ Confirmation Motor], coordinate = [ x = 509, y = 26, width = 131, height = 141 ], link_type = [  ]
+Shape3 : type = [SQUARE], text = [ Examining Motor], coordinate = [ x = 16, y = 40, width = 93, height = 103 ], link_type = [  ]

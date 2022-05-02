@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [  ], coordinate = [ x = 139, y = 38, width = 170, height = 35 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [  ], coordinate = [ x = 137, y = 80, width = 174, height = 35 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ ], coordinate = [ x = 138, y = 123, width = 172, height = 37 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [  ], coordinate = [ x = 8, y = 211, width = 129, height = 36 ], link_type = [ Next_LR(1 : shape4) ]
+Shape4 : type = [Diamond], text = [  ], coordinate = [ x = 177, y = 196, width = 85, height = 64 ], link_type = [ Decision(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [  ], coordinate = [ x = 300, y = 211, width = 155, height = 35 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ optical character recognition of image ], coordinate = [ x = 68, y = 54, width = 447, height = 156 ], link_type = [ Next_TB_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ create histogram based on text heights ], coordinate = [ x = 69, y = 275, width = 447, height = 157 ], link_type = [ Next_TB_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ compare histogram to training set histograms ], coordinate = [ x = 69, y = 497, width = 448, height = 156 ], link_type = [ Next_TB_TB(1 : shape3) ]
+Shape3 : type = [Diamond], text = [ ?], coordinate = [ x = 138, y = 719, width = 312, height = 318 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ classify as non-slide image ], coordinate = [ x = 203, y = 1105, width = 185, height = 155 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [  classify as non-slide image ], coordinate = [ x = 555, y = 1104, width = 187, height = 156 ], link_type = [  ]

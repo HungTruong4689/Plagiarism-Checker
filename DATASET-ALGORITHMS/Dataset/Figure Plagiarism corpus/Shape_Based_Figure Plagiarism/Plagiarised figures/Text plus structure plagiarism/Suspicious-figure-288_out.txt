@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ DISPLAY MEANS ], coordinate = [ x = 223, y = 111, width = 149, height = 62 ], link_type = [ Next_BT(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ I/O PORT  ], coordinate = [ x = 559, y = 130, width = 104, height = 38 ], link_type = [ Double Arrow(1:shape3) ]
+Shape2 : type = [Rectangle], text = [ DATA PROCESSING MEANS ], coordinate = [ x = 230, y = 224, width = 136, height = 118 ], link_type = [ Multi-Double Arrow(1 : shape3, 2:shape4) ]
+Shape3 : type = [Rectangle], text = [ Memory means network interface means ], coordinate = [ x = 24, y = 388, width = 108, height = 64 ], link_type = [ Double Arrow(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ I/O PORT ], coordinate = [ x = 207, y = 389, width = 182, height = 58 ], link_type = [ ]

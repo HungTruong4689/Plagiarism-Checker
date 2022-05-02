@@ -1,0 +1,8 @@
+Shape0 : type = [Parallelogram], text = [ Conversalion Rules], coordinate = [ x = 291, y = 44, width = 211, height = 94 ], link_type = [ Double Arrow(1 : shape1)  ]
+Shape1 : type = [Parallelogram], text = [ Response Module ], coordinate = [ x = 291, y = 177, width = 210, height = 88 ], link_type = [ Double Arrow(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ GUI], coordinate = [ x = 590, y = 191, width = 108, height = 87 ], link_type = [ Double Arrow(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Character Module], coordinate = [ x = 291, y = 312, width = 211, height = 87 ], link_type = [ Double Arrow(1 : shape5)  ]
+Shape4 : type = [Rectangle], text = [ USER], coordinate = [ x = 590, y = 332, width = 108, height = 87 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Suggestion Module ], coordinate = [ x = 292, y = 445, width = 210, height = 87 ], link_type = [Double Arrow(1 : shape6)    ]
+Shape6 : type = [Rectangle], text = [ Script Generator], coordinate = [ x = 292, y = 568, width = 209, height = 88 ], link_type = [ Double Arrow(1 : shape7)   ]
+Shape7 : type = [Rectangle], text = [ Script Database ], coordinate = [ x = 331, y = 699, width = 135, height = 94 ], link_type = [  ]

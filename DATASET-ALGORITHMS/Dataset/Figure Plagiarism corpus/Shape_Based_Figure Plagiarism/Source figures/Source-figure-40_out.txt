@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ Communication connection(s)170 ], coordinate = [ x = 680, y = 148, width = 410, height = 111 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Input device(s)150 ], coordinate = [ x = 681, y = 281, width = 409, height = 111 ], link_type = [  Line(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Processing unit ], coordinate = [ x = 91, y = 400, width = 297, height = 168 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Output device(s)160 ], coordinate = [ x = 681, y = 414, width = 411, height = 110 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Storage 140 ], coordinate = [ x = 682, y = 546, width = 409, height = 111 ], link_type = [  ]

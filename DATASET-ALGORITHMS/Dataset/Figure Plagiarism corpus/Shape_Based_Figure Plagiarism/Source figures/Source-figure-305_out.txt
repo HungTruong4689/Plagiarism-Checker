@@ -1,0 +1,5 @@
+Shape0 : type = [Parallelogram], text = [ Given: Token Region Map NxM Mask 1000 ], coordinate = [ x = 153, y = 40, width = 655, height = 108 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Move the NxM mask over the token region map 1002 ], coordinate = [ x = 180, y = 174, width = 601, height = 80 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Calculate a list of all the token regions within the mask. Optionally filter out tokens with a seed size less than K (eg. 3)1004 ], coordinate = [ x = 84, y = 340, width = 796, height = 107 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ For each reasonable set of four token regions (A, B, C, D) in the list, test if they form an x-junction and store valid candidates 1006 ], coordinate = [ x = 84, y = 478, width = 796, height = 109 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Output is a list of X-junctions and their constituent token regions 1008 ], coordinate = [ x = 267, y = 651, width = 430, height = 143 ], link_type = [  ]

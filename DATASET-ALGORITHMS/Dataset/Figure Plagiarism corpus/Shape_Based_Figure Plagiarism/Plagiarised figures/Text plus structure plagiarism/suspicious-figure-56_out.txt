@@ -1,0 +1,6 @@
+Shape0 : type = [Parallelogram], text = [ Given: Spectral ratio Standard edge image Image area 500 ], coordinate = [ x = 291, y = 119, width = 755, height = 134 ], link_type = [ Next_TB((1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ l Walk along the edge segment. At each step, select one or more pairs of  pixels or token regions. Each pair contains a pixel or token region from each side of the edge.502 ], coordinate = [ x = 286, y = 310, width = 765, height = 135 ], link_type = [ Next_TB((1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ For each pair of pixels or tcken regions, calculate the spectral ratio S =Darkl(Bright - Dark) or its nonnalized version. Accumulate the set of ratios along the edge segment.504 ], coordinate = [ x = 269, y = 488, width = 799, height = 134 ], link_type = [ Next_TB((1 : shape3) ]
+Shape3 : type = [Diamond], text = [ Does the accumulated set of spectral ratios match the given spectral ratio? 506 ], coordinate = [ x = 309, y = 662, width = 718, height = 189 ], link_type = [ Decision(1 : shape4, 2 : shape5) ]
+Shape4 : type = [Rectangle], text = [ Material Edge 510 ], coordinate = [ x = 62, y = 706, width = 152, height = 101 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Illumination Edge 508 ], coordinate = [ x = 1120, y = 704, width = 185, height = 102 ], link_type = [  ]

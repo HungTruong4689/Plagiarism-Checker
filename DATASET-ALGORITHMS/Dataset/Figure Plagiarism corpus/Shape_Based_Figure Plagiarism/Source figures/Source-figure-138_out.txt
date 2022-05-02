@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ identify semantic tags that correspond to the queries ], coordinate = [ x = 176, y = 43, width = 576, height = 114 ], link_type = [ Next_TB_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine semantic patterns of the queries based on the semantic tags ], coordinate = [ x = 176, y = 220, width = 571, height = 113 ], link_type = [ Next_TB_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Identify semantic patterns that appear at arate that at least meets a predetermined threshold ], coordinate = [ x = 177, y = 396, width = 571, height = 114 ], link_type = [ Next_TB_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determine user behaviors corresponding to the semantic patterns ], coordinate = [ x = 177, y = 572, width = 571, height = 114 ], link_type = [ Next_TB_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Determine user intention attributes based on the user behaviors ], coordinate = [ x = 177, y = 749, width = 571, height = 112 ], link_type = [ Next_TB_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Determine filtering and ranking operations based on user intention attributes   ], coordinate = [ x = 177, y = 925, width = 571, height = 112 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ GENERATE ANALYSIS TARGET DATA PAIR FROMPLURAL PIECES OF ANALYSIS TARGET DATA ], coordinate = [ x = 33, y = 197, width = 753, height = 86 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ GENERATE ANALYSIS VIEW POINTFOR ANALYSIS TARGET DATA PAIR ], coordinate = [ x = 32, y = 335, width = 754, height = 87 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Determine POSITIVE EXAMPLE SET FOR SET OFANALYSIS TARGET DATA PAIR AND ANALYSIS VIEWPOINT ], coordinate = [ x = 30, y = 476, width = 754, height = 86 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ GENERATE CHARACTERISTIG EXPRESSION LIST FROM ANALYSIS TARGET DATA PAIR BASED ON ANALYSIS VIEWPOINT ], coordinate = [ x = 32, y = 616, width = 754, height = 85 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ PROVIDE CHARACTERISTIC EXPRESSION RANKS FOR CHARACTERISTIC EXPRESSION LIST ], coordinate = [ x = 31, y = 754, width = 753, height = 86 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ EVALUATE CHARACTERISTIC EXPRESSION RANK VARIATION AMONG CHARACTERISTIC EXPRESSION LISTS ], coordinate = [ x = 32, y = 894, width = 752, height = 84 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ EXTRACT SET OF ANALYSIS TARGET DATA PAIR AND ANALYSIS VIEWPOINT WITH LARGE VARIATION ], coordinate = [ x = 33, y = 1032, width = 751, height = 88 ], link_type = [ Next_TB(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ OUTPUT MINING RESULT OF ANALYSIS TARGET DATA PAIR AND ANALYSIS VIEWPOINT WITH LARGE VARIATION ], coordinate = [ x = 32, y = 1173, width = 754, height = 87 ], link_type = [  ]

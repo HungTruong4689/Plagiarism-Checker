@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ START ], coordinate = [ x = 194, y = 17, width = 48, height = 30 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ CAPTURE MAGE on IMAGE SEQUENCE am ], coordinate = [ x = 79, y = 62, width = 274, height = 42 ], link_type = [ %s\%s_out.txt(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ M.BINARIZE TEXT REGIONS ‘.T___.j?‘_'7 ], coordinate = [ x = 79, y = 233, width = 274, height = 39 ], link_type = [ (1 : shape3, 2 : shape3) ]
+Shape3 : type = [Rectangle], text = [ AGGLOMERATE OCR RESULTS ], coordinate = [ x = 80, y = 347, width = 272, height = 38 ], link_type = [  ]

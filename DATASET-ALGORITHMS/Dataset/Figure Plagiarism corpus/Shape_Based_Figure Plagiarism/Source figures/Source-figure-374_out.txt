@@ -1,0 +1,5 @@
+Shape0 : type = [Rectangle], text = [ DEFINE SIMILARITY TRANSFORM ], coordinate = [ x = 118, y = 112, width = 408, height = 62 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ CALCULATE 3D COORDINATE ], coordinate = [ x = 118, y = 218, width = 411, height = 64 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ CALCULATE R. I, 8 OF SIMTLARITY TRANSFORM ], coordinate = [ x = 118, y = 325, width = 410, height = 84 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ DEFINE DIFFERENCE FUNCTION ], coordinate = [ x = 118, y = 453, width = 411, height = 63 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ DEFINE COST FUNCTION ], coordinate = [ x = 118, y = 559, width = 411, height = 63 ], link_type = [  ]

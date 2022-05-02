@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><document reference="Suspicious-figure-307.txt" language="en"><feature name="tagged-document" reference="Suspicious-figure-307.xml" language="en" />
+
+<feature name="tagged-document" reference="suspicious-document-307_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType ,Change link type Type ,Text Modification:Paraphrasing "obfuscation="Strong"this_component="Shape0"source_reference="Source-figure-725_out.txt" source_component="Shape0" 
+
+<feature name="tagged-document" reference="suspicious-document-307_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType ,Text Modification:Paraphrasing "obfuscation="Strong"this_component="Shape1"source_reference="Source-figure-725_out.txt" source_component="Shape1" 
+
+<feature name="tagged-document" reference="suspicious-document-307_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType ,Change link type Type "obfuscation="Strong"this_component="Shape2"source_reference="Source-figure-725_out.txt" source_component="Shape2" 
+
+<feature name="tagged-document" reference="suspicious-document-307_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType ,Change link type Type "obfuscation="Strong"this_component="Shape3"source_reference="Source-figure-725_out.txt" source_component="Shape3" 
+<feature name="tagged-document" reference="suspicious-document-307_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType ,Change link type Type "obfuscation="Strong"this_component="Shape4"source_reference="Source-figure-725_out.txt" source_component="Shape4" 
+<feature name="tagged-document" reference="suspicious-document-307_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType "obfuscation="Medium"this_component="Shape5"source_reference="Source-figure-725_out.txt" source_component="Shape5" 
+
+<feature name="tagged-document" reference="suspicious-document-307_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType ,Change link type Type "obfuscation="Strong"this_component="Shape6"source_reference="Source-figure-725_out.txt" source_component="Shape6" 
+
+<feature name="tagged-document" reference="suspicious-document-307_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType "obfuscation="Strong"this_component="Shape7"source_reference="Source-figure-725_out.txt" source_component="Shape7" 
+
+<feature name="tagged-document" reference="suspicious-document-307_out.txt" language="en" />
+  <feature name="artificial-plagiarism" plag_type=" stucture Modification:  Change shape typeType "obfuscation="Strong"this_component="Shape8"source_reference="Source-figure-725_out.txt" source_component="Shape8" 
+
+</document>

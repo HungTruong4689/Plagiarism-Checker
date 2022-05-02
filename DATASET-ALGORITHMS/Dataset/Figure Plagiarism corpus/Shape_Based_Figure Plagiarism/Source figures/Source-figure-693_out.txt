@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ XML File of negative and positive Image Training Data ], coordinate = [ x = 635, y = 281, width = 385, height = 125 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Image Library specific file that contains the sample images for RIS detection ], coordinate = [ x = 635, y = 471, width = 385, height = 118 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ External Dataset ], coordinate = [ x = 635, y = 645, width = 385, height = 59 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Response List ], coordinate = [ x = 635, y = 760, width = 385, height = 58 ], link_type = [  ]

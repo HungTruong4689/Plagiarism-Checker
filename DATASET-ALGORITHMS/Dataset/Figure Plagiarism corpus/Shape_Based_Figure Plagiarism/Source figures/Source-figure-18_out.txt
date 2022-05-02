@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Tagger ], coordinate = [ x = 201, y = 40, width = 132, height = 37 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ filter ], coordinate = [ x = 202, y = 122, width = 132, height = 36 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Feature defintion ], coordinate = [ x = 202, y = 182, width = 132, height = 37 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Learnig model ], coordinate = [ x = 204, y = 253, width = 133, height = 36 ], link_type = [  ]

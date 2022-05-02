@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ GENERATE JAVA MODEL FROM ONTOLOGY MODEL ], coordinate = [ x = 404, y = 29, width = 362, height = 74 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ LOAD THE CLASS OF THE GENERATED INTERFACE IN MEMORY ], coordinate = [ x = 404, y = 188, width = 362, height = 74 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ THROW ERROR AND END ], coordinate = [ x = 847, y = 254, width = 242, height = 74 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ GET THE ONTOLOGY CLASS ANNOTATION FROM THAT CLASS ], coordinate = [ x = 404, y = 348, width = 362, height = 74 ], link_type = [  ]
+Shape4 : type = [Diamond], text = [ IS THE CLASS ANNOTATION  ], coordinate = [ x = 839, y = 382, width = 259, height = 164 ], link_type = [ ]
+Shape5 : type = [Rectangle], text = [ GET THE BASE NAME SPACE FROM THE URI OF THE ANNOTATION ], coordinate = [ x = 404, y = 507, width = 362, height = 73 ], link_type = [  ]

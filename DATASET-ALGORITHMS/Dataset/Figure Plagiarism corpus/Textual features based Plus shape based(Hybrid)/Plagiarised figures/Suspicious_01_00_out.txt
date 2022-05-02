@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ OPERATOR ASSISTANT AGENT ], coordinate = [ x = 103, y = 7, width = 93, height = 58 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DIAGNOSIS AGENT ], coordinate = [ x = 97, y = 102, width = 104, height = 49 ], link_type = [ Multi Line(1 : shape2, 2 : shape3, 3 : shape4) ]
+Shape2 : type = [Rectangle], text = [ ENN ], coordinate = [ x = 7, y = 202, width = 78, height = 43 ], link_type = [ Double Arrow(1 : shape5) ]
+Shape3 : type = [Rectangle], text = [ SVM ], coordinate = [ x = 113, y = 202, width = 73, height = 43 ], link_type = [ Double Arrow(1 : shape5) ]
+Shape4 : type = [Rectangle], text = [ MLP ], coordinate = [ x = 228, y = 202, width = 73, height = 43 ], link_type = [ Double Arrow(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ FEATURE EXTRACTION AGENT ], coordinate = [ x = 97, y = 312, width = 104, height = 58 ], link_type = [  ]

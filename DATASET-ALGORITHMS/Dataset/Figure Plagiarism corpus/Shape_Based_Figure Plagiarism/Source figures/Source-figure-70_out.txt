@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Criteria ], coordinate = [ x = 42, y = 116, width = 189, height = 115 ], link_type = [ Next_LR(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Search Engine ], coordinate = [ x = 330, y = 111, width = 338, height = 89 ], link_type = [ Multi Flow(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Results ], coordinate = [ x = 747, y = 104, width = 120, height = 144 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Items ], coordinate = [ x = 434, y = 247, width = 133, height = 76 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Use a set of predetermined rules and dictionaries to determinethe extracted results for the collection of text ], coordinate = [ x = 72, y = 45, width = 720, height = 83 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Label the correct results and the incorrect results in theextracted results based on a user input ], coordinate = [ x = 72, y = 178, width = 720, height = 83 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Process the extracted results using the EM algorithm tomaximize the F-score for the extractor ], coordinate = [ x = 72, y = 311, width = 720, height = 83 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Output the set of candidate dictionary entries ], coordinate = [ x = 72, y = 444, width = 720, height = 84 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Receive a user input selecting entries from the set of candidate entries ], coordinate = [ x = 72, y = 578, width = 720, height = 83 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Remove the selected entries from the dictionaries ], coordinate = [ x = 72, y = 711, width = 720, height = 83 ], link_type = [  ]

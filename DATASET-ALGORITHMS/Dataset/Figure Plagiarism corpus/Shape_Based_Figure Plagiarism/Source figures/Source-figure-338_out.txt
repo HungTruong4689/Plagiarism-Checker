@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Receive Multiple Images including Candidate Text Region ], coordinate = [ x = 152, y = 129, width = 623, height = 115 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Enlarge Candidate Text Region in Each image (Optional) ], coordinate = [ x = 151, y = 334, width = 623, height = 114 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Super sample Candidate Text Regions ], coordinate = [ x = 151, y = 539, width = 622, height = 113 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Align Candidate Text to Grid ], coordinate = [ x = 150, y = 742, width = 622, height = 114 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Align Pixels of Each Image onl the Grid ], coordinate = [ x = 149, y = 946, width = 623, height = 114 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Combine Aligned image to Produce Superresolution Image ], coordinate = [ x = 148, y = 1150, width = 623, height = 114 ], link_type = [  ]

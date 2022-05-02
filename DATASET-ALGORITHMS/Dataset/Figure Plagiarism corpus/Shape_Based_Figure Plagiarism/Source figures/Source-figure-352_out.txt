@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ DATA STORAG ESYSTEM ], coordinate = [ x = 99, y = 30, width = 327, height = 84 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ DATA PROCESSING SYSTEM ], coordinate = [ x = 100, y = 149, width = 326, height = 85 ], link_type = [ Multi-Double Arrow(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ PERIPHERAL SYSTEM ], coordinate = [ x = 482, y = 149, width = 327, height = 85 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ USER INTERFACE SYSTEM ], coordinate = [ x = 100, y = 268, width = 326, height = 86 ], link_type = [  ]

@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ PERFORM ACCESS CONTROL LIST (ACL)I CHECKING TO VERIFY THAT THE CLIENT ISI AUTHORIZED TO ACCESS THE URL IN THE IMANNER REQUESTED  ], coordinate = [ x = 214, y = 127, width = 434, height = 116 ], link_type = [ Next(1 : shape1) ]
+Shape1 : type = [Diamond], text = [ DID THE CLIENT PASS AUTHORIZATION? ], coordinate = [ x = 275, y = 289, width = 314, height = 114 ], link_type = [ Decision(1 : shape2, 2 : shape3) ]
+Shape2 : type = [Rectangle], text = [ ALLOW THE REQUEST TO PROCEED ], coordinate = [ x = 79, y = 449, width = 298, height = 76 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ REJECT THE REQUEST ], coordinate = [ x = 487, y = 449, width = 299, height = 62 ], link_type = [  ]

@@ -1,0 +1,8 @@
+Shape0 : type = [Rectangle], text = [ Tokenisation ], coordinate = [ x = 290, y = 58, width = 264, height = 103 ], link_type = [ Line(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Amended File ], coordinate = [ x = 290, y = 187, width = 265, height = 92 ], link_type = [ Line(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Named Entity Recognition ], coordinate = [ x = 290, y = 328, width = 265, height = 103 ], link_type = [ Line(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Amended File ], coordinate = [ x = 290, y = 458, width = 265, height = 69 ], link_type = [ Line(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Term Normalisation ], coordinate = [ x = 292, y = 600, width = 264, height = 102 ], link_type = [ Line(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Amended File  ], coordinate = [ x = 291, y = 742, width = 265, height = 74 ], link_type = [ Line(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Relation Extraction ], coordinate = [ x = 293, y = 883, width = 264, height = 103 ], link_type = [ Line(1 : shape7) ]
+Shape7 : type = [Rectangle], text = [ Amended File ], coordinate = [ x = 293, y = 1013, width = 264, height = 72 ], link_type = [  ]

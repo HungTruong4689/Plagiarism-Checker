@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Start 612 ], coordinate = [ x = 116, y = 2, width = 123, height = 70 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine Topo Nodes Representing Managed Objects ], coordinate = [ x = 77, y = 148, width = 185, height = 174 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Update Alarm Count ], coordinate = [ x = 88, y = 397, width = 164, height = 134 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Propagate Alarms to Relevant Nodes ], coordinate = [ x = 88, y = 627, width = 164, height = 132 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Store Alarm Information in Database ], coordinate = [ x = 89, y = 857, width = 164, height = 133 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Send Events to EDS ], coordinate = [ x = 90, y = 1087, width = 163, height = 133 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ End ], coordinate = [ x = 119, y = 1316, width = 106, height = 71 ], link_type = [  ]

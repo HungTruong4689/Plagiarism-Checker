@@ -1,0 +1,4 @@
+Shape0 : type = [Rectangle], text = [ Service Monitor ], coordinate = [ x = 10, y = 2, width = 98, height = 59 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Service  Analyzer ], coordinate = [ x = 277, y = 2, width = 104, height = 59 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [Component Measurer ], coordinate = [ x = 20, y = 108, width = 80, height = 42 ], link_type = [  ]
+Shape3 : type = [Rectangle], text = [ Service Arbiter ], coordinate = [ x = 256, y = 113, width = 129, height = 58 ], link_type = [  ]

@@ -1,0 +1,6 @@
+Shape0 : type = [Rectangle], text = [ Pre-processing(Extracting Text.Figures. Tables. Captions) ], coordinate = [ x = 293, y = 27, width = 328, height = 136 ], link_type = [ Next_TB(1 : shape2) ]
+Shape1 : type = [Rectangle], text = [ Multi document Text Summarizer ], coordinate = [ x = 647, y = 190, width = 252, height = 93 ], link_type = [ Next_TB(1 : shape3) ]
+Shape2 : type = [Rectangle], text = [ Scoring and Ranking of Figures/Tables(Global and Local Scoring Measures) ], coordinate = [ x = 294, y = 242, width = 326, height = 152 ], link_type = [ Next_TB(1 : shape4) ]
+Shape3 : type = [Rectangle], text = [ Text only summary) ], coordinate = [ x = 709, y = 348, width = 179, height = 85 ], link_type = [  ]
+Shape4 : type = [Rectangle], text = [ Integration(Inserting Figures/Tables into text-only summary) ], coordinate = [ x = 287, y = 446, width = 327, height = 135 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Final Summary ], coordinate = [ x = 366, y = 616, width = 178, height = 84 ], link_type = [  ]

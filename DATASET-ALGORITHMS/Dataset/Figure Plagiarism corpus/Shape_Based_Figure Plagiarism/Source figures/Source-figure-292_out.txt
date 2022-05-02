@@ -1,0 +1,6 @@
+Shape0 : type = [Parallelogram], text = [ Given:List of Token Regions Maximum distance D (eg.D = 20)200 ], coordinate = [ x = 14, y = 70, width = 474, height = 159 ], link_type = [  ]
+Shape1 : type = [Rectangle], text = [ Find all perimeter pixels of all tokenregions.202 ], coordinate = [ x = 559, y = 96, width = 379, height = 105 ], link_type = [  ]
+Shape2 : type = [Rectangle], text = [ Let A be the next token region in the list 204 ], coordinate = [ x = 50, y = 315, width = 513, height = 79 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ For each perimeter pixel in token A find the closest perimeter pixel in every other token that is within the maximum distance D, 206 ], coordinate = [ x = 89, y = 434, width = 435, height = 160 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ For token A build a list of its neighborsby compiling all the unique token IDs found in the perimeter pixel matching step.208 ], coordinate = [ x = 90, y = 665, width = 434, height = 160 ], link_type = [  ]
+Shape5 : type = [Rectangle], text = [ Return Token Graph 214 ], coordinate = [ x = 998, y = 726, width = 257, height = 89 ], link_type = [  ]

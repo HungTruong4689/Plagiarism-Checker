@@ -1,0 +1,4 @@
+Shape0 : type = [SQUARE], text = [ DISPLAY MEANS], coordinate = [ x = 37, y = 9, width = 132, height = 142 ], link_type = [ Double Arrow(1 : shape1) ]
+Shape1 : type = [SQUARE], text = [ DATA PROCESSING MEANS ], coordinate = [ x = 279, y = 12, width = 122, height = 132 ], link_type = [  ]
+Shape2 : type = [SQUARE], text = [ MeMORY means network interface means ], coordinate = [ x = 33, y = 231, width = 122, height = 132 ], link_type = [ Double Arrow(1 : shape3) ]
+Shape3 : type = [SQUARE], text = [ 1/0 PORT ], coordinate = [ x = 253, y = 227, width = 151, height = 161 ], link_type = [  ]

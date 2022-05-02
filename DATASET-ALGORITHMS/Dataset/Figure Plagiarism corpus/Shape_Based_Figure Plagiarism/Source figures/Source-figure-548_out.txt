@@ -1,0 +1,7 @@
+Shape0 : type = [Rectangle], text = [ Identify a face in the image ], coordinate = [ x = 84, y = 37, width = 304, height = 75 ], link_type = [ Next_TB(1 : shape1) ]
+Shape1 : type = [Rectangle], text = [ Determine the scale of the identified face ], coordinate = [ x = 81, y = 165, width = 305, height = 96 ], link_type = [ Next_TB(1 : shape2) ]
+Shape2 : type = [Rectangle], text = [ Resize any output sections based on the determined scale ], coordinate = [ x = 85, y = 342, width = 304, height = 118 ], link_type = [ Next_TB(1 : shape3) ]
+Shape3 : type = [Rectangle], text = [ Determine the location of the face relative to output section ], coordinate = [ x = 84, y = 527, width = 304, height = 118 ], link_type = [ Next_TB(1 : shape4) ]
+Shape4 : type = [Rectangle], text = [ Use said location to determine the likely class of clothing ], coordinate = [ x = 85, y = 720, width = 304, height = 143 ], link_type = [ Next_TB(1 : shape5) ]
+Shape5 : type = [Rectangle], text = [ Determine an approximate age of the model and/or the sex of the model ], coordinate = [ x = 85, y = 933, width = 304, height = 145 ], link_type = [ Next_TB(1 : shape6) ]
+Shape6 : type = [Rectangle], text = [ Store information determined in stepsS 308 and S310 ], coordinate = [ x = 85, y = 1149, width = 304, height = 123 ], link_type = [  ]
